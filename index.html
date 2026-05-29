@@ -28,7 +28,6 @@ header{background:var(--black);color:var(--white)}
 .tab-btn:hover{color:var(--white)}
 .tab-btn.active{color:var(--red);border-bottom-color:var(--red)}
 .tab-content{display:none}.tab-content.active{display:block}
-/* TENDENCIAS */
 .container{max-width:860px;margin:0 auto;padding:32px 24px}
 .week-card{background:var(--card);border:1px solid var(--border);border-radius:12px;margin-bottom:12px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.04)}
 .week-header{display:flex;align-items:center;justify-content:space-between;padding:18px 22px;cursor:pointer;user-select:none;transition:background .15s}
@@ -58,17 +57,15 @@ header{background:var(--black);color:var(--white)}
 .trend-content{flex:1}
 .trend-name{font-size:14px;font-weight:600;margin-bottom:4px}
 .trend-why{font-size:13px;color:var(--t2);line-height:1.5;margin-bottom:6px}
-.trend-meta-row { display:flex; gap:8px; margin-bottom:3px; align-items:baseline; }
-.trend-meta-label { font-family:'Space Mono',monospace; font-size:9px; font-weight:700; color:var(--t3); text-transform:uppercase; letter-spacing:.06em; min-width:76px; padding-top:1px; }
-.trend-meta-val { font-size:12px; color:var(--t2); line-height:1.4; flex:1; }
-
+.trend-meta-row{display:flex;gap:8px;margin-bottom:3px;align-items:baseline}
+.trend-meta-label{font-family:'Space Mono',monospace;font-size:9px;font-weight:700;color:var(--t3);text-transform:uppercase;letter-spacing:.06em;min-width:76px;padding-top:1px}
+.trend-meta-val{font-size:12px;color:var(--t2);line-height:1.4;flex:1}
 .trend-tags{display:flex;flex-wrap:wrap;gap:6px}
 .tag{font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px;background:var(--bg);color:var(--t2)}
 .tag.channel{background:#EBF7FF;color:#2A7AB5}
 .tag.format{background:#F3EEFF;color:#6B4DB8}
 .tag.brand{background:#FEF1EC;color:#C05A30}
 .empty-state{text-align:center;padding:24px;color:var(--t3);font-size:13px}
-/* CALENDARIO */
 #tab-calendar .cal-wrap{max-width:1100px;margin:0 auto;padding:0 24px 40px}
 .filters-bar{background:var(--card);border:1px solid var(--border);border-radius:12px;margin:24px 0 20px;overflow:hidden}
 .filters-header{display:flex;align-items:center;justify-content:space-between;padding:14px 20px;cursor:pointer;user-select:none}
@@ -126,7 +123,6 @@ header{background:var(--black);color:var(--white)}
 .cal-clients{display:flex;flex-wrap:wrap;gap:3px;margin-top:6px}
 .ctag{font-size:9px;font-weight:700;background:var(--bg);color:var(--t2);padding:2px 6px;border-radius:10px;border:1px solid var(--border)}
 .no-results{text-align:center;padding:60px 24px;color:var(--t3);font-size:14px}
-/* MODAL */
 .modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:1000;align-items:center;justify-content:center;padding:20px}
 .modal-overlay.open{display:flex}
 .modal{background:var(--white);border-radius:16px;width:100%;max-width:580px;max-height:90vh;overflow-y:auto;position:relative;animation:modalIn .2s ease}
@@ -152,76 +148,24 @@ header{background:var(--black);color:var(--white)}
 .mchip{font-size:11px;font-weight:600;background:var(--bg);color:var(--t2);padding:3px 9px;border-radius:20px;border:1px solid var(--border)}
 .mclients{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:10px}
 .mclient{font-size:11px;font-weight:700;background:var(--black);color:var(--white);padding:3px 10px;border-radius:20px}
-.mclient-brief{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px 12px;margin-top:8px;margin-bottom:8px}.mclient-brief-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:5px}.mclient-brief-name{font-size:12px;font-weight:700;color:var(--t1)}.mclient-brief-canal{font-size:10px;font-weight:600;background:#EBF7FF;color:#2A7AB5;padding:2px 8px;border-radius:20px}.mclient-brief-angulo{font-size:11px;color:var(--t2);margin-bottom:6px;font-style:italic}.mclient-brief-copy{background:var(--white);border:1px solid var(--border);border-left:3px solid var(--red);border-radius:6px;padding:8px 10px;font-size:12px;color:var(--t1);line-height:1.5;cursor:pointer;position:relative;word-break:break-word}.no-client-note{font-size:12px;color:var(--t3);font-style:italic}
-/* SUBGROUPS in transversal */
-.subgroup { margin-bottom: 14px; border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
-.subgroup-header { display: flex; align-items: center; justify-content: space-between; padding: 9px 14px; cursor: pointer; user-select: none; }
-.subgroup-label { font-size: 12px; font-weight: 700; }
-.subgroup-count { font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 20px; opacity: .8; }
-.subgroup-chevron { font-size: 10px; transition: transform .2s; }
-.subgroup.open .subgroup-chevron { transform: rotate(180deg); }
-.subgroup-body { display: none; border-top: 1px solid var(--border); background: var(--card); }
-.subgroup.open .subgroup-body { display: block; }
-.subgroup-body .trend-item { padding: 12px 14px; }
-.subgroup-body .trend-item:last-child { border-bottom: none; }
-
-/* TRENDS FILTERS — same style as calendar */
-.trends-filters-wrap { max-width: 860px; margin: 24px auto 0; padding: 0 24px; }
-
-/* SOURCES */
-.trend-sources{margin-top:6px}
-.sources-toggle{background:none;border:none;color:var(--t3);font-size:11px;font-weight:600;cursor:pointer;padding:0;font-family:'DM Sans',sans-serif;display:flex;align-items:center;gap:4px;transition:color .15s}
-.sources-toggle:hover{color:var(--red)}
-.sources-list{display:none;margin-top:6px;padding:8px 10px;background:var(--bg);border-radius:6px;border-left:2px solid var(--border)}
-.sources-list.open{display:block}
-.source-item{display:flex;align-items:baseline;gap:6px;padding:3px 0}
-.source-num{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);min-width:14px}
-.source-link{font-size:11px;color:var(--blue);text-decoration:none;line-height:1.4;word-break:break-all}
-.source-link:hover{text-decoration:underline;color:var(--red)}
-.source-title{font-size:11px;color:var(--t2)}
-
-/* FINANCE SECTION */
-.finance-section{border:1px solid #D4EDDA;border-radius:10px;background:#F6FDF7;margin:0 22px 16px;overflow:hidden}
-.finance-header{display:flex;align-items:center;gap:8px;padding:12px 16px;cursor:pointer;user-select:none}
-.finance-header:hover{background:#EDFAF0}
-.finance-icon{font-size:16px}
-.finance-title{font-size:13px;font-weight:700;color:#1A6B30;flex:1}
-.finance-count{font-size:11px;font-weight:700;background:#D4EDDA;color:#1A6B30;padding:2px 8px;border-radius:20px}
-.finance-chevron{font-size:11px;color:#4CAF50;transition:transform .2s}
-.finance-section.open .finance-chevron{transform:rotate(180deg)}
-.finance-body{display:none;padding:0 16px 14px}
-.finance-section.open .finance-body{display:block}
-.finance-item{padding:10px 0;border-bottom:1px solid #D4EDDA}
-.finance-item:last-child{border-bottom:none}
-.finance-item-top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:4px}
-.finance-name{font-size:13px;font-weight:700;color:#1A3A20;flex:1}
-.finance-flag{font-size:14px}
-.finance-countries{display:flex;gap:3px;flex-wrap:wrap;margin-bottom:2px}
-.finance-why{font-size:12px;color:#2D5A3D;line-height:1.5;margin-bottom:6px}
-.finance-action{background:#D4EDDA;border-left:3px solid #4CAF50;border-radius:6px;padding:7px 10px;font-size:11px;color:#1A3A20;line-height:1.5;font-style:italic}
-.finance-type{font-size:9px;font-weight:700;padding:2px 7px;border-radius:20px;text-transform:uppercase;letter-spacing:.05em;white-space:nowrap}
-.ftype-pago{background:#D4EDDA;color:#1A6B30}
-.ftype-fx{background:#FFF3CD;color:#856404}
-.ftype-alerta{background:#FDECEA;color:#C0392B}
-.ftype-ciclo{background:#EBF7FF;color:#2A7AB5}
-
+.mclient-brief{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px 12px;margin-top:8px;margin-bottom:8px}
+.mclient-brief-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:5px}
+.mclient-brief-name{font-size:12px;font-weight:700;color:var(--t1)}
+.mclient-brief-canal{font-size:10px;font-weight:600;background:#EBF7FF;color:#2A7AB5;padding:2px 8px;border-radius:20px}
+.mclient-brief-angulo{font-size:11px;color:var(--t2);margin-bottom:6px;font-style:italic}
+.mclient-brief-copy{background:var(--white);border:1px solid var(--border);border-left:3px solid var(--red);border-radius:6px;padding:8px 10px;font-size:12px;color:var(--t1);line-height:1.5;cursor:pointer;position:relative;word-break:break-word}
 .no-client-note{font-size:12px;color:var(--t3);font-style:italic}
-/* SUBGROUPS in transversal */
-.subgroup { margin-bottom: 14px; border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
-.subgroup-header { display: flex; align-items: center; justify-content: space-between; padding: 9px 14px; cursor: pointer; user-select: none; }
-.subgroup-label { font-size: 12px; font-weight: 700; }
-.subgroup-count { font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 20px; opacity: .8; }
-.subgroup-chevron { font-size: 10px; transition: transform .2s; }
-.subgroup.open .subgroup-chevron { transform: rotate(180deg); }
-.subgroup-body { display: none; border-top: 1px solid var(--border); background: var(--card); }
-.subgroup.open .subgroup-body { display: block; }
-.subgroup-body .trend-item { padding: 12px 14px; }
-.subgroup-body .trend-item:last-child { border-bottom: none; }
-
-/* TRENDS FILTERS — same style as calendar */
-.trends-filters-wrap { max-width: 860px; margin: 24px auto 0; padding: 0 24px; }
-
-/* SOURCES */
+.subgroup{margin-bottom:14px;border-radius:8px;overflow:hidden;border:1px solid var(--border)}
+.subgroup-header{display:flex;align-items:center;justify-content:space-between;padding:9px 14px;cursor:pointer;user-select:none}
+.subgroup-label{font-size:12px;font-weight:700}
+.subgroup-count{font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;opacity:.8}
+.subgroup-chevron{font-size:10px;transition:transform .2s}
+.subgroup.open .subgroup-chevron{transform:rotate(180deg)}
+.subgroup-body{display:none;border-top:1px solid var(--border);background:var(--card)}
+.subgroup.open .subgroup-body{display:block}
+.subgroup-body .trend-item{padding:12px 14px}
+.subgroup-body .trend-item:last-child{border-bottom:none}
+.trends-filters-wrap{max-width:860px;margin:24px auto 0;padding:0 24px}
 .trend-sources{margin-top:6px}
 .sources-toggle{background:none;border:none;color:var(--t3);font-size:11px;font-weight:600;cursor:pointer;padding:0;font-family:'DM Sans',sans-serif;display:flex;align-items:center;gap:4px;transition:color .15s}
 .sources-toggle:hover{color:var(--red)}
@@ -232,8 +176,6 @@ header{background:var(--black);color:var(--white)}
 .source-link{font-size:11px;color:var(--blue);text-decoration:none;line-height:1.4;word-break:break-all}
 .source-link:hover{text-decoration:underline;color:var(--red)}
 .source-title{font-size:11px;color:var(--t2)}
-
-/* FINANCE SECTION */
 .finance-section{border:1px solid #D4EDDA;border-radius:10px;background:#F6FDF7;margin:0 22px 16px;overflow:hidden}
 .finance-header{display:flex;align-items:center;gap:8px;padding:12px 16px;cursor:pointer;user-select:none}
 .finance-header:hover{background:#EDFAF0}
@@ -257,7 +199,55 @@ header{background:var(--black);color:var(--white)}
 .ftype-fx{background:#FFF3CD;color:#856404}
 .ftype-alerta{background:#FDECEA;color:#C0392B}
 .ftype-ciclo{background:#EBF7FF;color:#2A7AB5}
-
+/* PROXIMA SEMANA */
+.next-week-banner{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);border:1px solid #0f3460;border-radius:12px;margin:0 22px 16px;overflow:hidden}
+.next-week-banner-header{display:flex;align-items:center;gap:8px;padding:12px 16px;cursor:pointer;user-select:none}
+.next-week-banner-header:hover{background:rgba(255,255,255,.04)}
+.next-week-banner-icon{font-size:16px}
+.next-week-banner-title{font-size:13px;font-weight:700;color:#87DBFF;flex:1}
+.next-week-banner-count{font-size:11px;font-weight:700;background:rgba(135,219,255,.15);color:#87DBFF;padding:2px 8px;border-radius:20px}
+.next-week-banner-chevron{font-size:11px;color:#87DBFF;transition:transform .2s}
+.next-week-banner.open .next-week-banner-chevron{transform:rotate(180deg)}
+.next-week-banner-body{display:none;padding:0 16px 14px}
+.next-week-banner.open .next-week-banner-body{display:block}
+.next-week-finance{border:1px solid #0f3460;border-radius:10px;background:rgba(15,52,96,.3);margin-bottom:12px;overflow:hidden}
+.next-week-finance-header{display:flex;align-items:center;gap:8px;padding:10px 14px;cursor:pointer}
+.next-week-finance-header:hover{background:rgba(135,219,255,.05)}
+.next-week-finance-title{font-size:12px;font-weight:700;color:#87DBFF;flex:1}
+.next-week-finance-count{font-size:10px;font-weight:700;background:rgba(135,219,255,.15);color:#87DBFF;padding:2px 7px;border-radius:20px}
+.next-week-finance-chevron{font-size:10px;color:#87DBFF;transition:transform .2s}
+.next-week-finance.open .next-week-finance-chevron{transform:rotate(180deg)}
+.next-week-finance-body{display:none;padding:0 14px 12px}
+.next-week-finance.open .next-week-finance-body{display:block}
+.next-week-finance-item{padding:8px 0;border-bottom:1px solid rgba(135,219,255,.1)}
+.next-week-finance-item:last-child{border-bottom:none}
+.next-week-finance-name{font-size:12px;font-weight:700;color:#e0f0ff;margin-bottom:3px}
+.next-week-finance-why{font-size:11px;color:#87DBFF;opacity:.8;line-height:1.5;margin-bottom:5px}
+.next-week-finance-action{background:rgba(135,219,255,.08);border-left:2px solid #87DBFF;border-radius:4px;padding:5px 8px;font-size:11px;color:#87DBFF;font-style:italic}
+.next-week-sec{margin-bottom:10px;border-radius:8px;overflow:hidden;border:1px solid rgba(135,219,255,.15)}
+.next-week-sec-header{display:flex;align-items:center;gap:8px;padding:9px 12px;cursor:pointer;background:rgba(135,219,255,.04)}
+.next-week-sec-header:hover{background:rgba(135,219,255,.08)}
+.next-week-sec-icon{font-size:15px}
+.next-week-sec-title{font-size:12px;font-weight:700;color:#e0f0ff;flex:1}
+.next-week-sec-badge{font-size:10px;font-weight:700;background:rgba(135,219,255,.15);color:#87DBFF;padding:2px 7px;border-radius:20px}
+.next-week-sec-chevron{font-size:10px;color:#87DBFF;transition:transform .2s}
+.next-week-sec.open .next-week-sec-chevron{transform:rotate(180deg)}
+.next-week-sec-body{display:none;background:rgba(10,10,20,.5)}
+.next-week-sec.open .next-week-sec-body{display:block}
+.next-week-subgroup{border-bottom:1px solid rgba(135,219,255,.08)}
+.next-week-subgroup:last-child{border-bottom:none}
+.next-week-subgroup-header{display:flex;align-items:center;justify-content:space-between;padding:7px 12px;cursor:pointer}
+.next-week-subgroup-label{font-size:11px;font-weight:700;color:#87DBFF;opacity:.8}
+.next-week-subgroup-chevron{font-size:9px;color:#87DBFF;transition:transform .2s}
+.next-week-subgroup.open .next-week-subgroup-chevron{transform:rotate(180deg)}
+.next-week-subgroup-body{display:none}
+.next-week-subgroup.open .next-week-subgroup-body{display:block}
+.next-week-trend{padding:10px 12px;border-bottom:1px solid rgba(135,219,255,.06);display:flex;gap:10px}
+.next-week-trend:last-child{border-bottom:none}
+.next-week-trend-num{font-family:'Space Mono',monospace;font-size:10px;color:#87DBFF;opacity:.5;min-width:18px;padding-top:2px}
+.next-week-trend-name{font-size:13px;font-weight:600;color:#e0f0ff;margin-bottom:3px}
+.next-week-trend-why{font-size:12px;color:#87DBFF;opacity:.75;line-height:1.5;margin-bottom:5px}
+.next-week-trend-brand{font-size:11px;color:#87DBFF;opacity:.6;font-style:italic;margin-bottom:4px}
 </style>
 </head>
 <body>
@@ -468,97 +458,19 @@ header{background:var(--black);color:var(--white)}
 document.getElementById('liveDate').textContent = new Date().toLocaleDateString('es-CO',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
 
 const CLIENTS = {
-  "BURGER KING": {e:"👑",countries:["AR","CL"],industry:["fastfood","restaurantes"],
-    activations:{
-      comercial: {canal:"Push · App Mi BK", angulo:"Oferta de fecha con urgencia y descuento exclusivo app", copy:"🍔 [FECHA] tiene otro sabor. Combo especial solo en la app — válido hoy."},
-      cultural:  {canal:"Push · Stories", angulo:"Conectar la ocasión con un momento de disfrute real", copy:"En este [FECHA], el plan perfecto ya lo tienes. ¿Whopper en casa o en local?"},
-      civica:    {canal:"RRSS · In-app banner", angulo:"Tono neutro y festivo, sin politizar", copy:"Hoy es feriado y hay razones para celebrar. Te esperamos con el menú completo."},
-      festividad:{canal:"Push · Email", angulo:"Edición especial o producto de temporada", copy:"🎉 Se viene [FECHA] y Burger King lo festeja. Pedilo en la app con envío express."}
-    }},
-  "BODYTECH":    {e:"💪",countries:["CO"],industry:["fitness"],
-    activations:{
-      comercial: {canal:"Push · Email", angulo:"Fecha como detonador de hábito o compromiso", copy:"Este [FECHA] es el mejor momento para empezar. Primer mes 50% off — solo esta semana."},
-      cultural:  {canal:"Push · WhatsApp", angulo:"Bienestar como regalo o autocuidado", copy:"¿Ya tienes plan para [FECHA]? Regala (o regálate) una membresía Bodytech."},
-      civica:    {canal:"Email", angulo:"Feriado = tiempo para ti", copy:"Feriado activo. Los mejores no paran. Entrena con nosotros este [FECHA]."},
-      festividad:{canal:"Push", angulo:"Energía de la celebración como motivación", copy:"La mejor celebración de [FECHA] empieza en el gym. ¿Agendamos tu clase?"}
-    }},
-  "CCU":         {e:"🍺",countries:["CL"],industry:["b2b","ecommerce"],
-    activations:{
-      comercial: {canal:"WhatsApp Business · Email B2B", angulo:"Anticipa el pedido antes del peak de consumo", copy:"📦 [FECHA] se acerca — tus clientes van a pedir más. ¿Ya hiciste tu pedido esta semana?"},
-      cultural:  {canal:"WhatsApp", angulo:"Recordatorio de reabastecimiento por ocasión de consumo", copy:"Con [FECHA] se vende más. Reabastecer ahora evita quiebres de stock el fin de semana."},
-      civica:    {canal:"WhatsApp", angulo:"Feriado = aumento de tráfico en el local", copy:"Feriado largo = más ventas en tu local. ¿Tienes suficiente stock de bebidas?"},
-      festividad:{canal:"Email · WhatsApp", angulo:"Oportunidad de venta aumentada en festividad", copy:"🎉 [FECHA] mueve más bebidas. Pedido de temporada disponible con descuento por volumen."}
-    }},
-  "DESPEGAR":    {e:"✈️",countries:["BR","CO","AR","MX","CL","UY","EC","PE"],industry:["travel","ecommerce"],
-    activations:{
-      comercial: {canal:"Email · Push", angulo:"Anticipación de viaje con oferta de tiempo limitado", copy:"✈️ [FECHA] es el pretexto perfecto. Vuelos + hotel desde $XX — solo hasta el domingo."},
-      cultural:  {canal:"Push · Email", angulo:"La fecha como destino en sí mismo (festivales, tradiciones locales)", copy:"Vive [FECHA] donde más se celebra. Paquetes especiales ya disponibles."},
-      civica:    {canal:"Push · Email", angulo:"Feriado largo = escapada de fin de semana", copy:"Puente de [FECHA]: 3 días para escapar. Las mejores ofertas se agotan rápido."},
-      festividad:{canal:"Email · Push", angulo:"Festividad como motivación de viaje cultural", copy:"🎉 [FECHA] se vive diferente en cada ciudad. ¿A cuál vas este año?"}
-    }},
-  "DOLFINTECH":  {e:"💵",countries:["BR","CO","AR","MX"],industry:["fintech"],
-    activations:{
-      comercial: {canal:"Push · SMS", angulo:"Fecha especial = momento de enviar dinero a la familia", copy:"💵 Este [FECHA] hazlos sentir cerca. Envía dinero con Barri/DolEx — sin comisión hoy."},
-      cultural:  {canal:"Push · WhatsApp", angulo:"Tradición familiar como motivo de transferencia", copy:"En [FECHA] la familia se une. Manda lo que necesitan — rápido, seguro, desde tu cel."},
-      civica:    {canal:"Push", angulo:"Feriado en el país de origen = momento emotivo de conexión", copy:"Hoy es feriado en [PAÍS]. ¿Ya les mandaste algo para celebrar?"},
-      festividad:{canal:"Push · SMS", angulo:"Regalo económico = transferencia digital", copy:"🎁 El mejor regalo de [FECHA] llega en minutos. Envía dinero con Barri — sin costo."}
-    }},
-  "GRUPO JCPM":  {e:"🏬",countries:["BR"],industry:["retail","ecommerce"],
-    activations:{
-      comercial: {canal:"Push · Email · SMS", angulo:"Fecha comercial = tráfico al mall", copy:"🛍 [FECHA] en RioMar: todas las tiendas, un solo lugar. Moda, regalos y más — ven hoy."},
-      cultural:  {canal:"Push · Email", angulo:"El mall como espacio de celebración y experiencia", copy:"Celebra [FECHA] en familia en RioMar. Entretenimiento, gastronomía y las mejores marcas."},
-      civica:    {canal:"Push", angulo:"Feriado = experiencia de ocio en el mall", copy:"Feriado en RioMar: horario extendido y todas las opciones para disfrutar el día."},
-      festividad:{canal:"Push · Email", angulo:"Festividad = evento especial en el espacio físico", copy:"🎉 [FECHA] tiene un plan en RioMar. Eventos, descuentos y diversión para toda la familia."}
-    }},
-  "LAIKA":       {e:"🐶",countries:["CO"],industry:["petshop","ecommerce"],
-    activations:{
-      comercial: {canal:"Push · Email", angulo:"La mascota también celebra — regalo o producto especial", copy:"🐾 Este [FECHA], tu peludo también merece algo especial. Envío gratis hoy en Laika."},
-      cultural:  {canal:"Push · Email", angulo:"Fecha como excusa de compra recurrente", copy:"En [FECHA] más tiempo en casa = más tiempo con tu perro. ¿Tiene todo lo que necesita?"},
-      civica:    {canal:"Push", angulo:"Feriado = paseo o actividad con mascota", copy:"Feriado con patas 🐾. ¿Listo para el paseo? Recuerda tener snacks y accesorios."},
-      festividad:{canal:"Push · Email", angulo:"Festividad puede asustar a las mascotas — contenido útil + oferta", copy:"🎉 Los festejos de [FECHA] pueden estresar a tu mascota. Calming treats disponibles en Laika."}
-    }},
-  "NATURA":      {e:"🌿",countries:["BR"],industry:["beauty","ecommerce"],
-    activations:{
-      comercial: {canal:"Email · Push · WhatsApp consultoras", angulo:"Fecha = regalo de belleza con propósito", copy:"🌿 Un regalo que cuida. Kits especiales de [FECHA] — naturales, sostenibles, únicos."},
-      cultural:  {canal:"Email · Push", angulo:"Belleza como ritual de autocuidado en la fecha", copy:"Celebra [FECHA] contigo misma. Nueva rutina de cuidado — descubre qué hay para ti."},
-      civica:    {canal:"Email · WhatsApp consultoras", angulo:"Feriado = momento de pausa y autocuidado", copy:"Hoy es para ti. Pausa, cuídate y disfruta. Tu consultora tiene lo que necesitas."},
-      festividad:{canal:"Email · Push", angulo:"Festividad = experiencia sensorial de regalo", copy:"🎁 [FECHA] huele a Natura. Kits de regalo disponibles — elige el tuyo antes de que se agoten."}
-    }},
-  "RABBIT":      {e:"🐰",countries:["MX"],industry:["b2b","ecommerce"],
-    activations:{
-      comercial: {canal:"WhatsApp Business", angulo:"Peak de consumo = anticipar pedido del tendero", copy:"📦 [FECHA] se acerca y tu tienda lo va a notar. Haz tu pedido hoy y recíbelo a tiempo."},
-      cultural:  {canal:"WhatsApp", angulo:"Ocasión de consumo elevada = reabastecimiento urgente", copy:"Con [FECHA] se mueve más. ¿Ya revisaste tu inventario? Pedido exprés disponible."},
-      civica:    {canal:"WhatsApp", angulo:"Feriado = más clientes en la tienda", copy:"Feriado y tu tienda llena. Asegura el stock de los más pedidos — pide ahora en Rabbit."},
-      festividad:{canal:"WhatsApp · Push", angulo:"Festividad local = productos específicos de alta rotación", copy:"🎉 [FECHA] mueve más en tu zona. Reabastecer hoy = vender más mañana."}
-    }},
-  "SCHOLAS":     {e:"📚",countries:["BR","CO","AR","MX","CL","UY","EC","PE"],industry:["ong"],
-    activations:{
-      comercial: {canal:"Email · WhatsApp", angulo:"Fechas comerciales como oportunidad de donación o voluntariado", copy:"Este [FECHA], tu compra puede cambiar una vida. Conoce cómo Scholas transforma la educación."},
-      cultural:  {canal:"Email · Push", angulo:"Fecha cultural como reflejo de los valores de Scholas", copy:"📚 [FECHA] nos recuerda quiénes somos. Scholas celebra la diversidad que nos une."},
-      civica:    {canal:"Email", angulo:"Fecha cívica = reflexión sobre ciudadanía y educación", copy:"En este [FECHA], Scholas reafirma su compromiso con la educación como derecho."},
-      festividad:{canal:"Email · RRSS", angulo:"Festividad como expresión cultural que Scholas abraza", copy:"🎉 Cada festividad es una lección. Scholas aprende con las comunidades que acompaña."}
-    }},
-  "SHELLBOX":    {e:"⛽",countries:["AR","CL"],industry:["seguros","retail"],
-    activations:{
-      comercial: {canal:"Push · SMS", angulo:"Fecha de alto tráfico vehicular = cashback o beneficio en carga", copy:"⛽ [FECHA] hay más autos en la ruta. Carga en Shell y suma puntos dobles hoy."},
-      cultural:  {canal:"Push", angulo:"Salida de fin de semana o viaje = necesidad de cargar", copy:"¿Salís este [FECHA]? Cargá Shell antes de arrancar y acumulá beneficios en el camino."},
-      civica:    {canal:"Push · SMS", angulo:"Feriado largo = más km recorridos = más puntos", copy:"Feriado largo, más kilómetros. Cada carga en Shell te acerca a tu próximo beneficio."},
-      festividad:{canal:"Push", angulo:"Festividad = desplazamiento = oportunidad de engagement", copy:"🎉 [FECHA] te lleva a algún lado. Cargá Shell y que el camino te traiga puntos."}
-    }},
-  "STRIX":       {e:"🚗",countries:["AR"],industry:["seguros"],
-    activations:{
-      comercial: {canal:"Push · Email", angulo:"Fecha de alto tráfico = mayor exposición al riesgo", copy:"🚗 Más autos en la calle este [FECHA]. ¿Tu auto tiene la protección que merece?"},
-      cultural:  {canal:"Push", angulo:"Salida cultural o familiar = chequeo de seguridad del vehículo", copy:"Antes de salir este [FECHA], chequea que tu GPS Strix esté activo. Tu auto te lo agradece."},
-      civica:    {canal:"Push · SMS", angulo:"Feriado largo = más robos y siniestros en Argentina", copy:"Feriado largo = más riesgo vehicular. Strix monitorea tu auto mientras vos disfrutás."},
-      festividad:{canal:"Push", angulo:"Festividad = desplazamiento nocturno = riesgo elevado", copy:"🎉 [FECHA] se celebra, pero el riesgo no para. Strix cuida tu auto mientras vos festejás."}
-    }},
-  "TELECOM":     {e:"📡",countries:["AR"],industry:["telecom","retail"],
-    activations:{
-      comercial: {canal:"Push · Email · SMS", angulo:"Fecha comercial = upgrade de plan o equipo con oferta", copy:"📱 Este [FECHA], renueva tu celular con Telecom. Cuotas sin interés y nuevo plan incluido."},
-      cultural:  {canal:"Push · Email", angulo:"Momento de conexión = relevancia del servicio", copy:"[FECHA] se vive mejor conectado. Mejora tu plan y disfruta sin límites con Flow."},
-      civica:    {canal:"Push", angulo:"Feriado = más consumo de streaming en casa", copy:"Feriado en casa = día Flow. ¿Ya tenés acceso a todo el contenido que querés?"},
-      festividad:{canal:"Push · SMS", angulo:"Festividad = más llamadas y datos a la familia", copy:"🎉 [FECHA] conecta familias. Más datos, más llamadas — sin preocuparte por el saldo."}
-    }}
+  "BURGER KING": {e:"👑",countries:["AR","CL"],industry:["fastfood","restaurantes"],activations:{comercial:{canal:"Push · App Mi BK",angulo:"Oferta de fecha con urgencia y descuento exclusivo app",copy:"🍔 [FECHA] tiene otro sabor. Combo especial solo en la app — válido hoy."},cultural:{canal:"Push · Stories",angulo:"Conectar la ocasión con un momento de disfrute real",copy:"En este [FECHA], el plan perfecto ya lo tienes. ¿Whopper en casa o en local?"},civica:{canal:"RRSS · In-app banner",angulo:"Tono neutro y festivo, sin politizar",copy:"Hoy es feriado y hay razones para celebrar. Te esperamos con el menú completo."},festividad:{canal:"Push · Email",angulo:"Edición especial o producto de temporada",copy:"🎉 Se viene [FECHA] y Burger King lo festeja. Pedilo en la app con envío express."}}},
+  "BODYTECH":    {e:"💪",countries:["CO"],industry:["fitness"],activations:{comercial:{canal:"Push · Email",angulo:"Fecha como detonador de hábito o compromiso",copy:"Este [FECHA] es el mejor momento para empezar. Primer mes 50% off — solo esta semana."},cultural:{canal:"Push · WhatsApp",angulo:"Bienestar como regalo o autocuidado",copy:"¿Ya tienes plan para [FECHA]? Regala (o regálate) una membresía Bodytech."},civica:{canal:"Email",angulo:"Feriado = tiempo para ti",copy:"Feriado activo. Los mejores no paran. Entrena con nosotros este [FECHA]."},festividad:{canal:"Push",angulo:"Energía de la celebración como motivación",copy:"La mejor celebración de [FECHA] empieza en el gym. ¿Agendamos tu clase?"}}},
+  "CCU":         {e:"🍺",countries:["CL"],industry:["b2b","ecommerce"],activations:{comercial:{canal:"WhatsApp Business · Email B2B",angulo:"Anticipa el pedido antes del peak de consumo",copy:"📦 [FECHA] se acerca — tus clientes van a pedir más. ¿Ya hiciste tu pedido esta semana?"},cultural:{canal:"WhatsApp",angulo:"Recordatorio de reabastecimiento por ocasión de consumo",copy:"Con [FECHA] se vende más. Reabastecer ahora evita quiebres de stock el fin de semana."},civica:{canal:"WhatsApp",angulo:"Feriado = aumento de tráfico en el local",copy:"Feriado largo = más ventas en tu local. ¿Tienes suficiente stock de bebidas?"},festividad:{canal:"Email · WhatsApp",angulo:"Oportunidad de venta aumentada en festividad",copy:"🎉 [FECHA] mueve más bebidas. Pedido de temporada disponible con descuento por volumen."}}},
+  "DESPEGAR":    {e:"✈️",countries:["BR","CO","AR","MX","CL","UY","EC","PE"],industry:["travel","ecommerce"],activations:{comercial:{canal:"Email · Push",angulo:"Anticipación de viaje con oferta de tiempo limitado",copy:"✈️ [FECHA] es el pretexto perfecto. Vuelos + hotel desde $XX — solo hasta el domingo."},cultural:{canal:"Push · Email",angulo:"La fecha como destino en sí mismo (festivales, tradiciones locales)",copy:"Vive [FECHA] donde más se celebra. Paquetes especiales ya disponibles."},civica:{canal:"Push · Email",angulo:"Feriado largo = escapada de fin de semana",copy:"Puente de [FECHA]: 3 días para escapar. Las mejores ofertas se agotan rápido."},festividad:{canal:"Email · Push",angulo:"Festividad como motivación de viaje cultural",copy:"🎉 [FECHA] se vive diferente en cada ciudad. ¿A cuál vas este año?"}}},
+  "DOLFINTECH":  {e:"💵",countries:["BR","CO","AR","MX"],industry:["fintech"],activations:{comercial:{canal:"Push · SMS",angulo:"Fecha especial = momento de enviar dinero a la familia",copy:"💵 Este [FECHA] hazlos sentir cerca. Envía dinero con Barri/DolEx — sin comisión hoy."},cultural:{canal:"Push · WhatsApp",angulo:"Tradición familiar como motivo de transferencia",copy:"En [FECHA] la familia se une. Manda lo que necesitan — rápido, seguro, desde tu cel."},civica:{canal:"Push",angulo:"Feriado en el país de origen = momento emotivo de conexión",copy:"Hoy es feriado en [PAÍS]. ¿Ya les mandaste algo para celebrar?"},festividad:{canal:"Push · SMS",angulo:"Regalo económico = transferencia digital",copy:"🎁 El mejor regalo de [FECHA] llega en minutos. Envía dinero con Barri — sin costo."}}},
+  "GRUPO JCPM":  {e:"🏬",countries:["BR"],industry:["retail","ecommerce"],activations:{comercial:{canal:"Push · Email · SMS",angulo:"Fecha comercial = tráfico al mall",copy:"🛍 [FECHA] en RioMar: todas las tiendas, un solo lugar. Moda, regalos y más — ven hoy."},cultural:{canal:"Push · Email",angulo:"El mall como espacio de celebración y experiencia",copy:"Celebra [FECHA] en familia en RioMar. Entretenimiento, gastronomía y las mejores marcas."},civica:{canal:"Push",angulo:"Feriado = experiencia de ocio en el mall",copy:"Feriado en RioMar: horario extendido y todas las opciones para disfrutar el día."},festividad:{canal:"Push · Email",angulo:"Festividad = evento especial en el espacio físico",copy:"🎉 [FECHA] tiene un plan en RioMar. Eventos, descuentos y diversión para toda la familia."}}},
+  "LAIKA":       {e:"🐶",countries:["CO"],industry:["petshop","ecommerce"],activations:{comercial:{canal:"Push · Email",angulo:"La mascota también celebra — regalo o producto especial",copy:"🐾 Este [FECHA], tu peludo también merece algo especial. Envío gratis hoy en Laika."},cultural:{canal:"Push · Email",angulo:"Fecha como excusa de compra recurrente",copy:"En [FECHA] más tiempo en casa = más tiempo con tu perro. ¿Tiene todo lo que necesita?"},civica:{canal:"Push",angulo:"Feriado = paseo o actividad con mascota",copy:"Feriado con patas 🐾. ¿Listo para el paseo? Recuerda tener snacks y accesorios."},festividad:{canal:"Push · Email",angulo:"Festividad puede asustar a las mascotas — contenido útil + oferta",copy:"🎉 Los festejos de [FECHA] pueden estresar a tu mascota. Calming treats disponibles en Laika."}}},
+  "NATURA":      {e:"🌿",countries:["BR"],industry:["beauty","ecommerce"],activations:{comercial:{canal:"Email · Push · WhatsApp consultoras",angulo:"Fecha = regalo de belleza con propósito",copy:"🌿 Un regalo que cuida. Kits especiales de [FECHA] — naturales, sostenibles, únicos."},cultural:{canal:"Email · Push",angulo:"Belleza como ritual de autocuidado en la fecha",copy:"Celebra [FECHA] contigo misma. Nueva rutina de cuidado — descubre qué hay para ti."},civica:{canal:"Email · WhatsApp consultoras",angulo:"Feriado = momento de pausa y autocuidado",copy:"Hoy es para ti. Pausa, cuídate y disfruta. Tu consultora tiene lo que necesitas."},festividad:{canal:"Email · Push",angulo:"Festividad = experiencia sensorial de regalo",copy:"🎁 [FECHA] huele a Natura. Kits de regalo disponibles — elige el tuyo antes de que se agoten."}}},
+  "RABBIT":      {e:"🐰",countries:["MX"],industry:["b2b","ecommerce"],activations:{comercial:{canal:"WhatsApp Business",angulo:"Peak de consumo = anticipar pedido del tendero",copy:"📦 [FECHA] se acerca y tu tienda lo va a notar. Haz tu pedido hoy y recíbelo a tiempo."},cultural:{canal:"WhatsApp",angulo:"Ocasión de consumo elevada = reabastecimiento urgente",copy:"Con [FECHA] se mueve más. ¿Ya revisaste tu inventario? Pedido exprés disponible."},civica:{canal:"WhatsApp",angulo:"Feriado = más clientes en la tienda",copy:"Feriado y tu tienda llena. Asegura el stock de los más pedidos — pide ahora en Rabbit."},festividad:{canal:"WhatsApp · Push",angulo:"Festividad local = productos específicos de alta rotación",copy:"🎉 [FECHA] mueve más en tu zona. Reabastecer hoy = vender más mañana."}}},
+  "SCHOLAS":     {e:"📚",countries:["BR","CO","AR","MX","CL","UY","EC","PE"],industry:["ong"],activations:{comercial:{canal:"Email · WhatsApp",angulo:"Fechas comerciales como oportunidad de donación o voluntariado",copy:"Este [FECHA], tu compra puede cambiar una vida. Conoce cómo Scholas transforma la educación."},cultural:{canal:"Email · Push",angulo:"Fecha cultural como reflejo de los valores de Scholas",copy:"📚 [FECHA] nos recuerda quiénes somos. Scholas celebra la diversidad que nos une."},civica:{canal:"Email",angulo:"Fecha cívica = reflexión sobre ciudadanía y educación",copy:"En este [FECHA], Scholas reafirma su compromiso con la educación como derecho."},festividad:{canal:"Email · RRSS",angulo:"Festividad como expresión cultural que Scholas abraza",copy:"🎉 Cada festividad es una lección. Scholas aprende con las comunidades que acompaña."}}},
+  "SHELLBOX":    {e:"⛽",countries:["AR","CL"],industry:["seguros","retail"],activations:{comercial:{canal:"Push · SMS",angulo:"Fecha de alto tráfico vehicular = cashback o beneficio en carga",copy:"⛽ [FECHA] hay más autos en la ruta. Carga en Shell y suma puntos dobles hoy."},cultural:{canal:"Push",angulo:"Salida de fin de semana o viaje = necesidad de cargar",copy:"¿Salís este [FECHA]? Cargá Shell antes de arrancar y acumulá beneficios en el camino."},civica:{canal:"Push · SMS",angulo:"Feriado largo = más km recorridos = más puntos",copy:"Feriado largo, más kilómetros. Cada carga en Shell te acerca a tu próximo beneficio."},festividad:{canal:"Push",angulo:"Festividad = desplazamiento = oportunidad de engagement",copy:"🎉 [FECHA] te lleva a algún lado. Cargá Shell y que el camino te traiga puntos."}}},
+  "STRIX":       {e:"🚗",countries:["AR"],industry:["seguros"],activations:{comercial:{canal:"Push · Email",angulo:"Fecha de alto tráfico = mayor exposición al riesgo",copy:"🚗 Más autos en la calle este [FECHA]. ¿Tu auto tiene la protección que merece?"},cultural:{canal:"Push",angulo:"Salida cultural o familiar = chequeo de seguridad del vehículo",copy:"Antes de salir este [FECHA], chequea que tu GPS Strix esté activo. Tu auto te lo agradece."},civica:{canal:"Push · SMS",angulo:"Feriado largo = más robos y siniestros en Argentina",copy:"Feriado largo = más riesgo vehicular. Strix monitorea tu auto mientras vos disfrutás."},festividad:{canal:"Push",angulo:"Festividad = desplazamiento nocturno = riesgo elevado",copy:"🎉 [FECHA] se celebra, pero el riesgo no para. Strix cuida tu auto mientras vos festejás."}}},
+  "TELECOM":     {e:"📡",countries:["AR"],industry:["telecom","retail"],activations:{comercial:{canal:"Push · Email · SMS",angulo:"Fecha comercial = upgrade de plan o equipo con oferta",copy:"📱 Este [FECHA], renueva tu celular con Telecom. Cuotas sin interés y nuevo plan incluido."},cultural:{canal:"Push · Email",angulo:"Momento de conexión = relevancia del servicio",copy:"[FECHA] se vive mejor conectado. Mejora tu plan y disfruta sin límites con Flow."},civica:{canal:"Push",angulo:"Feriado = más consumo de streaming en casa",copy:"Feriado en casa = día Flow. ¿Ya tenés acceso a todo el contenido que querés?"},festividad:{canal:"Push · SMS",angulo:"Festividad = más llamadas y datos a la familia",copy:"🎉 [FECHA] conecta familias. Más datos, más llamadas — sin preocuparte por el saldo."}}}
 };
 
 const IND = {
@@ -621,29 +533,11 @@ const CALENDAR=[
 
 const FLAGS={BR:"🇧🇷",CO:"🇨🇴",AR:"🇦🇷",MX:"🇲🇽",CL:"🇨🇱",UY:"🇺🇾",EC:"🇪🇨",PE:"🇵🇪"};
 const MONTHS=["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"];
-
 let F={country:"ALL",cat:"ALL",impact:"ALL",industry:"ALL",client:"ALL"};
 
-function toggleFilters(){
-  const b=document.getElementById("fBar"),btn=document.getElementById("fToggleBtn");
-  b.classList.toggle("open");
-  btn.textContent=b.classList.contains("open")?"Cerrar filtros ▴":"Abrir filtros ▾";
-}
-function sf(type,val,el){
-  F[type]=val;
-  document.getElementById("fc-"+type).querySelectorAll(".filter-chip").forEach(b=>b.classList.remove("active","client-active"));
-  el.classList.add(type==="client"&&val!=="ALL"?"client-active":"active");
-  renderCal();
-}
-function clearFilters(){
-  F={country:"ALL",cat:"ALL",impact:"ALL",industry:"ALL",client:"ALL"};
-  ["country","cat","impact","industry","client"].forEach(t=>{
-    const chips=document.getElementById("fc-"+t).querySelectorAll(".filter-chip");
-    chips.forEach(c=>c.classList.remove("active","client-active"));
-    chips[0].classList.add("active");
-  });
-  renderCal();
-}
+function toggleFilters(){const b=document.getElementById("fBar"),btn=document.getElementById("fToggleBtn");b.classList.toggle("open");btn.textContent=b.classList.contains("open")?"Cerrar filtros ▴":"Abrir filtros ▾";}
+function sf(type,val,el){F[type]=val;document.getElementById("fc-"+type).querySelectorAll(".filter-chip").forEach(b=>b.classList.remove("active","client-active"));el.classList.add(type==="client"&&val!=="ALL"?"client-active":"active");renderCal();}
+function clearFilters(){F={country:"ALL",cat:"ALL",impact:"ALL",industry:"ALL",client:"ALL"};["country","cat","impact","industry","client"].forEach(t=>{const chips=document.getElementById("fc-"+t).querySelectorAll(".filter-chip");chips.forEach(c=>c.classList.remove("active","client-active"));chips[0].classList.add("active");});renderCal();}
 
 function renderCal(){
   const root=document.getElementById("cal-root");
@@ -652,27 +546,17 @@ function renderCal(){
     if(F.cat!=="ALL"&&e.category!==F.cat)return false;
     if(F.impact!=="ALL"&&e.impact!==F.impact)return false;
     if(F.industry!=="ALL"){const fn=IND[F.industry];const sL=e.sectors.map(s=>s.toLowerCase());if(!sL.some(s=>fn(s)))return false;}
-    if(F.client!=="ALL"){
-      const cl=CLIENTS[F.client];if(!cl)return false;
-      const cOk=e.countries.some(c=>cl.countries.includes(c));
-      const sL=e.sectors.map(s=>s.toLowerCase());
-      const iOk=cl.industry.some(ind=>IND[ind]&&sL.some(s=>IND[ind](s)));
-      if(!cOk||!iOk)return false;
-    }
+    if(F.client!=="ALL"){const cl=CLIENTS[F.client];if(!cl)return false;const cOk=e.countries.some(c=>cl.countries.includes(c));const sL=e.sectors.map(s=>s.toLowerCase());const iOk=cl.industry.some(ind=>IND[ind]&&sL.some(s=>IND[ind](s)));if(!cOk||!iOk)return false;}
     return true;
   }).sort((a,b)=>a.date.localeCompare(b.date));
-
   const active=Object.entries(F).filter(([k,v])=>v!=="ALL");
   const toolbar=document.getElementById("toolbar");
   const pills=active.map(([k,v])=>`<span class="active-pill">${k}: ${v}<span class="x" onclick="sf('${k}','ALL',document.querySelector('#fc-${k} .filter-chip'))">×</span></span>`).join("");
   toolbar.innerHTML=`${pills}<span class="results-count" id="rCount">${ev.length} fecha${ev.length!==1?"s":""}</span>`;
   document.getElementById("fSummary").textContent=ev.length===CALENDAR.length?"Todos los eventos":`${ev.length} de ${CALENDAR.length}`;
-
   if(!ev.length){root.innerHTML=`<div class="no-results">Sin fechas para los filtros seleccionados.<br><button onclick="clearFilters()" style="margin-top:12px;background:var(--black);color:#fff;border:none;padding:7px 16px;border-radius:20px;cursor:pointer;font-family:inherit;font-weight:600;font-size:12px">Limpiar filtros</button></div>`;return;}
-
   const bm={};
   ev.forEach(e=>{const m=parseInt(e.date.split("-")[1])-1;if(!bm[m])bm[m]=[];bm[m].push(e);});
-
   root.innerHTML=Object.entries(bm).map(([mi,evs])=>{
     const cards=evs.map(e=>{
       const d=new Date(e.date+"T12:00:00");
@@ -681,34 +565,25 @@ function renderCal(){
       const rc=getClients(e);
       const cb=rc.slice(0,3).map(n=>`<span class="ctag">${CLIENTS[n].e} ${n.split(" ")[0]}</span>`).join("");
       const cm=rc.length>3?`<span class="ctag">+${rc.length-3}</span>`:"";
-      const calIdx=CALENDAR.indexOf(e); const eid_x=e.date+"|"+ e.name.replace(/['"]/g,"");
+      const calIdx=CALENDAR.indexOf(e);
       return `<div class="cal-card" onclick="openM(${calIdx})"><div class="cal-accent ${e.category}"></div><div class="cal-inner"><div class="cal-top"><span class="cal-date">${ds}</span><span class="cal-impact impact-${e.impact}">${e.impact.toUpperCase()}</span></div><div class="cal-name">${e.name}</div><div class="cal-bottom"><span class="cal-flags">${fl}</span><span class="cal-cat cat-${e.category}">${e.category}</span></div>${rc.length?`<div class="cal-clients">${cb}${cm}</div>`:""}</div></div>`;
     }).join("");
     return `<div class="month-section"><div class="month-header"><span class="month-name">${MONTHS[parseInt(mi)]}</span><div class="month-line"></div><span class="month-count">${evs.length} fecha${evs.length!==1?"s":""}</span></div><div class="cal-grid">${cards}</div></div>`;
   }).join("");
 }
 
-function genClientBriefs(clientNames, category) {
-  const catKey = ["comercial","cultural","civica","festividad"].includes(category) ? category : "cultural";
-  const badges = clientNames.map(n=>`<span class="mclient">${CLIENTS[n].e} ${n}</span>`).join("");
-  const briefs = clientNames.map(n => {
-    const cl = CLIENTS[n];
-    const act = cl.activations[catKey] || cl.activations["cultural"];
-    return `<div class="mclient-brief">
-      <div class="mclient-brief-header">
-        <span class="mclient-brief-name">${cl.e} ${n}</span>
-        <span class="mclient-brief-canal">${act.canal}</span>
-      </div>
-      <div class="mclient-brief-angulo">↗ ${act.angulo}</div>
-      <div class="mclient-brief-copy" onclick="navigator.clipboard&&navigator.clipboard.writeText(this.textContent.trim())" title="Click para copiar">${act.copy}</div>
-    </div>`;
+function genClientBriefs(clientNames,category){
+  const catKey=["comercial","cultural","civica","festividad"].includes(category)?category:"cultural";
+  const badges=clientNames.map(n=>`<span class="mclient">${CLIENTS[n].e} ${n}</span>`).join("");
+  const briefs=clientNames.map(n=>{
+    const cl=CLIENTS[n];const act=cl.activations[catKey]||cl.activations["cultural"];
+    return `<div class="mclient-brief"><div class="mclient-brief-header"><span class="mclient-brief-name">${cl.e} ${n}</span><span class="mclient-brief-canal">${act.canal}</span></div><div class="mclient-brief-angulo">↗ ${act.angulo}</div><div class="mclient-brief-copy" onclick="navigator.clipboard&&navigator.clipboard.writeText(this.textContent.trim())" title="Click para copiar">${act.copy}</div></div>`;
   }).join("");
   return `<div class="mclients" style="margin-bottom:10px">${badges}</div>${briefs}`;
 }
 
 function openM(idx){
-  const e=CALENDAR[idx];
-  if(!e)return;
+  const e=CALENDAR[idx];if(!e)return;
   const rc=getClients(e);
   const d=new Date(e.date+"T12:00:00");
   const df=d.toLocaleDateString("es-CO",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
@@ -728,9 +603,7 @@ function openM(idx){
     <div class="mchips">${e.sectors.map(s=>`<span class="mchip">${s}</span>`).join("")}</div>
     <div class="mdivider"></div>
     <div class="msec">Clientes Winclap relevantes</div>
-    ${rc.length
-      ?genClientBriefs(rc, e.category)
-      :`<p class="no-client-note">Ningún cliente activo tiene match directo de país + industria para esta fecha.</p>`}
+    ${rc.length?genClientBriefs(rc,e.category):`<p class="no-client-note">Ningún cliente activo tiene match directo de país + industria para esta fecha.</p>`}
   `;
   document.getElementById("mOverlay").classList.add("open");
   document.body.style.overflow="hidden";
@@ -761,110 +634,127 @@ function toggleSources(uid){
   btn.textContent=list.classList.contains("open")?"▴ ocultar fuentes":"▾ ver fuentes";
 }
 
-// ── Trends filters state ──────────────────────────────────────────────────────
+// ── PROXIMA SEMANA ────────────────────────────────────────────────────────────
+function toggleNextWeekBanner(wid){document.getElementById("nwb-"+wid).classList.toggle("open")}
+function toggleNextWeekFinance(wid){document.getElementById("nwf-"+wid).classList.toggle("open")}
+function toggleNextWeekSec(sid){document.getElementById("nws-"+sid).classList.toggle("open")}
+function toggleNextWeekSg(sid){document.getElementById("nwsg-"+sid).classList.toggle("open")}
+
+function renderNextWeek(week) {
+  const nw = week.next_week;
+  if (!nw) return "";
+  const fin = nw.finance || [];
+  const finHtml = fin.length === 0 ? "" : `
+    <div class="next-week-finance open" id="nwf-${week.id}">
+      <div class="next-week-finance-header" onclick="toggleNextWeekFinance('${week.id}')">
+        <span style="font-size:14px">💹</span>
+        <span class="next-week-finance-title">Radar Financiero</span>
+        <span class="next-week-finance-count">${fin.length} señal${fin.length!==1?"es":""}</span>
+        <span class="next-week-finance-chevron">▼</span>
+      </div>
+      <div class="next-week-finance-body">
+        ${fin.map(f=>`<div class="next-week-finance-item">
+          <div class="next-week-finance-name">${f.name} <span style="font-size:11px;opacity:.6">${(f.countries||[]).map(c=>FLAGS[c]||"").join(" ")}</span></div>
+          <div class="next-week-finance-why">${f.why}</div>
+          <div class="next-week-finance-action">💡 ${f.action}</div>
+        </div>`).join("")}
+      </div>
+    </div>`;
+  const secsHtml = (nw.sections||[]).map(sec => {
+    const subgroupsHtml = (sec.subgroups||[]).map(sg => {
+      const trends = sg.trends||[];
+      if (!trends.length) return "";
+      const trendsHtml = trends.map((t,i)=>`
+        <div class="next-week-trend">
+          <div class="next-week-trend-num">${String(i+1).padStart(2,"0")}</div>
+          <div>
+            <div class="next-week-trend-name">${t.name}</div>
+            <div class="next-week-trend-why">${t.why}</div>
+            ${t.brand?`<div class="next-week-trend-brand">↗ ${t.brand}</div>`:""}
+          </div>
+        </div>`).join("");
+      return `<div class="next-week-subgroup open" id="nwsg-${sg.id}">
+        <div class="next-week-subgroup-header" onclick="toggleNextWeekSg('${sg.id}')">
+          <span class="next-week-subgroup-label">${sg.label}</span>
+          <span class="next-week-subgroup-chevron">▼</span>
+        </div>
+        <div class="next-week-subgroup-body">${trendsHtml}</div>
+      </div>`;
+    }).filter(Boolean).join("");
+    if (!subgroupsHtml) return "";
+    const total = (sec.subgroups||[]).reduce((s,sg)=>s+(sg.trends||[]).length,0);
+    return `<div class="next-week-sec open" id="nws-${sec.id}-${week.id}">
+      <div class="next-week-sec-header" onclick="toggleNextWeekSec('${sec.id}-${week.id}')">
+        <span class="next-week-sec-icon">${sec.icon}</span>
+        <span class="next-week-sec-title">${sec.title}</span>
+        <span class="next-week-sec-badge">${total}</span>
+        <span class="next-week-sec-chevron">▼</span>
+      </div>
+      <div class="next-week-sec-body">${subgroupsHtml}</div>
+    </div>`;
+  }).filter(Boolean).join("");
+  const totalTrends = (nw.sections||[]).reduce((s,sec)=>s+(sec.subgroups||[]).reduce((ss,sg)=>ss+(sg.trends||[]).length,0),0);
+  if (!totalTrends && !fin.length) return "";
+  return `<div class="next-week-banner open" id="nwb-${week.id}">
+    <div class="next-week-banner-header" onclick="toggleNextWeekBanner('${week.id}')">
+      <span class="next-week-banner-icon">🔮</span>
+      <span class="next-week-banner-title">${nw.label||"Lo que viene"}</span>
+      <span class="next-week-banner-count">${totalTrends} trend${totalTrends!==1?"s":""}</span>
+      <span class="next-week-banner-chevron">▼</span>
+    </div>
+    <div class="next-week-banner-body">${finHtml}${secsHtml}</div>
+  </div>`;
+}
+
+// ── Trends filters ────────────────────────────────────────────────────────────
 let TF = {country:"ALL", cat:"ALL", channel:"ALL", client:"ALL"};
 
-function toggleTFilters(){
-  const b=document.getElementById("tfBar"), btn=document.getElementById("tfToggleBtn");
-  b.classList.toggle("open");
-  btn.textContent = b.classList.contains("open") ? "Cerrar filtros ▴" : "Abrir filtros ▾";
-}
-function stf(type, val, el){
-  TF[type] = val;
-  document.getElementById("tfc-"+type).querySelectorAll(".filter-chip").forEach(b=>b.classList.remove("active","client-active"));
-  el.classList.add(type==="client" && val!=="ALL" ? "client-active" : "active");
-  renderTrends();
-}
-function clearTFilters(){
-  TF = {country:"ALL", cat:"ALL", channel:"ALL", client:"ALL"};
-  ["country","cat","channel","client"].forEach(t=>{
-    const chips = document.getElementById("tfc-"+t).querySelectorAll(".filter-chip");
-    chips.forEach(c=>c.classList.remove("active","client-active"));
-    chips[0].classList.add("active");
-  });
-  renderTrends();
+function toggleTFilters(){const b=document.getElementById("tfBar"),btn=document.getElementById("tfToggleBtn");b.classList.toggle("open");btn.textContent=b.classList.contains("open")?"Cerrar filtros ▴":"Abrir filtros ▾";}
+function stf(type,val,el){TF[type]=val;document.getElementById("tfc-"+type).querySelectorAll(".filter-chip").forEach(b=>b.classList.remove("active","client-active"));el.classList.add(type==="client"&&val!=="ALL"?"client-active":"active");renderTrends();}
+function clearTFilters(){TF={country:"ALL",cat:"ALL",channel:"ALL",client:"ALL"};["country","cat","channel","client"].forEach(t=>{const chips=document.getElementById("tfc-"+t).querySelectorAll(".filter-chip");chips.forEach(c=>c.classList.remove("active","client-active"));chips[0].classList.add("active");});renderTrends();}
+
+function trendMatchesClient(t,clientName){
+  if(clientName==="ALL")return true;
+  const cl=CLIENTS[clientName];if(!cl)return true;
+  const indKeywords={fastfood:["gastro","restaur","comida","food","fmcg","delivery","aliment"],restaurantes:["gastro","restaur","comida","food","delivery"],fintech:["fintech","financ","seguro","banco","wallet","pago","remesa"],ecommerce:["retail","ecommerce","moda","electr","compras","b2b"],travel:["viaje","travel","turismo"],fitness:["fitness","deporte","salud","bienestar"],beauty:["bellez","cosmet","skincare","estetic","moda"],retail:["retail","moda","electr"],petshop:["mascot","pet","animal"],telecom:["telecom","tech","digital","celular"],seguros:["seguro","auto"],ong:["ong","educ","cultura","social"],b2b:["b2b","comercio"]};
+  const tagValues=(t.tags||[]).map(tg=>tg.t.toLowerCase());
+  const why=(t.why||"").toLowerCase()+" "+(t.name||"").toLowerCase();
+  return cl.industry.some(ind=>{const kws=indKeywords[ind]||[];return kws.some(k=>why.includes(k)||tagValues.some(tv=>tv.includes(k)));});
 }
 
-// ── Client industry match for trends ─────────────────────────────────────────
-function trendMatchesClient(t, clientName) {
-  if (clientName === "ALL") return true;
-  const cl = CLIENTS[clientName];
-  if (!cl) return true;
-  // match by tag brand or channel overlap with client industry
-  const tagValues = (t.tags||[]).map(tg=>tg.t.toLowerCase());
-  const indKeywords = {
-    fastfood:["gastro","restaur","comida","food","fmcg","delivery","aliment"],
-    restaurantes:["gastro","restaur","comida","food","delivery"],
-    fintech:["fintech","financ","seguro","banco","wallet","pago","remesa"],
-    ecommerce:["retail","ecommerce","moda","electr","compras","b2b"],
-    travel:["viaje","travel","turismo"],
-    fitness:["fitness","deporte","salud","bienestar"],
-    beauty:["bellez","cosmet","skincare","estetic","moda"],
-    retail:["retail","moda","electr"],
-    petshop:["mascot","pet","animal"],
-    telecom:["telecom","tech","digital","celular"],
-    seguros:["seguro","auto"],
-    ong:["ong","educ","cultura","social"],
-    b2b:["b2b","comercio"]
-  };
-  const why = (t.why||"").toLowerCase() + " " + (t.name||"").toLowerCase();
-  return cl.industry.some(ind => {
-    const kws = indKeywords[ind] || [];
-    return kws.some(k => why.includes(k) || tagValues.some(tv=>tv.includes(k)));
-  });
-}
-
-// ── Trend render helper ───────────────────────────────────────────────────────
-function renderTrendItem(t, i, sid) {
-  const uid = sid+"-"+i;
-  // Only show non-channel tags (format + brand)
-  const visibleTags = (t.tags||[]).filter(tg => tg.c !== "channel");
-  const tagsHtml = visibleTags.length > 0
-    ? `<div class="trend-tags">${visibleTags.map(tg=>`<span class="tag ${tg.c}">${tg.t}</span>`).join("")}</div>`
-    : "";
-  const pubHtml = t.pub ? `<div class="trend-meta-row"><span class="trend-meta-label">PÚBLICO</span><span class="trend-meta-val">${t.pub}</span></div>` : "";
-  const brandHtml = t.brand ? `<div class="trend-meta-row"><span class="trend-meta-label">PARA MARCA</span><span class="trend-meta-val">${t.brand}</span></div>` : "";
-  const srcHtml = (t.sources||[]).length > 0
-    ? `<div class="trend-sources"><button class="sources-toggle" id="srcbtn-${uid}" onclick="toggleSources('${uid}')">▾ ver fuentes</button><div class="sources-list" id="src-${uid}">${(t.sources||[]).map((s,si)=>`<div class="source-item"><span class="source-num">[${si+1}]</span><a class="source-link" href="${s.url}" target="_blank" rel="noopener">${s.title}</a></div>`).join("")}</div></div>`
-    : "";
+function renderTrendItem(t,i,sid){
+  const uid=sid+"-"+i;
+  const visibleTags=(t.tags||[]).filter(tg=>tg.c!=="channel");
+  const tagsHtml=visibleTags.length>0?`<div class="trend-tags">${visibleTags.map(tg=>`<span class="tag ${tg.c}">${tg.t}</span>`).join("")}</div>`:"";
+  const pubHtml=t.pub?`<div class="trend-meta-row"><span class="trend-meta-label">PÚBLICO</span><span class="trend-meta-val">${t.pub}</span></div>`:"";
+  const brandHtml=t.brand?`<div class="trend-meta-row"><span class="trend-meta-label">PARA MARCA</span><span class="trend-meta-val">${t.brand}</span></div>`:"";
+  const srcHtml=(t.sources||[]).length>0?`<div class="trend-sources"><button class="sources-toggle" id="srcbtn-${uid}" onclick="toggleSources('${uid}')">▾ ver fuentes</button><div class="sources-list" id="src-${uid}">${(t.sources||[]).map((s,si)=>`<div class="source-item"><span class="source-num">[${si+1}]</span><a class="source-link" href="${s.url}" target="_blank" rel="noopener">${s.title}</a></div>`).join("")}</div></div>`:"";
   return `<div class="trend-item">
     <div class="trend-num">${String(i+1).padStart(2,"0")}</div>
     <div class="trend-content">
       <div class="trend-name">${t.name}</div>
       <div class="trend-why">${t.why}</div>
-      ${pubHtml}${brandHtml}
-      ${tagsHtml}
-      ${srcHtml}
+      ${pubHtml}${brandHtml}${tagsHtml}${srcHtml}
     </div>
   </div>`;
 }
 
-// ── Filter a list of trends ───────────────────────────────────────────────────
-function filterTrends(trends) {
-  return trends.filter(t => {
-    if (TF.channel !== "ALL") {
-      const hasChannel = (t.tags||[]).some(tg=>tg.c==="channel" && tg.t===TF.channel);
-      if (!hasChannel) return false;
-    }
-    if (!trendMatchesClient(t, TF.client)) return false;
+function filterTrends(trends){
+  return trends.filter(t=>{
+    if(TF.channel!=="ALL"){const hasChannel=(t.tags||[]).some(tg=>tg.c==="channel"&&tg.t===TF.channel);if(!hasChannel)return false;}
+    if(!trendMatchesClient(t,TF.client))return false;
     return true;
   });
 }
 
-// ── Main render ───────────────────────────────────────────────────────────────
 function renderTrends(){
-  const root = document.getElementById("root");
+  const root=document.getElementById("root");
+  const active=Object.entries(TF).filter(([k,v])=>v!=="ALL");
+  document.getElementById("tfSummary").textContent=active.length===0?"Todas las tendencias":active.map(([k,v])=>v).join(" · ");
 
-  // update filter summary
-  const active = Object.entries(TF).filter(([k,v])=>v!=="ALL");
-  document.getElementById("tfSummary").textContent =
-    active.length === 0 ? "Todas las tendencias" : active.map(([k,v])=>v).join(" · ");
-
-  root.innerHTML = WEEKS.map(week => {
-    const fin = week.finance || [];
-
-    // Finance block
-    const finHtml = fin.length === 0 ? "" : `
+  root.innerHTML=WEEKS.map(week=>{
+    const fin=week.finance||[];
+    const finHtml=fin.length===0?"": `
       <div class="finance-section" id="fin-${week.id}">
         <div class="finance-header" onclick="toggleFinance('${week.id}')">
           <span class="finance-icon">💹</span>
@@ -875,7 +765,7 @@ function renderTrends(){
         <div class="finance-body">
           ${fin.map((f,fi)=>{
             const typeLabels={pago:"Pago/prestación",fx:"Tipo de cambio",alerta:"Alerta",ciclo:"Ciclo nómina"};
-            const flags2=(f.countries||[]).map(c=>({BR:"🇧🇷",CO:"🇨🇴",AR:"🇦🇷",MX:"🇲🇽",CL:"🇨🇱",UY:"🇺🇾",EC:"🇪🇨",PE:"🇵🇪"}[c]||"")).join(" ");
+            const flags2=(f.countries||[]).map(c=>FLAGS[c]||"").join(" ");
             const srcHtml=(f.sources||[]).length>0?`<div class="trend-sources" style="margin-top:6px"><button class="sources-toggle" id="srcbtn-fin-${week.id}-${fi}" onclick="toggleSources('fin-${week.id}-${fi}')">▾ ver fuentes</button><div class="sources-list" id="src-fin-${week.id}-${fi}">${(f.sources||[]).map((s,si)=>`<div class="source-item"><span class="source-num">[${si+1}]</span><a class="source-link" href="${s.url}" target="_blank" rel="noopener">${s.title}</a></div>`).join("")}</div></div>`:"";
             return `<div class="finance-item">
               <div class="finance-item-top"><span class="finance-name">${f.name}</span><span class="finance-type ftype-${f.type||"ciclo"}">${typeLabels[f.type]||f.type}</span></div>
@@ -888,26 +778,17 @@ function renderTrends(){
         </div>
       </div>`;
 
-    // Sections
-    const secsHtml = week.sections.map(sec => {
-      // Country filter
-      if (TF.country !== "ALL") {
-        if (sec.id === "transversal" && TF.country !== "transversal") {
-          // transversal shows when country=ALL or country=transversal
-          if (TF.country !== "transversal") return "";
-        } else if (sec.id !== "transversal" && sec.id !== TF.country.toLowerCase() && TF.country !== "transversal") {
-          return "";
-        }
+    const secsHtml=week.sections.map(sec=>{
+      if(TF.country!=="ALL"){
+        if(sec.id==="transversal"&&TF.country!=="transversal")return "";
+        else if(sec.id!=="transversal"&&sec.id!==TF.country.toLowerCase()&&TF.country!=="transversal")return "";
       }
-
-      // Transversal: subgroups
-      if (sec.subgroups) {
-        const subgroupsHtml = sec.subgroups.map(sg => {
-          // Category filter
-          if (TF.cat !== "ALL" && TF.cat !== "pais" && sg.id !== TF.cat) return "";
-          const filtered = filterTrends(sg.trends);
-          if (filtered.length === 0) return "";
-          const itemsHtml = filtered.map((t,i) => renderTrendItem(t, i, sg.id)).join("");
+      if(sec.subgroups){
+        const subgroupsHtml=sec.subgroups.map(sg=>{
+          if(TF.cat!=="ALL"&&TF.cat!=="pais"&&sg.id!==TF.cat)return "";
+          const filtered=filterTrends(sg.trends);
+          if(filtered.length===0)return "";
+          const itemsHtml=filtered.map((t,i)=>renderTrendItem(t,i,sg.id)).join("");
           return `<div class="subgroup open" id="sg-${sg.id}">
             <div class="subgroup-header" style="background:${sg.color}" onclick="toggleSubgroup('${sg.id}')">
               <span class="subgroup-label" style="color:${sg.colorText}">${sg.label}</span>
@@ -917,9 +798,8 @@ function renderTrends(){
             <div class="subgroup-body">${itemsHtml}</div>
           </div>`;
         }).filter(Boolean).join("");
-
-        if (!subgroupsHtml) return "";
-        const totalCount = sec.subgroups.reduce((s,sg)=>s+filterTrends(sg.trends).length,0);
+        if(!subgroupsHtml)return "";
+        const totalCount=sec.subgroups.reduce((s,sg)=>s+filterTrends(sg.trends).length,0);
         return `<div class="sec-item open" id="sec-${sec.id}">
           <div class="sec-header" onclick="toggleSec('${sec.id}')">
             <span class="sec-icon">${sec.icon}</span>
@@ -930,16 +810,10 @@ function renderTrends(){
           <div class="sec-body" style="padding:12px 16px">${subgroupsHtml}</div>
         </div>`;
       }
-
-      // Country sections (by-país)
-      if (TF.cat !== "ALL" && TF.cat !== "pais" && TF.cat !== "cultura-pop" && TF.cat !== "tendencia-digital") {
-        // only show country sections if cat=ALL or cat=pais
-      }
-      if (TF.cat === "cultura-pop" || TF.cat === "tendencia-digital") return "";
-
-      const filtered = filterTrends(sec.trends);
-      if (filtered.length === 0) return "";
-      const tbody = filtered.map((t,i) => renderTrendItem(t, i, sec.id)).join("");
+      if(TF.cat==="cultura-pop"||TF.cat==="tendencia-digital")return "";
+      const filtered=filterTrends(sec.trends);
+      if(filtered.length===0)return "";
+      const tbody=filtered.map((t,i)=>renderTrendItem(t,i,sec.id)).join("");
       return `<div class="sec-item open" id="sec-${sec.id}">
         <div class="sec-header" onclick="toggleSec('${sec.id}')">
           <span class="sec-icon">${sec.icon}</span>
@@ -951,8 +825,8 @@ function renderTrends(){
       </div>`;
     }).filter(Boolean).join("");
 
-    const totalAll = week.sections.reduce((s,sec)=>{
-      if(sec.subgroups) return s+sec.subgroups.reduce((ss,sg)=>ss+sg.trends.length,0);
+    const totalAll=week.sections.reduce((s,sec)=>{
+      if(sec.subgroups)return s+sec.subgroups.reduce((ss,sg)=>ss+sg.trends.length,0);
       return s+sec.trends.length;
     },0);
 
@@ -964,11 +838,26 @@ function renderTrends(){
         </div>
         <div class="week-right"><div style="display:flex;gap:4px">${week.sections.filter(s=>s.id!=="transversal").map(s=>`<span style="font-size:15px">${s.icon}</span>`).join("")}</div><span class="chevron">▼</span></div>
       </div>
-      <div class="week-body">${finHtml}${secsHtml}</div>
+      <div class="week-body">${renderNextWeek(week)}${finHtml}${secsHtml}</div>
     </div>`;
   }).join("");
 }
-(async()=>{try{const r=await fetch('data.b64?v='+Date.now());if(!r.ok)throw new Error('HTTP '+r.status);const b64=(await r.text()).trim().replace(/\s+/g,'');const bin=Uint8Array.from(atob(b64),c=>c.charCodeAt(0));const s=new Blob([bin]).stream().pipeThrough(new DecompressionStream('gzip'));const t=await new Response(s).text();WEEKS=JSON.parse(t);console.log('[trends-radar] loaded',WEEKS.length,'weeks')}catch(e){console.error('[trends-radar] data.b64 load failed:',e)}renderTrends()})();
+
+(async()=>{
+  try{
+    const r=await fetch('data.b64?v='+Date.now());
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    const b64=(await r.text()).trim().replace(/\s+/g,'');
+    const bin=Uint8Array.from(atob(b64),c=>c.charCodeAt(0));
+    const s=new Blob([bin]).stream().pipeThrough(new DecompressionStream('gzip'));
+    const t=await new Response(s).text();
+    WEEKS=JSON.parse(t);
+    console.log('[trends-radar] loaded',WEEKS.length,'weeks');
+  }catch(e){
+    console.error('[trends-radar] data.b64 load failed:',e);
+  }
+  renderTrends();
+})();
 </script>
 </body>
 </html>
