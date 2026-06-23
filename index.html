@@ -199,6 +199,15 @@ header{background:var(--black);color:var(--white)}
 .ftype-fx{background:#FFF3CD;color:#856404}
 .ftype-alerta{background:#FDECEA;color:#C0392B}
 .ftype-ciclo{background:#EBF7FF;color:#2A7AB5}
+
+/* SEMANA EN CURSO / PROXIMA SEMANA labels */
+.week-status-badge{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:700;padding:3px 10px;border-radius:20px;text-transform:uppercase;letter-spacing:.06em;font-family:'Space Mono',monospace}
+.badge-current{background:#D4EDDA;color:#1A6B30}
+.badge-next{background:rgba(135,219,255,.15);color:#87DBFF}
+.next-week-divider{display:flex;align-items:center;gap:12px;padding:16px 22px 8px;border-top:1px solid rgba(135,219,255,.2)}
+.next-week-divider-line{flex:1;height:1px;background:rgba(135,219,255,.2)}
+.next-week-divider-text{font-family:'Space Mono',monospace;font-size:10px;font-weight:700;color:#87DBFF;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap}
+
 /* PROXIMA SEMANA */
 .next-week-banner{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);border:1px solid #0f3460;border-radius:12px;margin:0 22px 16px;overflow:hidden}
 .next-week-banner-header{display:flex;align-items:center;gap:8px;padding:12px 16px;cursor:pointer;user-select:none}
@@ -508,7 +517,8 @@ const CALENDAR=[
   {date:"2026-06-01",name:"CyberDay Chile",countries:["CL"],category:"comercial",impact:"alto",description:"Evento de e-commerce más importante de Chile (1–3 junio). Preparación clave desde mayo.",brand:"Journey: teaser (2 sem antes) → early access → peak días 1-2 → recuperación de carrito.",sectors:["Ecommerce","Retail","Electrónica","Moda","Viajes","Travel","Fintech","Telecom","Belleza"]},
   {date:"2026-06-01",name:"Día del Niño + Elecciones Judiciales (MX)",countries:["MX"],category:"civica",impact:"alto",description:"Día del Niño festivo y comercial; simultáneamente elecciones al Poder Judicial. Contexto polarizado. Brand safety crítico.",brand:"Separar creatividades. Las de niños no deben rozar el contexto electoral.",sectors:["Juguetes","Entretenimiento","Retail","Ecommerce","Telecom"]},
   {date:"2026-06-12",name:"Día dos Namorados (BR)",countries:["BR"],category:"comercial",impact:"alto",description:"San Valentín brasileño. Alta conversión en flores, joyas, experiencias y restaurantes.",brand:"Segmentación de parejas. Journey de regalo personalizado. Ventana: 2 semanas antes.",sectors:["Flores","Joyería","Gastronomía","Restaurantes","Viajes","Travel","Ecommerce","Belleza","Cosméticos"]},
-  {date:"2026-06-16",name:"Día del Padre (CO · EC · PE)",countries:["CO","EC","PE"],category:"comercial",impact:"alto",description:"Tercer domingo de junio. Segunda fecha de regalo más importante del año en estos mercados.",brand:"Early journey desde primera semana de junio.",sectors:["Retail","Electrónica","Ropa","Gastronomía","Restaurantes","Deporte","Fitness","Petshop"]},
+  {date:"2026-06-21",name:"Día del Padre (AR · UY · CL)",countries:["AR","UY","CL"],category:"comercial",impact:"alto",description:"Tercer domingo de junio en Argentina, Uruguay y Chile. Fecha de alto volumen comercial en estas economías.",brand:"Journey completo desde primera semana de junio. Electrónica, gastronomía y experiencias son las categorías líderes.",sectors:["Retail","Electrónica","Ropa","Gastronomía","Restaurantes","Deporte","Fitness","Seguros","Telecom"]},
+  {date:"2026-06-21",name:"Día del Padre (CO · EC · PE · MX)",countries:["CO","EC","PE","MX"],category:"comercial",impact:"alto",description:"Tercer domingo de junio. Segunda fecha de regalo más importante del año en estos mercados.",brand:"Early journey desde primera semana de junio.",sectors:["Retail","Electrónica","Ropa","Gastronomía","Restaurantes","Deporte","Fitness","Petshop"]},
   {date:"2026-06-20",name:"Día de la Bandera (AR)",countries:["AR"],category:"civica",impact:"medio",description:"Feriado nacional argentino. Identidad nacional moderada.",brand:"Contenido patriótico. Bajo impacto comercial directo.",sectors:["Medios","Educación","Telecom"]},
   {date:"2026-06-21",name:"Inti Raymi — Fiesta del Sol",countries:["EC","PE"],category:"cultural",impact:"alto",description:"Celebración andina del solsticio. Alta sensibilidad cultural. Mal uso puede generar backlash fuerte.",brand:"Solo activar si la marca tiene conexión auténtica. Evitar apropiación cultural.",sectors:["Turismo","Travel","Artesanía","ONG","Cultura"]},
   {date:"2026-06-29",name:"Hot Sale México",countries:["MX"],category:"comercial",impact:"alto",description:"Evento de e-commerce más importante de México (29 jun–1 jul). Récord en 2025.",brand:"Journey: preventa (10 días antes) → early access → peak → remarketing día 3.",sectors:["Ecommerce","Retail","Electrónica","Moda","Viajes","Travel","Fintech","Telecom","FMCG","B2B"]},
@@ -695,15 +705,22 @@ function renderNextWeek(week) {
   }).filter(Boolean).join("");
   const totalTrends = (nw.sections||[]).reduce((s,sec)=>s+(sec.subgroups||[]).reduce((ss,sg)=>ss+(sg.trends||[]).length,0),0);
   if (!totalTrends && !fin.length) return "";
-  return `<div class="next-week-banner open" id="nwb-${week.id}">
-    <div class="next-week-banner-header" onclick="toggleNextWeekBanner('${week.id}')">
-      <span class="next-week-banner-icon">🔮</span>
-      <span class="next-week-banner-title">${nw.label||"Lo que viene"}</span>
-      <span class="next-week-banner-count">${totalTrends} trend${totalTrends!==1?"s":""}</span>
-      <span class="next-week-banner-chevron">▼</span>
+  return `
+    <div class="next-week-divider">
+      <div class="next-week-divider-line"></div>
+      <div class="next-week-divider-text">🔮 Lo que viene</div>
+      <div class="next-week-divider-line"></div>
     </div>
-    <div class="next-week-banner-body">${finHtml}${secsHtml}</div>
-  </div>`;
+    <div class="next-week-banner open" id="nwb-${week.id}">
+      <div class="next-week-banner-header" onclick="toggleNextWeekBanner('${week.id}')">
+        <span class="next-week-banner-icon">🔮</span>
+        <span class="next-week-banner-title">${nw.label||"Lo que viene"}</span>
+        <span class="week-status-badge badge-next" style="margin-left:4px">Próxima semana</span>
+        <span class="next-week-banner-count" style="margin-left:auto">${totalTrends} trend${totalTrends!==1?"s":""}</span>
+        <span class="next-week-banner-chevron">▼</span>
+      </div>
+      <div class="next-week-banner-body">${finHtml}${secsHtml}</div>
+    </div>`;
 }
 
 // ── Trends filters ────────────────────────────────────────────────────────────
@@ -833,7 +850,10 @@ function renderTrends(){
     return `<div class="week-card open" id="week-${week.id}">
       <div class="week-header" onclick="toggleWeek('${week.id}')">
         <div>
-          <div class="week-label">${week.label}</div>
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+            <div class="week-label">${week.label}</div>
+            <span class="week-status-badge badge-current">🟢 En curso</span>
+          </div>
           <div class="week-meta">${totalAll} tendencias · ${fin.length} señal${fin.length!==1?"es":""} financiera${fin.length!==1?"s":""}</div>
         </div>
         <div class="week-right"><div style="display:flex;gap:4px">${week.sections.filter(s=>s.id!=="transversal").map(s=>`<span style="font-size:15px">${s.icon}</span>`).join("")}</div><span class="chevron">▼</span></div>
