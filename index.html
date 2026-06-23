@@ -636,12 +636,14 @@ function toggleSources(uid){
 
 // ── TABS ESTA SEMANA / LO QUE VIENE ──────────────────────────────────────────
 function switchWeekTab(wid, tab) {
-  document.getElementById("tab-current-"+wid).classList.toggle("active", tab==="current");
-  document.getElementById("tab-next-"+wid).classList.toggle("active", tab==="next");
   document.getElementById("panel-current-"+wid).classList.toggle("active", tab==="current");
   document.getElementById("panel-next-"+wid).classList.toggle("active", tab==="next");
-  document.querySelector(`#week-tabs-${wid} .week-tab-btn.tab-current`).classList.toggle("active", tab==="current");
-  document.querySelector(`#week-tabs-${wid} .week-tab-btn.tab-next`).classList.toggle("active", tab==="next");
+  const tabs = document.getElementById("week-tabs-"+wid);
+  if (!tabs) return;
+  tabs.querySelectorAll(".week-tab-btn").forEach(btn => {
+    const isCurrent = btn.classList.contains("tab-current");
+    btn.classList.toggle("active", tab==="current" ? isCurrent : !isCurrent);
+  });
 }
 function toggleNextWeekFinance(wid){document.getElementById("nwf-"+wid).classList.toggle("open")}
 function toggleNextWeekSec(sid){document.getElementById("nws-"+sid).classList.toggle("open")}
