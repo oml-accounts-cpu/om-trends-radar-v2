@@ -200,63 +200,53 @@ header{background:var(--black);color:var(--white)}
 .ftype-alerta{background:#FDECEA;color:#C0392B}
 .ftype-ciclo{background:#EBF7FF;color:#2A7AB5}
 
-/* SEMANA EN CURSO / PROXIMA SEMANA labels */
-.week-status-badge{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:700;padding:3px 10px;border-radius:20px;text-transform:uppercase;letter-spacing:.06em;font-family:'Space Mono',monospace}
-.badge-current{background:#D4EDDA;color:#1A6B30}
-.badge-next{background:rgba(135,219,255,.15);color:#87DBFF}
-.next-week-divider{display:flex;align-items:center;gap:12px;padding:16px 22px 8px;border-top:1px solid rgba(135,219,255,.2)}
-.next-week-divider-line{flex:1;height:1px;background:rgba(135,219,255,.2)}
-.next-week-divider-text{font-family:'Space Mono',monospace;font-size:10px;font-weight:700;color:#87DBFF;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap}
 
-/* PROXIMA SEMANA */
-.next-week-banner{background:linear-gradient(135deg,#1a1a2e 0%,#16213e 100%);border:1px solid #0f3460;border-radius:12px;margin:0 22px 16px;overflow:hidden}
-.next-week-banner-header{display:flex;align-items:center;gap:8px;padding:12px 16px;cursor:pointer;user-select:none}
-.next-week-banner-header:hover{background:rgba(255,255,255,.04)}
-.next-week-banner-icon{font-size:16px}
-.next-week-banner-title{font-size:13px;font-weight:700;color:#87DBFF;flex:1}
-.next-week-banner-count{font-size:11px;font-weight:700;background:rgba(135,219,255,.15);color:#87DBFF;padding:2px 8px;border-radius:20px}
-.next-week-banner-chevron{font-size:11px;color:#87DBFF;transition:transform .2s}
-.next-week-banner.open .next-week-banner-chevron{transform:rotate(180deg)}
-.next-week-banner-body{display:none;padding:0 16px 14px}
-.next-week-banner.open .next-week-banner-body{display:block}
-.next-week-finance{border:1px solid #0f3460;border-radius:10px;background:rgba(15,52,96,.3);margin-bottom:12px;overflow:hidden}
-.next-week-finance-header{display:flex;align-items:center;gap:8px;padding:10px 14px;cursor:pointer}
-.next-week-finance-header:hover{background:rgba(135,219,255,.05)}
-.next-week-finance-title{font-size:12px;font-weight:700;color:#87DBFF;flex:1}
-.next-week-finance-count{font-size:10px;font-weight:700;background:rgba(135,219,255,.15);color:#87DBFF;padding:2px 7px;border-radius:20px}
-.next-week-finance-chevron{font-size:10px;color:#87DBFF;transition:transform .2s}
+/* TABS ESTA SEMANA / LO QUE VIENE */
+.week-tabs{display:flex;gap:4px;background:var(--bg);border-radius:8px;padding:3px;margin:0 22px 16px}
+.week-tab-btn{flex:1;padding:7px 16px;border-radius:6px;border:none;background:transparent;font-size:12px;font-weight:700;color:var(--t3);cursor:pointer;font-family:'DM Sans',sans-serif;transition:all .15s}
+.week-tab-btn.active{background:var(--card);border:1px solid var(--border);color:var(--t1)}
+.week-tab-btn.active.tab-current{color:#1A6B30;border-color:#D4EDDA}
+.week-tab-btn.active.tab-next{color:#185FA5;border-color:#B5D4F4}
+.week-tab-panel{display:none}
+.week-tab-panel.active{display:block}
+/* Next week content — same styles as current but with blue accent */
+.next-week-finance{border:1px solid #D4EDDA;border-radius:10px;background:#F6FDF7;margin:0 22px 16px;overflow:hidden}
+.next-week-finance-header{display:flex;align-items:center;gap:8px;padding:12px 16px;cursor:pointer;user-select:none}
+.next-week-finance-header:hover{background:#EDFAF0}
+.next-week-finance-title{font-size:13px;font-weight:700;color:#185FA5;flex:1}
+.next-week-finance-count{font-size:11px;font-weight:700;background:#D4EDDA;color:#1A6B30;padding:2px 8px;border-radius:20px}
+.next-week-finance-chevron{font-size:11px;color:#4CAF50;transition:transform .2s}
 .next-week-finance.open .next-week-finance-chevron{transform:rotate(180deg)}
-.next-week-finance-body{display:none;padding:0 14px 12px}
+.next-week-finance-body{display:none;padding:0 16px 14px}
 .next-week-finance.open .next-week-finance-body{display:block}
-.next-week-finance-item{padding:8px 0;border-bottom:1px solid rgba(135,219,255,.1)}
+.next-week-finance-item{padding:10px 0;border-bottom:1px solid #D4EDDA}
 .next-week-finance-item:last-child{border-bottom:none}
-.next-week-finance-name{font-size:12px;font-weight:700;color:#e0f0ff;margin-bottom:3px}
-.next-week-finance-why{font-size:11px;color:#87DBFF;opacity:.8;line-height:1.5;margin-bottom:5px}
-.next-week-finance-action{background:rgba(135,219,255,.08);border-left:2px solid #87DBFF;border-radius:4px;padding:5px 8px;font-size:11px;color:#87DBFF;font-style:italic}
-.next-week-sec{margin-bottom:10px;border-radius:8px;overflow:hidden;border:1px solid rgba(135,219,255,.15)}
-.next-week-sec-header{display:flex;align-items:center;gap:8px;padding:9px 12px;cursor:pointer;background:rgba(135,219,255,.04)}
-.next-week-sec-header:hover{background:rgba(135,219,255,.08)}
-.next-week-sec-icon{font-size:15px}
-.next-week-sec-title{font-size:12px;font-weight:700;color:#e0f0ff;flex:1}
-.next-week-sec-badge{font-size:10px;font-weight:700;background:rgba(135,219,255,.15);color:#87DBFF;padding:2px 7px;border-radius:20px}
-.next-week-sec-chevron{font-size:10px;color:#87DBFF;transition:transform .2s}
+.next-week-finance-name{font-size:13px;font-weight:700;color:#1A3A20;margin-bottom:3px}
+.next-week-finance-why{font-size:12px;color:#2D5A3D;line-height:1.5;margin-bottom:6px}
+.next-week-finance-action{background:#D4EDDA;border-left:3px solid #4CAF50;border-radius:6px;padding:7px 10px;font-size:11px;color:#1A3A20;line-height:1.5;font-style:italic}
+.next-week-sec{border-bottom:1px solid var(--border)}.next-week-sec:last-child{border-bottom:none}
+.next-week-sec-header{display:flex;align-items:center;gap:10px;padding:14px 22px;cursor:pointer;user-select:none;transition:background .15s}
+.next-week-sec-header:hover{background:#FAFAF9}
+.next-week-sec-icon{font-size:18px}
+.next-week-sec-title{font-size:14px;font-weight:600;flex:1}
+.next-week-sec-badge{background:var(--bg);color:var(--t2);font-size:11px;font-weight:700;padding:3px 9px;border-radius:20px}
+.next-week-sec-chevron{font-size:11px;color:var(--t3);transition:transform .2s}
 .next-week-sec.open .next-week-sec-chevron{transform:rotate(180deg)}
-.next-week-sec-body{display:none;background:rgba(10,10,20,.5)}
+.next-week-sec-body{display:none;padding:0 22px 18px}
 .next-week-sec.open .next-week-sec-body{display:block}
-.next-week-subgroup{border-bottom:1px solid rgba(135,219,255,.08)}
-.next-week-subgroup:last-child{border-bottom:none}
-.next-week-subgroup-header{display:flex;align-items:center;justify-content:space-between;padding:7px 12px;cursor:pointer}
-.next-week-subgroup-label{font-size:11px;font-weight:700;color:#87DBFF;opacity:.8}
-.next-week-subgroup-chevron{font-size:9px;color:#87DBFF;transition:transform .2s}
+.next-week-subgroup{margin-bottom:14px;border-radius:8px;overflow:hidden;border:1px solid var(--border)}
+.next-week-subgroup-header{display:flex;align-items:center;justify-content:space-between;padding:9px 14px;cursor:pointer;user-select:none}
+.next-week-subgroup-label{font-size:12px;font-weight:700}
+.next-week-subgroup-chevron{font-size:10px;transition:transform .2s}
 .next-week-subgroup.open .next-week-subgroup-chevron{transform:rotate(180deg)}
-.next-week-subgroup-body{display:none}
+.next-week-subgroup-body{display:none;border-top:1px solid var(--border);background:var(--card)}
 .next-week-subgroup.open .next-week-subgroup-body{display:block}
-.next-week-trend{padding:10px 12px;border-bottom:1px solid rgba(135,219,255,.06);display:flex;gap:10px}
+.next-week-trend{padding:12px 14px;border-bottom:1px solid var(--border);display:flex;gap:14px}
 .next-week-trend:last-child{border-bottom:none}
-.next-week-trend-num{font-family:'Space Mono',monospace;font-size:10px;color:#87DBFF;opacity:.5;min-width:18px;padding-top:2px}
-.next-week-trend-name{font-size:13px;font-weight:600;color:#e0f0ff;margin-bottom:3px}
-.next-week-trend-why{font-size:12px;color:#87DBFF;opacity:.75;line-height:1.5;margin-bottom:5px}
-.next-week-trend-brand{font-size:11px;color:#87DBFF;opacity:.6;font-style:italic;margin-bottom:4px}
+.next-week-trend-num{font-family:'Space Mono',monospace;font-size:11px;color:var(--t3);padding-top:2px;min-width:20px}
+.next-week-trend-name{font-size:14px;font-weight:600;margin-bottom:4px;color:var(--t1)}
+.next-week-trend-why{font-size:13px;color:var(--t2);line-height:1.5;margin-bottom:5px}
+.next-week-trend-brand{font-size:12px;color:var(--t2);font-style:italic;margin-bottom:4px}
 </style>
 </head>
 <body>
@@ -644,30 +634,42 @@ function toggleSources(uid){
   btn.textContent=list.classList.contains("open")?"▴ ocultar fuentes":"▾ ver fuentes";
 }
 
-// ── PROXIMA SEMANA ────────────────────────────────────────────────────────────
-function toggleNextWeekBanner(wid){document.getElementById("nwb-"+wid).classList.toggle("open")}
+// ── TABS ESTA SEMANA / LO QUE VIENE ──────────────────────────────────────────
+function switchWeekTab(wid, tab) {
+  document.getElementById("tab-current-"+wid).classList.toggle("active", tab==="current");
+  document.getElementById("tab-next-"+wid).classList.toggle("active", tab==="next");
+  document.getElementById("panel-current-"+wid).classList.toggle("active", tab==="current");
+  document.getElementById("panel-next-"+wid).classList.toggle("active", tab==="next");
+  document.querySelector(`#week-tabs-${wid} .week-tab-btn.tab-current`).classList.toggle("active", tab==="current");
+  document.querySelector(`#week-tabs-${wid} .week-tab-btn.tab-next`).classList.toggle("active", tab==="next");
+}
 function toggleNextWeekFinance(wid){document.getElementById("nwf-"+wid).classList.toggle("open")}
 function toggleNextWeekSec(sid){document.getElementById("nws-"+sid).classList.toggle("open")}
 function toggleNextWeekSg(sid){document.getElementById("nwsg-"+sid).classList.toggle("open")}
 
-function renderNextWeek(week) {
+function renderNextWeekContent(week) {
   const nw = week.next_week;
   if (!nw) return "";
   const fin = nw.finance || [];
   const finHtml = fin.length === 0 ? "" : `
     <div class="next-week-finance open" id="nwf-${week.id}">
       <div class="next-week-finance-header" onclick="toggleNextWeekFinance('${week.id}')">
-        <span style="font-size:14px">💹</span>
+        <span class="finance-icon">💹</span>
         <span class="next-week-finance-title">Radar Financiero</span>
         <span class="next-week-finance-count">${fin.length} señal${fin.length!==1?"es":""}</span>
         <span class="next-week-finance-chevron">▼</span>
       </div>
       <div class="next-week-finance-body">
-        ${fin.map(f=>`<div class="next-week-finance-item">
-          <div class="next-week-finance-name">${f.name} <span style="font-size:11px;opacity:.6">${(f.countries||[]).map(c=>FLAGS[c]||"").join(" ")}</span></div>
-          <div class="next-week-finance-why">${f.why}</div>
-          <div class="next-week-finance-action">💡 ${f.action}</div>
-        </div>`).join("")}
+        ${fin.map((f,fi)=>{
+          const typeLabels={pago:"Pago/prestación",fx:"Tipo de cambio",alerta:"Alerta",ciclo:"Ciclo nómina"};
+          const flags2=(f.countries||[]).map(c=>FLAGS[c]||"").join(" ");
+          return `<div class="next-week-finance-item">
+            <div class="finance-item-top"><span class="next-week-finance-name">${f.name}</span><span class="finance-type ftype-${f.type||"ciclo"}">${typeLabels[f.type]||f.type}</span></div>
+            <div style="font-size:13px;margin-bottom:3px">${flags2}</div>
+            <div class="next-week-finance-why">${f.why}</div>
+            <div class="next-week-finance-action">💡 ${f.action}</div>
+          </div>`;
+        }).join("")}
       </div>
     </div>`;
   const secsHtml = (nw.sections||[]).map(sec => {
@@ -677,16 +679,17 @@ function renderNextWeek(week) {
       const trendsHtml = trends.map((t,i)=>`
         <div class="next-week-trend">
           <div class="next-week-trend-num">${String(i+1).padStart(2,"0")}</div>
-          <div>
+          <div style="flex:1">
             <div class="next-week-trend-name">${t.name}</div>
             <div class="next-week-trend-why">${t.why}</div>
             ${t.brand?`<div class="next-week-trend-brand">↗ ${t.brand}</div>`:""}
           </div>
         </div>`).join("");
       return `<div class="next-week-subgroup open" id="nwsg-${sg.id}">
-        <div class="next-week-subgroup-header" onclick="toggleNextWeekSg('${sg.id}')">
-          <span class="next-week-subgroup-label">${sg.label}</span>
-          <span class="next-week-subgroup-chevron">▼</span>
+        <div class="next-week-subgroup-header" style="background:${sg.color}" onclick="toggleNextWeekSg('${sg.id}')">
+          <span class="next-week-subgroup-label" style="color:${sg.colorText}">${sg.label}</span>
+          <span style="font-size:10px;font-weight:700;background:${sg.colorText};color:#fff;padding:2px 8px;border-radius:20px;opacity:.8">${trends.length}</span>
+          <span class="next-week-subgroup-chevron" style="color:${sg.colorText}">▼</span>
         </div>
         <div class="next-week-subgroup-body">${trendsHtml}</div>
       </div>`;
@@ -697,30 +700,19 @@ function renderNextWeek(week) {
       <div class="next-week-sec-header" onclick="toggleNextWeekSec('${sec.id}-${week.id}')">
         <span class="next-week-sec-icon">${sec.icon}</span>
         <span class="next-week-sec-title">${sec.title}</span>
-        <span class="next-week-sec-badge">${total}</span>
+        <span class="next-week-sec-badge">${total} trend${total!==1?"s":""}</span>
         <span class="next-week-sec-chevron">▼</span>
       </div>
-      <div class="next-week-sec-body">${subgroupsHtml}</div>
+      <div class="next-week-sec-body" style="padding:0 22px 18px">${subgroupsHtml}</div>
     </div>`;
   }).filter(Boolean).join("");
   const totalTrends = (nw.sections||[]).reduce((s,sec)=>s+(sec.subgroups||[]).reduce((ss,sg)=>ss+(sg.trends||[]).length,0),0);
   if (!totalTrends && !fin.length) return "";
-  return `
-    <div class="next-week-divider">
-      <div class="next-week-divider-line"></div>
-      <div class="next-week-divider-text">🔮 Lo que viene</div>
-      <div class="next-week-divider-line"></div>
-    </div>
-    <div class="next-week-banner open" id="nwb-${week.id}">
-      <div class="next-week-banner-header" onclick="toggleNextWeekBanner('${week.id}')">
-        <span class="next-week-banner-icon">🔮</span>
-        <span class="next-week-banner-title">${nw.label||"Lo que viene"}</span>
-        <span class="week-status-badge badge-next" style="margin-left:4px">Próxima semana</span>
-        <span class="next-week-banner-count" style="margin-left:auto">${totalTrends} trend${totalTrends!==1?"s":""}</span>
-        <span class="next-week-banner-chevron">▼</span>
-      </div>
-      <div class="next-week-banner-body">${finHtml}${secsHtml}</div>
-    </div>`;
+  return finHtml + secsHtml;
+}
+
+function renderNextWeek(week) {
+  return "";  // tabs are rendered inline in renderTrends
 }
 
 // ── Trends filters ────────────────────────────────────────────────────────────
@@ -847,18 +839,28 @@ function renderTrends(){
       return s+sec.trends.length;
     },0);
 
+    const nwContent = renderNextWeekContent(week);
+    const hasNextWeek = !!nwContent;
+
+    const tabsHtml = hasNextWeek ? `
+      <div class="week-tabs" id="week-tabs-${week.id}">
+        <button class="week-tab-btn tab-current active" onclick="switchWeekTab('${week.id}','current')">📡 Esta semana</button>
+        <button class="week-tab-btn tab-next" onclick="switchWeekTab('${week.id}','next')">🔮 Lo que viene</button>
+      </div>` : "";
+
     return `<div class="week-card open" id="week-${week.id}">
       <div class="week-header" onclick="toggleWeek('${week.id}')">
         <div>
-          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
-            <div class="week-label">${week.label}</div>
-            <span class="week-status-badge badge-current">🟢 En curso</span>
-          </div>
+          <div class="week-label">${week.label}</div>
           <div class="week-meta">${totalAll} tendencias · ${fin.length} señal${fin.length!==1?"es":""} financiera${fin.length!==1?"s":""}</div>
         </div>
         <div class="week-right"><div style="display:flex;gap:4px">${week.sections.filter(s=>s.id!=="transversal").map(s=>`<span style="font-size:15px">${s.icon}</span>`).join("")}</div><span class="chevron">▼</span></div>
       </div>
-      <div class="week-body">${renderNextWeek(week)}${finHtml}${secsHtml}</div>
+      <div class="week-body">
+        ${tabsHtml}
+        <div class="week-tab-panel active" id="panel-current-${week.id}">${finHtml}${secsHtml}</div>
+        ${hasNextWeek ? `<div class="week-tab-panel" id="panel-next-${week.id}">${nwContent}</div>` : ""}
+      </div>
     </div>`;
   }).join("");
 }
