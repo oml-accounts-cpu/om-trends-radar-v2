@@ -199,6 +199,23 @@ header{background:var(--black);color:var(--white)}
 .ftype-fx{background:#FFF3CD;color:#856404}
 .ftype-alerta{background:#FDECEA;color:#C0392B}
 .ftype-ciclo{background:#EBF7FF;color:#2A7AB5}
+/* MONTH NAVIGATION */
+.cal-nav{display:flex;align-items:center;justify-content:space-between;margin:20px 0 16px}
+.cal-nav-btn{background:var(--card);border:1px solid var(--border);color:var(--t2);width:36px;height:36px;border-radius:50%;cursor:pointer;font-size:16px;display:flex;align-items:center;justify-content:center;transition:all .15s;font-family:'DM Sans',sans-serif}
+.cal-nav-btn:hover{background:var(--black);color:var(--white);border-color:var(--black)}
+.cal-nav-btn:disabled{opacity:.3;cursor:not-allowed}
+.cal-nav-month{font-family:'Space Mono',monospace;font-size:14px;font-weight:700;color:var(--t1);letter-spacing:.04em}
+.cal-nav-count{font-size:11px;color:var(--t3);font-family:'Space Mono',monospace;margin-top:2px;text-align:center}
+/* DYNAMIC EVENTS */
+.cal-accent.concierto{background:var(--purple)}
+.cal-accent.deporte{background:var(--red)}
+.cal-accent.estreno{background:var(--green)}
+.cal-accent.trend{background:var(--yellow)}
+.cat-concierto{background:#F3EEFF;color:#6B4DB8}
+.cat-deporte{background:#FEF1EC;color:#C05A30}
+.cat-estreno{background:#E8FDF8;color:#0A6B55}
+.cat-trend{background:#FFFAE8;color:#9A7200}
+.cal-dynamic-badge{font-size:9px;font-weight:700;background:#EBF7FF;color:#2A7AB5;padding:1px 6px;border-radius:10px;margin-top:4px;display:inline-block}
 
 
 /* TABS ESTA SEMANA / LO QUE VIENE */
@@ -282,7 +299,10 @@ header{background:var(--black);color:var(--white)}
           <span class="filters-title">Filtros</span>
           <span class="filters-summary" id="tfSummary">Todas las tendencias</span>
         </div>
-        <button class="filter-toggle-btn" id="tfToggleBtn">Abrir filtros ▾</button>
+        <div style="display:flex;gap:6px">
+          <button class="filter-toggle-btn" id="expandAllBtn" onclick="event.stopPropagation();toggleExpandAll()">Expandir todo</button>
+          <button class="filter-toggle-btn" id="tfToggleBtn">Abrir filtros ▾</button>
+        </div>
       </div>
       <div class="filters-body">
         <div class="filter-section">
@@ -437,6 +457,14 @@ header{background:var(--black);color:var(--white)}
         </div>
       </div>
     </div>
+    <div class="cal-nav" id="calNav">
+      <button class="cal-nav-btn" id="calPrevBtn" onclick="changeCalMonth(-1)">←</button>
+      <div style="text-align:center">
+        <div class="cal-nav-month" id="calMonthLabel"></div>
+        <div class="cal-nav-count" id="calMonthCount"></div>
+      </div>
+      <button class="cal-nav-btn" id="calNextBtn" onclick="changeCalMonth(1)">→</button>
+    </div>
     <div class="toolbar" id="toolbar"><span class="results-count" id="rCount"></span></div>
     <div id="cal-root"></div>
   </div>
@@ -539,37 +567,125 @@ function toggleFilters(){const b=document.getElementById("fBar"),btn=document.ge
 function sf(type,val,el){F[type]=val;document.getElementById("fc-"+type).querySelectorAll(".filter-chip").forEach(b=>b.classList.remove("active","client-active"));el.classList.add(type==="client"&&val!=="ALL"?"client-active":"active");renderCal();}
 function clearFilters(){F={country:"ALL",cat:"ALL",impact:"ALL",industry:"ALL",client:"ALL"};["country","cat","impact","industry","client"].forEach(t=>{const chips=document.getElementById("fc-"+t).querySelectorAll(".filter-chip");chips.forEach(c=>c.classList.remove("active","client-active"));chips[0].classList.add("active");});renderCal();}
 
+let DYNAMIC_EVENTS = [];
+let currentCalMonth = new Date().getMonth();
+let currentCalYear = new Date().getFullYear();
+
+function changeCalMonth(dir) {
+  currentCalMonth += dir;
+  if (currentCalMonth > 11) { currentCalMonth = 0; currentCalYear++; }
+  if (currentCalMonth < 0) { currentCalMonth = 11; currentCalYear--; }
+  renderCal();
+}
+
+function getAllEvents() {
+  const static_ev = CALENDAR.map(e => ({...e, _dynamic: false}));
+  const dynamic_ev = DYNAMIC_EVENTS.map(e => ({...e, _dynamic: true}));
+  return [...static_ev, ...dynamic_ev].sort((a,b) => a.date.localeCompare(b.date));
+}
+
 function renderCal(){
-  const root=document.getElementById("cal-root");
-  let ev=CALENDAR.filter(e=>{
-    if(F.country!=="ALL"&&!e.countries.includes(F.country))return false;
-    if(F.cat!=="ALL"&&e.category!==F.cat)return false;
-    if(F.impact!=="ALL"&&e.impact!==F.impact)return false;
-    if(F.industry!=="ALL"){const fn=IND[F.industry];const sL=e.sectors.map(s=>s.toLowerCase());if(!sL.some(s=>fn(s)))return false;}
-    if(F.client!=="ALL"){const cl=CLIENTS[F.client];if(!cl)return false;const cOk=e.countries.some(c=>cl.countries.includes(c));const sL=e.sectors.map(s=>s.toLowerCase());const iOk=cl.industry.some(ind=>IND[ind]&&sL.some(s=>IND[ind](s)));if(!cOk||!iOk)return false;}
+  const root = document.getElementById("cal-root");
+  let allEv = getAllEvents();
+
+  // Apply filters
+  allEv = allEv.filter(e => {
+    if(F.country!=="ALL" && !e.countries.includes(F.country)) return false;
+    if(F.cat!=="ALL" && e.category!==F.cat) return false;
+    if(F.impact!=="ALL" && e.impact!==F.impact) return false;
+    if(F.industry!=="ALL" && !e._dynamic) {
+      const fn=IND[F.industry];const sL=(e.sectors||[]).map(s=>s.toLowerCase());
+      if(!sL.some(s=>fn(s))) return false;
+    }
+    if(F.client!=="ALL" && !e._dynamic) {
+      const cl=CLIENTS[F.client];if(!cl)return false;
+      const cOk=e.countries.some(c=>cl.countries.includes(c));
+      const sL=(e.sectors||[]).map(s=>s.toLowerCase());
+      const iOk=cl.industry.some(ind=>IND[ind]&&sL.some(s=>IND[ind](s)));
+      if(!cOk||!iOk)return false;
+    }
     return true;
-  }).sort((a,b)=>a.date.localeCompare(b.date));
+  });
+
+  // Filter by current month
+  const monthEv = allEv.filter(e => {
+    const d = new Date(e.date + "T12:00:00");
+    return d.getMonth() === currentCalMonth && d.getFullYear() === currentCalYear;
+  });
+
+  // Update nav
+  document.getElementById("calMonthLabel").textContent = `${MONTHS[currentCalMonth]} ${currentCalYear}`;
+  document.getElementById("calMonthCount").textContent = `${monthEv.length} evento${monthEv.length!==1?"s":""}`;
+
+  // Disable prev if before Jan 2026
+  const prevBtn = document.getElementById("calPrevBtn");
+  const nextBtn = document.getElementById("calNextBtn");
+  prevBtn.disabled = currentCalYear < 2026 || (currentCalYear === 2026 && currentCalMonth === 0);
+  nextBtn.disabled = currentCalYear > 2027;
+
   const active=Object.entries(F).filter(([k,v])=>v!=="ALL");
   const toolbar=document.getElementById("toolbar");
   const pills=active.map(([k,v])=>`<span class="active-pill">${k}: ${v}<span class="x" onclick="sf('${k}','ALL',document.querySelector('#fc-${k} .filter-chip'))">×</span></span>`).join("");
-  toolbar.innerHTML=`${pills}<span class="results-count" id="rCount">${ev.length} fecha${ev.length!==1?"s":""}</span>`;
-  document.getElementById("fSummary").textContent=ev.length===CALENDAR.length?"Todos los eventos":`${ev.length} de ${CALENDAR.length}`;
-  if(!ev.length){root.innerHTML=`<div class="no-results">Sin fechas para los filtros seleccionados.<br><button onclick="clearFilters()" style="margin-top:12px;background:var(--black);color:#fff;border:none;padding:7px 16px;border-radius:20px;cursor:pointer;font-family:inherit;font-weight:600;font-size:12px">Limpiar filtros</button></div>`;return;}
-  const bm={};
-  ev.forEach(e=>{const m=parseInt(e.date.split("-")[1])-1;if(!bm[m])bm[m]=[];bm[m].push(e);});
-  root.innerHTML=Object.entries(bm).map(([mi,evs])=>{
-    const cards=evs.map(e=>{
-      const d=new Date(e.date+"T12:00:00");
-      const ds=d.toLocaleDateString("es-CO",{day:"numeric",month:"short"}).toUpperCase();
-      const fl=e.countries.map(c=>FLAGS[c]||"").join("");
-      const rc=getClients(e);
-      const cb=rc.slice(0,3).map(n=>`<span class="ctag">${CLIENTS[n].e} ${n.split(" ")[0]}</span>`).join("");
-      const cm=rc.length>3?`<span class="ctag">+${rc.length-3}</span>`:"";
-      const calIdx=CALENDAR.indexOf(e);
-      return `<div class="cal-card" onclick="openM(${calIdx})"><div class="cal-accent ${e.category}"></div><div class="cal-inner"><div class="cal-top"><span class="cal-date">${ds}</span><span class="cal-impact impact-${e.impact}">${e.impact.toUpperCase()}</span></div><div class="cal-name">${e.name}</div><div class="cal-bottom"><span class="cal-flags">${fl}</span><span class="cal-cat cat-${e.category}">${e.category}</span></div>${rc.length?`<div class="cal-clients">${cb}${cm}</div>`:""}</div></div>`;
-    }).join("");
-    return `<div class="month-section"><div class="month-header"><span class="month-name">${MONTHS[parseInt(mi)]}</span><div class="month-line"></div><span class="month-count">${evs.length} fecha${evs.length!==1?"s":""}</span></div><div class="cal-grid">${cards}</div></div>`;
+  toolbar.innerHTML=`${pills}<span class="results-count" id="rCount">${monthEv.length} evento${monthEv.length!==1?"s":""} en ${MONTHS[currentCalMonth]}</span>`;
+  document.getElementById("fSummary").textContent = monthEv.length === 0 ? "Sin eventos" : `${monthEv.length} evento${monthEv.length!==1?"s":""}`;
+
+  if(!monthEv.length){
+    root.innerHTML=`<div class="no-results">Sin eventos para ${MONTHS[currentCalMonth]} ${currentCalYear}.<br><button onclick="clearFilters()" style="margin-top:12px;background:var(--black);color:#fff;border:none;padding:7px 16px;border-radius:20px;cursor:pointer;font-family:inherit;font-weight:600;font-size:12px">Limpiar filtros</button></div>`;
+    return;
+  }
+
+  const cards = monthEv.map(e => {
+    const d = new Date(e.date + "T12:00:00");
+    const ds = d.toLocaleDateString("es-CO",{day:"numeric",month:"short"}).toUpperCase();
+    const fl = e.countries.map(c=>FLAGS[c]||"").join("");
+    if (e._dynamic) {
+      return `<div class="cal-card" onclick="openDynamicM('${e.id}')">
+        <div class="cal-accent ${e.category||'trend'}"></div>
+        <div class="cal-inner">
+          <div class="cal-top"><span class="cal-date">${ds}</span><span class="cal-impact impact-${e.impact||'medio'}">${(e.impact||'medio').toUpperCase()}</span></div>
+          <div class="cal-name">${e.name}</div>
+          <div class="cal-bottom"><span class="cal-flags">${fl}</span><span class="cal-cat cat-${e.category||'trend'}">${e.category||'trend'}</span></div>
+          <span class="cal-dynamic-badge">📡 Radar</span>
+        </div>
+      </div>`;
+    }
+    const rc = getClients(e);
+    const cb = rc.slice(0,3).map(n=>`<span class="ctag">${CLIENTS[n].e} ${n.split(" ")[0]}</span>`).join("");
+    const cm = rc.length>3?`<span class="ctag">+${rc.length-3}</span>`:"";
+    const calIdx = CALENDAR.indexOf(e);
+    return `<div class="cal-card" onclick="openM(${calIdx})">
+      <div class="cal-accent ${e.category}"></div>
+      <div class="cal-inner">
+        <div class="cal-top"><span class="cal-date">${ds}</span><span class="cal-impact impact-${e.impact}">${e.impact.toUpperCase()}</span></div>
+        <div class="cal-name">${e.name}</div>
+        <div class="cal-bottom"><span class="cal-flags">${fl}</span><span class="cal-cat cat-${e.category}">${e.category}</span></div>
+        ${rc.length?`<div class="cal-clients">${cb}${cm}</div>`:""}
+      </div>
+    </div>`;
   }).join("");
+
+  root.innerHTML = `<div class="cal-grid">${cards}</div>`;
+}
+
+function openDynamicM(id) {
+  const e = DYNAMIC_EVENTS.find(ev => ev.id === id);
+  if (!e) return;
+  const d = new Date(e.date + "T12:00:00");
+  const df = d.toLocaleDateString("es-CO",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+  const fl = e.countries.map(c=>FLAGS[c]||"").join(" ");
+  document.getElementById("mBar").className = "modal-top-bar " + (e.category || "cultural");
+  document.getElementById("mTitle").textContent = e.name;
+  document.getElementById("mBody").innerHTML = `
+    <div class="mrow"><span class="mlabel">📅 Fecha</span><span style="font-size:12px;color:var(--t2)">${df}</span></div>
+    <div class="mrow"><span class="mlabel">🌍 Países</span><span style="font-size:16px;letter-spacing:2px">${fl}</span></div>
+    <div class="mrow"><span class="mlabel">📂 Tipo</span><span class="cal-cat cat-${e.category||'trend'}" style="font-size:10px">${e.category||'trend'}</span></div>
+    <div class="mdivider"></div>
+    <div class="msec">Descripción</div>
+    <div class="mdesc">${e.description||""}</div>
+    ${e.sources&&e.sources.length?`<div class="mdivider"></div><div class="msec">Fuentes</div><div class="mchips">${e.sources.map(s=>`<a href="${s.url}" target="_blank" class="mchip" style="color:var(--blue);text-decoration:none">${s.title}</a>`).join("")}</div>`:""}
+  `;
+  document.getElementById("mOverlay").classList.add("open");
+  document.body.style.overflow = "hidden";
 }
 
 function genClientBriefs(clientNames,category){
@@ -617,7 +733,11 @@ function showTab(id,btn){
   document.querySelectorAll(".tab-btn").forEach(el=>el.classList.remove("active"));
   document.getElementById("tab-"+id).classList.add("active");
   btn.classList.add("active");
-  if(id==="calendar")renderCal();
+  if(id==="calendar"){
+    currentCalMonth = new Date().getMonth();
+    currentCalYear = new Date().getFullYear();
+    renderCal();
+  }
 }
 
 let WEEKS=[];
@@ -715,6 +835,22 @@ function renderNextWeekContent(week) {
 
 function renderNextWeek(week) {
   return "";  // tabs are rendered inline in renderTrends
+}
+
+// ── Expand / Collapse all ─────────────────────────────────────────────────────
+let allExpanded = false;
+function toggleExpandAll() {
+  allExpanded = !allExpanded;
+  document.getElementById("expandAllBtn").textContent = allExpanded ? "Contraer todo" : "Expandir todo";
+  document.querySelectorAll(".week-card").forEach(card => {
+    card.classList.toggle("open", allExpanded);
+  });
+  document.querySelectorAll(".sec-item").forEach(el => el.classList.toggle("open", allExpanded));
+  document.querySelectorAll(".subgroup").forEach(el => el.classList.toggle("open", allExpanded));
+  document.querySelectorAll(".finance-section").forEach(el => el.classList.toggle("open", allExpanded));
+  document.querySelectorAll(".next-week-sec").forEach(el => el.classList.toggle("open", allExpanded));
+  document.querySelectorAll(".next-week-subgroup").forEach(el => el.classList.toggle("open", allExpanded));
+  document.querySelectorAll(".next-week-finance").forEach(el => el.classList.toggle("open", allExpanded));
 }
 
 // ── Trends filters ────────────────────────────────────────────────────────────
@@ -856,7 +992,7 @@ function renderTrends(){
           <div class="week-label">${week.label}</div>
           <div class="week-meta">${totalAll} tendencias · ${fin.length} señal${fin.length!==1?"es":""} financiera${fin.length!==1?"s":""}</div>
         </div>
-        <div class="week-right"><div style="display:flex;gap:4px">${week.sections.filter(s=>s.id!=="transversal").map(s=>`<span style="font-size:15px">${s.icon}</span>`).join("")}</div><span class="chevron">▼</span></div>
+        <div class="week-right"><div style="display:flex;gap:4px">${week.sections.filter(s=>s.id!=="transversal").map(s=>`<span style="font-size:15px">${s.icon}</span>`).join("")}</div></div>
       </div>
       <div class="week-body">
         ${tabsHtml}
@@ -879,6 +1015,12 @@ function renderTrends(){
     console.log('[trends-radar] loaded',WEEKS.length,'weeks');
   }catch(e){
     console.error('[trends-radar] data.b64 load failed:',e);
+  }
+  try{
+    const re=await fetch('events.json?v='+Date.now());
+    if(re.ok){ DYNAMIC_EVENTS=await re.json(); console.log('[trends-radar] loaded',DYNAMIC_EVENTS.length,'dynamic events'); }
+  }catch(e){
+    console.log('[trends-radar] no events.json found');
   }
   renderTrends();
 })();
