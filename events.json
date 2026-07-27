@@ -1,369 +1,91 @@
 [
   {
-    "id": "dyn-696111",
-    "date": "2026-07-19",
-    "name": "Final del Mundial 2026: España campeón 1-0 sobre Argentina",
+    "id": "dyn-836682",
+    "date": "2026-07-21",
+    "name": "Radio Jaguar «Cántalo» Ft. Osy — nuevo lanzamiento colombiano",
     "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "España derrotó 1-0 a Argentina en el alargue con gol de Ferrán Torres al minuto 105, consagrándose campeón del mundo. Argentina jugó con 10 por la expulsión de Enzo Fernández. Messi terminó su sexto Mundial como subcampeón. El evento detonó una avalancha de contenido en todas las redes de LATAM.",
-    "sources": [
-      {
-        "title": "¡España, campeón del Mundial 2026! Así fue el 1-0 a Argentina — CNN Español",
-        "url": "https://cnnespanol.cnn.com/2026/07/19/deportes/live-news/espana-argentina-final-mundial-2026-en-vivo-resultado-goles-orix"
-      },
-      {
-        "title": "España derrotó 1-0 a Argentina en el alargue — La Nación Argentina",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-por-el-mundial-2026-nid19072026/"
-      },
-      {
-        "title": "España, el gran campeón del Mundial 2026 — El Tiempo Colombia",
-        "url": "https://www.eltiempo.com/deportes/futbol-internacional/espana-el-gran-campeon-del-mundial-2026-vencio-con-justicia-a-argentina-y-se-quedo-con-la-copa-3572363"
-      }
-    ]
-  },
-  {
-    "id": "dyn-635268",
-    "date": "2026-07-19",
-    "name": "House of the Dragon T3 — Episodio 5 (Semana del 20 jul.)",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "El capítulo 5 de la tercera temporada se estrenó el domingo 19 de julio en HBO Max. La temporada tiene 8 episodios semanales, con el final el 9 de agosto. El ep. 6 llega el 26 de julio. La serie es trending cada lunes en LATAM tras el estreno dominical.",
-    "sources": [
-      {
-        "title": "House of the Dragon 3, capítulo 5: hora exacta del estreno hoy 19 de julio — Claro Sports",
-        "url": "https://www.clarosports.com/tendencias/cine-y-tv/estreno-capitulo-5-la-casa-del-dragon/"
-      },
-      {
-        "title": "Calendario de capítulos de 'La Casa del Dragón 3' — El Financiero MX",
-        "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/06/21/calendario-de-los-estrenos-de-capitulos-de-la-casa-del-dragon-temporada-3/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-689454",
-    "date": "2026-07-19",
-    "name": "Argentina subcampeón Mundial 2026 — duelo colectivo y orgullo",
-    "countries": [
-      "AR"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "Argentina perdió 1-0 ante España en el alargue del MetLife Stadium. Jugó con 10 por la expulsión de Enzo Fernández y sufrió lesiones de Lisandro y Cristian Romero. Messi cerró su sexto Mundial como subcampeón. El país vivió un duelo colectivo: hubo banderazos en aeropuertos pero sin festejo masivo oficial.",
-    "sources": [
-      {
-        "title": "Repercusiones de la derrota de Argentina ante España en la final del Mundial 2026 — La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1146124/mundial-2026/repercusiones-derrota-argentina-ante-espana-final-mundial-2026.html"
-      },
-      {
-        "title": "Justo campeón: la reacción de la prensa argentina tras la derrota ante España — En Cancha Chile",
-        "url": "https://www.encancha.cl/mundial-2026/2026/07/19/justo-campeon-la-reaccion-de-la-prensa-argentina-tras-la-derrota-ante-espana-en-la-final-del-mundial/"
-      },
-      {
-        "title": "Argentina dio pelea hasta el final, pero fue superado por España que ganó 1-0 — Infobae",
-        "url": "https://www.infobae.com/deportes/2026/07/19/argentina-espana-en-vivo-por-la-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-710504",
-    "date": "2026-07-19",
-    "name": "Memes Argentina vs España — Previa y post-final del Mundial",
-    "countries": [
-      "AR"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "Los memes de la final Argentina vs España inundaron redes con personajes históricos argentinos como San Martín, Mirtha Legrand y Cristóbal Colón. Post-partido explotaron memes del 'Dibu' Martínez y de Messi sentado en el campo sin zapatos viendo festejar a España.",
-    "sources": [
-      {
-        "title": "Los mejores memes calientan la previa del España vs Argentina — Líbero Perú",
-        "url": "https://libero.pe/ocio/redes-sociales/2026/07/18/mejores-memes-calientan-previa-del-espana-vs-argentina-messi-yamal-como-protagonistas-257202"
-      },
-      {
-        "title": "Los mejores memes del histórico 1-0 ante Argentina — Libertad Digital",
-        "url": "https://www.libertaddigital.com/deportes/futbol/2026-07-20/los-mejores-memes-del-historico-1-0-que-nos-dejo-el-mundial-ante-argentina-7438016/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-111278",
-    "date": "2026-07-19",
-    "name": "Memes México post-final Mundial 2026: Sheinbaum en la ceremonia",
-    "countries": [
-      "MX"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "La presidenta Claudia Sheinbaum asistió a la final del Mundial y entregó el Balón de Oro a Rodri. Los mexicanos bromearon en redes sobre que fue 'lo más cerca de un mexicano a la final del mundo' y que el equipo que apoyaban siempre fue eliminado. Trending en X, TikTok e Instagram MX durante todo el 19 y 20 de julio.",
-    "sources": [
-      {
-        "title": "Los mejores memes en México que dejó la final España vs Argentina del Mundial 2026 — Infobae México",
-        "url": "https://www.infobae.com/mexico/deportes/2026/07/19/los-mejores-memes-en-mexico-que-dejo-la-final-espana-vs-argentina-del-mundial-2026/"
-      },
-      {
-        "title": "Los festejos estallan tras victoria de España: momentos icónicos de la final — Uno TV",
-        "url": "https://www.unotv.com/deportes/espana-campeon-mundial-2026-festejos-momentos-iconicos/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-667401",
-    "date": "2026-07-20",
-    "name": "Caribenya — Lido Pimienta & Helado Tropical (lanzamiento álbum)",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
+      "CO"
     ],
     "category": "estreno",
     "impact": "medio",
-    "description": "Esta semana (20 de julio) se incluye Caribenya de Lido Pimienta en colaboración con Helado Negro y Reyna Tropical en el radar de lanzamientos latinos. El álbum fusiona cumbia electrónica, dembow y ambient, con 8 canciones. Destacado en Radar Equal de equalmedia.mx.",
+    "description": "La banda colombiana Radio Jaguar lanzó 'Cántalo' ft. Osy (artista alemán) el 21 de julio de 2026, una declaración a ritmo de cumbia sobre plenitud y amor. La canción llegó con campaña con la Escuela Nacional del Grito entregando instrumentos a niños.",
     "sources": [
       {
-        "title": "Radar Equal: 8 lanzamientos latinos para esta semana — Equal Media MX",
-        "url": "https://www.equalmedia.mx/site/radar-equal/radar-equal-lanzamientos-latinos/"
+        "title": "Nueva música julio 2026 — Revista Bombea",
+        "url": "https://revistabombea.com/2026/07/nueva-musica-julio-2026/"
       }
     ]
   },
   {
-    "id": "dyn-670003",
-    "date": "2026-07-23",
-    "name": "Stuart Fails to Save the Universe — estreno en HBO Max",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "estreno",
-    "impact": "medio",
-    "description": "El spin-off de The Big Bang Theory con Stuart Bloom como protagonista estrena el 23 de julio en HBO Max para toda LATAM. 10 episodios semanales (jueves). La serie mezcla humor y ciencia ficción multiversal, con música de Danny Elfman.",
-    "sources": [
-      {
-        "title": "'Stuart no logra salvar el universo': fecha de estreno confirmada para LATAM — Infobae",
-        "url": "https://www.infobae.com/entretenimiento/2026/07/02/stuart-no-logra-salvar-el-universo-el-esperado-spin-off-de-the-big-bang-theory-ya-tiene-fecha-de-estreno-confirmada-para-latam/"
-      },
-      {
-        "title": "Stuart Fails to Save the Universe — Wikipedia (fecha y episodios)",
-        "url": "https://en.wikipedia.org/wiki/Stuart_Fails_to_Save_the_Universe"
-      },
-      {
-        "title": "Stuart Fails To Save The Universe Trailer: Big Bang Theory Spinoff — Variety",
-        "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-trailer-big-bang-theory-1236787788/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-835997",
+    "id": "dyn-78168",
     "date": "2026-07-24",
-    "name": "Cuca y Santa Sabina en el Teatro Metropólitan CDMX",
+    "name": "Juegos Centroamericanos y del Caribe Santo Domingo 2026",
     "countries": [
-      "MX"
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
     ],
     "category": "trend",
     "impact": "medio",
-    "description": "El viernes 24 de julio, las bandas icónicas del rock mexicano Cuca y Santa Sabina se presentan juntas en el Teatro Metropólitan de CDMX a las 8:30 pm. Boletos disponibles por Ticketmaster.",
+    "description": "Los XXV Juegos Centroamericanos arrancaron el 24 de julio en Santo Domingo con más de 6.000 atletas de 37 países en 40 deportes. Se extienden hasta el 8 de agosto. México lleva 646 deportistas y es uno de los favoritos del medallero.",
     "sources": [
       {
-        "title": "Cuca y Santa Sabina en Teatro Metropólitan — Ticketmaster México",
-        "url": "https://www.ticketmaster.com.mx/browse/rock-y-pop-catid-1/music-rid-10001"
+        "title": "Juegos Centroamericanos y del Caribe 2026 — Infobae México",
+        "url": "https://www.infobae.com/mexico/deportes/2026/07/25/juegos-centroamericanos-y-del-caribe-santo-domingo-2026-donde-ver-en-vivo-calendario-y-todo-lo-que-debes-saber/"
+      },
+      {
+        "title": "Sitio oficial JCC Santo Domingo 2026",
+        "url": "https://jcc2026.org/en"
       }
     ]
   },
   {
-    "id": "dyn-133",
+    "id": "dyn-987915",
     "date": "2026-07-24",
-    "name": "Rosalía LUX Tour 2026 — 4 fechas en Movistar Arena Santiago",
+    "name": "Rosalía LUX TOUR — Santiago (24 y 25 de julio)",
     "countries": [
       "CL"
     ],
     "category": "concierto",
     "impact": "medio",
-    "description": "Rosalía se presenta los días 24, 25, 27 y 29 de julio en el Movistar Arena de Santiago con su LUX Tour 2026. La alta demanda obligó a sumar 4 fechas. El show incluye 4 actos, obertura, intermezzo y encore, con la dinámica viral del 'confesionario' donde invita artistas sorpresa al escenario.",
+    "description": "Rosalía se presentó en el Movistar Arena de Santiago los días 24 y 25 de julio como parte de su LUX Tour 2026. El show fue uno de los eventos culturales más comentados en redes chilenas esta semana.",
     "sources": [
       {
-        "title": "Rosalía LUX Tour 2026 — 24, 25, 27 y 29 de julio en Movistar Arena — PuntoTicket",
-        "url": "https://www.puntoticket.com/rosalia-scl-2026"
-      },
-      {
-        "title": "Rosalía en Chile 2026: fechas, entradas y todo sobre su regreso — Revista Rocanrol",
-        "url": "https://rocanrol.cl/2026/06/rosalia-en-chile-2026-fechas-entradas-y-todo-sobre-su-regreso/"
-      },
-      {
-        "title": "La llamativa tradición del confesionario que los fans chilenos podrán vivir — LOS40 Chile",
-        "url": "https://los40.cl/2026/07/13/la-llamativa-tradicion-de-los-conciertos-de-rosalia-que-los-fans-chilenos-podran-vivir-en-vivo/"
+        "title": "Rosalía LUX Tour fechas LATAM — Variety/AOL",
+        "url": "https://www.aol.com/articles/rosal-announces-global-lux-tour-163642858.html"
       }
     ]
   },
   {
-    "id": "dyn-288612",
-    "date": "2026-07-24",
-    "name": "Ella Baila Sola y Bersuit Vergarabat en Chile (24 de julio)",
+    "id": "dyn-39604",
+    "date": "2026-07-25",
+    "name": "Brasileirão Série A — Jornada 20 (reanudación post-Mundial)",
     "countries": [
-      "CL"
+      "BR"
     ],
-    "category": "concierto",
+    "category": "deporte",
     "impact": "medio",
-    "description": "El viernes 24 de julio también se presentan Ella Baila Sola en Arena Monticello y Bersuit Vergarabat en Club Chocolate, según la cartelera oficial de conciertos 2026 en Chile publicada por Cooperativa.cl.",
+    "description": "El Brasileirão Betano 2026 reanudó actividad tras el receso mundialista. El 25 de julio se jugó Santos 2-2 Chapecoense con gol de Neymar. Flamengo (campeón defensor) y Palmeiras compiten en la pelea por el título.",
     "sources": [
       {
-        "title": "Cartelera de conciertos 2026 en Chile — Cooperativa.cl",
-        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+        "title": "Calendario Série A 2026 — Fichajes.com",
+        "url": "https://www.fichajes.com/brasil/serie-a/calendario/"
+      },
+      {
+        "title": "Campeonato Brasileño Serie A 2026 — Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026"
       }
     ]
   },
   {
-    "id": "dyn-968576",
+    "id": "dyn-999916",
     "date": "2026-07-26",
-    "name": "House of the Dragon T3 — Episodio 6 (26 de julio, HBO Max)",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "El episodio 6 de la tercera temporada de House of the Dragon se estrena el domingo 26 de julio en HBO Max para toda LATAM. La temporada continúa su ritmo semanal hasta el final el 9 de agosto.",
-    "sources": [
-      {
-        "title": "Calendario House of the Dragon T3 — Claro Sports",
-        "url": "https://www.clarosports.com/tendencias/cine-y-tv/estreno-capitulo-5-la-casa-del-dragon/"
-      },
-      {
-        "title": "House of the Dragon T3: ¿A qué hora se estrena el quinto episodio? — Mediotiempo",
-        "url": "https://www.mediotiempo.com/actualidad/streaming/house-of-the-dragon-temporada-3-a-que-hora-se-estrena-el-quinto-episodio-y-donde-verlo"
-      }
-    ]
-  },
-  {
-    "id": "dyn-366578",
-    "date": "2026-07-27",
-    "name": "Rosalía LUX Tour — fechas 27 y 29 de julio en Movistar Arena",
-    "countries": [
-      "CL"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "Rosalía completa su gira en Chile con dos fechas más: lunes 27 y miércoles 29 de julio en el Movistar Arena de Santiago. El confesionario sigue siendo el momento más viral de cada show, con invitados sorpresa que se revelan el día del concierto.",
-    "sources": [
-      {
-        "title": "Rosalía LUX Tour 2026 — 24, 25, 27 y 29 de julio en Movistar Arena — PuntoTicket",
-        "url": "https://www.puntoticket.com/rosalia-scl-2026"
-      },
-      {
-        "title": "Rosalía en Chile: ¿Qué temas cantará? — Pagina7.cl",
-        "url": "https://www.pagina7.cl/entretencion/que-temas-cantara-rosalia-en-chile-conoce-el-posible-setlist-de-sus-conciertos/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-294185",
-    "date": "2026-07-28",
-    "name": "Festival Vibra Perú 2026 — Fiestas Patrias con Juanes y Gian Marco",
-    "countries": [
-      "PE"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "El festival más grande de Perú celebra Fiestas Patrias el 28 y 29 de julio en Arena 1 Park de la Costa Verde con más de 35 artistas: Juanes (29 jul. como headliner de su World Tour 2026), Gian Marco y Corazón Serrano (28 jul. con el show 'Acceso al Corazón'). Capacidad proyectada: 40,000 asistentes.",
-    "sources": [
-      {
-        "title": "Festival Vibra Perú 2026 — Ticketmaster Perú",
-        "url": "https://www.ticketmaster.pe/event/vibraperu2026"
-      },
-      {
-        "title": "Vibra Perú 2026: fechas, artistas, entradas y todo sobre el festival con Juanes y Gian Marco — Infobae Perú",
-        "url": "https://www.infobae.com/peru/2026/05/17/vibra-peru-2026-fechas-artistas-entradas-y-todo-sobre-el-festival-con-juanes-gian-marco-y-corazon-serrano/"
-      },
-      {
-        "title": "Juanes en Lima: Festival Vibra Perú 2026 regresa a la Costa Verde — Ticketmaster Blog Perú",
-        "url": "https://blog.ticketmaster.pe/concierto/juanes-en-lima-festival-vibra-peru-2026-regresa-a-la-costa-verde-este-28-y-29-de-julio-4131/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-619197",
-    "date": "2026-07-28",
-    "name": "Festival Vibra Perú 2026 — Fiestas Patrias (28 y 29 julio)",
-    "countries": [
-      "PE"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "El festival más grande del Perú llega la semana próxima: 28 de julio (Gian Marco + Corazón Serrano con 'Acceso al Corazón') y 29 de julio (Juanes con su World Tour 2026). Más de 40,000 asistentes esperados en Arena 1 Park de la Costa Verde, con distritos musical, gastronómico y de diversión.",
-    "sources": [
-      {
-        "title": "Festival Vibra Perú 2026 — Ticketmaster Perú",
-        "url": "https://www.ticketmaster.pe/event/vibraperu2026"
-      },
-      {
-        "title": "Vibra Perú 2026: la fiesta más grande del país — Radio Nueva Q",
-        "url": "https://www.radionuevaq.pe/noticias/musica/vibra-peru-2026-la-fiesta-mas-grande-del-pais-encabezada-por-juanes-gian-marco-y-corazon-serrano/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-304941",
-    "date": "2026-07-29",
-    "name": "Wrath y Proyecto Final — estrenos Netflix (29 de julio)",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "El miércoles 29 de julio llegan a Netflix las series 'Wrath' y 'Proyecto Final', confirmadas en el calendario de Filmaffinity para esa fecha.",
-    "sources": [
-      {
-        "title": "TV Series Calendar julio 2026 — Filmaffinity",
-        "url": "https://www.filmaffinity.com/us/calendar-tv.php"
-      }
-    ]
-  },
-  {
-    "id": "dyn-500368",
-    "date": "2026-07-30",
-    "name": "Stuart Fails to Save the Universe — Episodio 2 en HBO Max",
+    "name": "House of the Dragon T3 — Episodio 6",
     "countries": [
       "BR",
       "CO",
@@ -376,18 +98,90 @@
     ],
     "category": "estreno",
     "impact": "medio",
-    "description": "El segundo episodio del spin-off de The Big Bang Theory 'Stuart Fails to Save the Universe' llega el jueves 30 de julio en HBO Max para LATAM, manteniendo el ritmo semanal de estrenos los jueves.",
+    "description": "El episodio 6 de la temporada 3 se estrenó el domingo 26 de julio en HBO Max en simultáneo para toda Latinoamérica. La temporada, de 8 episodios semanales, cierra el 9 de agosto.",
     "sources": [
       {
-        "title": "Cuándo se estrena cada episodio de Stuart Fails to Save the Universe — Gestión Mix Perú",
-        "url": "https://gestion.pe/mix/tendencias-mix/el-spin-off-de-the-big-bang-theory-en-hbo-max-cuando-se-estrena-cada-episodio-de-stuart-fails-to-save-the-universe-nnda-nnlt-noticia/"
+        "title": "House of the Dragon T3 Ep6: fecha y hora de estreno — ClaroSports",
+        "url": "https://www.clarosports.com/tendencias/cine-y-tv/la-casa-del-dragon-capitulo-6-fecha-estreno/"
       }
     ]
   },
   {
-    "id": "dyn-942410",
-    "date": "2026-07-30",
-    "name": "LAMC 2026 — Latin Alternative Music Conference (30 de julio)",
+    "id": "dyn-783804",
+    "date": "2026-07-31",
+    "name": "Liga MX Apertura 2026 — Jornada 3",
+    "countries": [
+      "MX"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La jornada 3 del Apertura 2026 se juega el 31 de julio, 1 y 2 de agosto. Es la última antes del receso por Leagues Cup. Tijuana lidera con puntaje perfecto tras 2 jornadas, escoltado por Cruz Azul, Atlas y Necaxa.",
+    "sources": [
+      {
+        "title": "Jornada 3 del Apertura 2026 — Bolavip México",
+        "url": "https://bolavip.com/mx/ligamx/liga-mx-asi-se-jugara-la-jornada-3-del-apertura-2026-con-dias-horarios-y-transmisiones"
+      }
+    ]
+  },
+  {
+    "id": "dyn-501006",
+    "date": "2026-07-31",
+    "name": "CA7RIEL & Paco Amoroso — Free Spirits World Tour Monterrey",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El dúo argentino arranca su gira mexicana el 31 de julio en el Auditorio Banamex de Monterrey, con 7 fechas confirmadas hasta el 12 de agosto. Agotaron entradas en varios venues.",
+    "sources": [
+      {
+        "title": "Ca7riel y Paco Amoroso en México 2026: fechas y boletos — ADN40",
+        "url": "https://www.adn40.mx/tiempo-libre/2026-06-17/ca7riel-y-paco-amoroso-regresan-a-mexico-en-2026-cuando-llegan-a-tu-ciudad-y-cuanto-costaran-los-boletos/"
+      },
+      {
+        "title": "Ticketmaster MX — CA7RIEL & Paco Amoroso",
+        "url": "https://www.ticketmaster.com.mx/ca7riel-paco-amoroso-boletos/artist/3350684"
+      }
+    ]
+  },
+  {
+    "id": "dyn-517992",
+    "date": "2026-07-31",
+    "name": "Lara Campos — Show en Lima (31 julio y 2 agosto)",
+    "countries": [
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La artista peruana presenta 'Baila Junto a Lara Campos' el 31 de julio en Jockey Plaza y 'El Show de Lara Campos 2026' el 2 de agosto en Arena 1, Lima. Eventos confirmados por Ticketmaster Perú.",
+    "sources": [
+      {
+        "title": "Conciertos Lima julio-agosto 2026 — Ticketmaster Perú",
+        "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
+      }
+    ]
+  },
+  {
+    "id": "dyn-855446",
+    "date": "2026-08-01",
+    "name": "Rosalía LUX TOUR — Buenos Aires (1, 2, 4 y 6 de agosto)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rosalía agotó tres fechas en el Movistar Arena en 45 minutos y agregó una cuarta. Los shows del 1, 2, 4 y 6 de agosto son los más comentados de la semana en redes argentinas. La artista ya visitó Buenos Aires en visita promocional previa.",
+    "sources": [
+      {
+        "title": "Rosalía agotó tres Movistar Arena en 45 minutos — Rolling Stone Argentina",
+        "url": "https://es.rollingstone.com/arg-rosalia-agoto-tres-movistar-arena-en-45-minutos-cuando-es-el-cuarto-y-ultimo-show"
+      }
+    ]
+  },
+  {
+    "id": "dyn-881578",
+    "date": "2026-08-02",
+    "name": "House of the Dragon T3 — Episodio 7 (2 agosto) y Episodio Final (9 agosto)",
     "countries": [
       "BR",
       "CO",
@@ -396,106 +190,186 @@
       "CL",
       "UY",
       "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El episodio 7 estrena el 2 de agosto y el episodio final (ep. 8) el 9 de agosto en HBO Max para toda LATAM. La temporada cierra la Danza de los Dragones y se espera una batalla éptica del Gullet.",
+    "sources": [
+      {
+        "title": "Calendario completo House of the Dragon T3 — Infobae",
+        "url": "https://www.infobae.com/entretenimiento/2026/06/21/house-of-the-dragon-a-que-hora-se-estrena-la-tercera-temporada/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-857555",
+    "date": "2026-08-03",
+    "name": "Juegos Centroamericanos y del Caribe — Semana de finales (3-8 agosto)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La segunda semana de los JCC Santo Domingo 2026 trae las finales más esperadas: atletismo en pista arranca el 3 de agosto, con medallas en boxeo, béisbol, baloncesto y natación artística hasta el cierre del 8 de agosto.",
+    "sources": [
+      {
+        "title": "Juegos Centroamericanos y del Caribe 2026 calendario — Hoy.com.do",
+        "url": "https://hoy.com.do/deportes/juegos-centroamericanos-caribe-2026-conoce-calendario-oficial-fechas-clave_1095909.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-988215",
+    "date": "2026-08-04",
+    "name": "Leagues Cup 2026 — arranque Liga MX vs MLS (desde 4 agosto)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La Leagues Cup 2026 arranca el 4 de agosto con 36 equipos (18 Liga MX + 18 MLS). Por primera vez hay partidos en México: Toluca vs Seattle (5 ago, Estadio Nemesio Diez), América vs San Diego (6 ago, Estadio Azteca). Genera alto contenido digital en ambos lados de la frontera.",
+    "sources": [
+      {
+        "title": "Leagues Cup 2026: partidos en México — ClaroSports",
+        "url": "https://www.clarosports.com/us/partidos-leagues-cup-mexico-2026/"
+      },
+      {
+        "title": "Leagues Cup 2026 — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Leagues_Cup"
+      }
+    ]
+  },
+  {
+    "id": "dyn-971984",
+    "date": "2026-08-04",
+    "name": "Rosalía LUX TOUR — Buenos Aires (4 y 6 de agosto, últimas fechas)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rosalía cierra su paso por Buenos Aires con las fechas del 4 y 6 de agosto en el Movistar Arena. Son los últimos shows antes de continuar a México. El hype en redes argentinas será máximo en la semana del 3 de agosto.",
+    "sources": [
+      {
+        "title": "Rosalía agotó tres Movistar Arena — Rolling Stone Argentina",
+        "url": "https://es.rollingstone.com/arg-rosalia-agoto-tres-movistar-arena-en-45-minutos-cuando-es-el-cuarto-y-ultimo-show"
+      }
+    ]
+  },
+  {
+    "id": "dyn-793391",
+    "date": "2026-08-05",
+    "name": "Leagues Cup 2026 — Toluca vs Seattle y América vs San Diego en México",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Por primera vez en la historia, la Leagues Cup lleva partidos a México: Toluca vs Seattle Sounders (5 ago, Estadio Nemesio Diez) y América vs San Diego FC (6 ago, Estadio Azteca). Evento histórico para el fútbol mexicano.",
+    "sources": [
+      {
+        "title": "Leagues Cup 2026 partidos en México — ClaroSports",
+        "url": "https://www.clarosports.com/us/partidos-leagues-cup-mexico-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-863522",
+    "date": "2026-08-05",
+    "name": "NTX Lima 2026 (5 agosto) y tINI & The Gang (8 agosto)",
+    "countries": [
       "PE"
     ],
     "category": "trend",
     "impact": "medio",
-    "description": "El 30 de julio se realiza el LAMC 2026, jornada que reúne artistas, plataformas, medios y compositores de música latina en un mismo espacio. Confirmado por Radar Equal de Equal Media como punto de convergencia del ecosistema musical latino digital.",
+    "description": "Lima tiene dos eventos de electrónica confirmados: NTX Lima 2026 el 5 de agosto en Centro de Convenciones Leguia y tINI & The Gang el 8 de agosto en Villa. Ambos con entradas disponibles en Ticketmaster Perú.",
     "sources": [
       {
-        "title": "Radar Equal: lanzamientos latinos semana del 20 de julio — Equal Media MX",
-        "url": "https://www.equalmedia.mx/site/radar-equal/radar-equal-lanzamientos-latinos/"
+        "title": "Conciertos Lima agosto 2026 — Ticketmaster Perú",
+        "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
       }
     ]
   },
   {
-    "id": "dyn-921117",
-    "date": "2026-07-31",
-    "name": "Spider-Man: Brand New Day — estreno en cines México",
+    "id": "dyn-170483",
+    "date": "2026-08-06",
+    "name": "CA7RIEL & Paco Amoroso — Free Spirits World Tour CDMX (6 agosto) y más fechas",
     "countries": [
       "MX"
-    ],
-    "category": "estreno",
-    "impact": "medio",
-    "description": "La cuarta película en solitario de Tom Holland como Spider-Man estrena el 31 de julio en México (29 de julio en algunos mercados LATAM). Con Zendaya, Jon Bernthal como Punisher y Mark Ruffalo. El tráiler rompió récord con 1,100 millones de reproducciones en 24 horas.",
-    "sources": [
-      {
-        "title": "Fecha de estreno de 'Spider Man: Brand New Day' en México — El Informador",
-        "url": "https://www.informador.mx/entretenimiento/fecha-de-estreno-de-spider-man-brand-new-day-en-mexico-20260625-0139.html"
-      },
-      {
-        "title": "Spider-Man Brand New Day: todo lo que se sabe del estreno del 31 de julio — El Planeta",
-        "url": "https://elplaneta.com/2026/07/07/nacionales/spider-man-brand-new-day-todo-lo-que-se-sabe-del-estreno-del-31-de-julio/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-136373",
-    "date": "2026-07-31",
-    "name": "Spider-Man: Brand New Day — estreno en cines LATAM",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "estreno",
-    "impact": "medio",
-    "description": "La cuarta película de Tom Holland como Spider-Man estrena el 31 de julio (29-30 en algunos países LATAM). Con Zendaya, Jon Bernthal como Punisher, Mark Ruffalo y Sadie Sink. El tráiler batió el récord de todos los tiempos con 1,100 millones de vistas en 24 horas. Uno de los mayores eventos de taquilla del año.",
-    "sources": [
-      {
-        "title": "Spider-Man: Brand New Day — Marvel.com",
-        "url": "https://www.marvel.com/movies/spider-man-brand-new-day"
-      },
-      {
-        "title": "Spider-Man Brand New Day: todo lo que se sabe del estreno del 31 de julio — El Planeta",
-        "url": "https://elplaneta.com/2026/07/07/nacionales/spider-man-brand-new-day-todo-lo-que-se-sabe-del-estreno-del-31-de-julio/"
-      },
-      {
-        "title": "'Spider Man: Brand New Day' se estrenará solo en cines el 29 de julio — Infobae/EFE",
-        "url": "https://www.infobae.com/america/agencias/2026/05/27/spider-man-brand-new-day-se-estrenara-solo-en-cines-el-29-de-julio/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-420876",
-    "date": "2026-07-31",
-    "name": "Spider-Man: Brand New Day — estreno en cines México (31 julio)",
-    "countries": [
-      "MX"
-    ],
-    "category": "estreno",
-    "impact": "medio",
-    "description": "Spider-Man: Brand New Day estrena oficialmente el 31 de julio en cines de México. Algunos mercados LATAM lo adelantaron al 29. Con Tom Holland, Zendaya y Jon Bernthal como Punisher. Preventa activa y expectativa máxima tras el récord histórico del tráiler.",
-    "sources": [
-      {
-        "title": "Spider-Man Brand New Day: ¿Cuándo se estrena en México? — Merca20",
-        "url": "https://www.merca20.com/spider-man-brand-new-day-cuando-se-estrena-en-mexico/"
-      },
-      {
-        "title": "Fecha de estreno de 'Spider Man: Brand New Day' en México — El Informador",
-        "url": "https://www.informador.mx/entretenimiento/fecha-de-estreno-de-spider-man-brand-new-day-en-mexico-20260625-0139.html"
-      }
-    ]
-  },
-  {
-    "id": "dyn-325292",
-    "date": "2026-07-31",
-    "name": "Santaferia en Arena Monticello (31 de julio)",
-    "countries": [
-      "CL"
     ],
     "category": "concierto",
     "impact": "medio",
-    "description": "El 31 de julio, Santaferia se presenta en Arena Monticello, confirmado en la cartelera oficial de conciertos 2026 de Chile publicada por Cooperativa.cl.",
+    "description": "El dúo continúa en México: Guadalajara (2 ago, Auditorio Telmex), Querétaro (4 ago) y CDMX (6 ago, Palacio de los Deportes). El show en la capital es el más esperado y ya hay baja disponibilidad de entradas.",
     "sources": [
       {
-        "title": "Cartelera de conciertos 2026 en Chile — Cooperativa.cl",
-        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+        "title": "Ca7riel y Paco Amoroso México fechas — N+ Noticias",
+        "url": "https://www.nmas.com.mx/entretenimiento/conciertos-ca7riel-paco-amoroso-mexico-2026-fechas-venta-boletos-anuncio-video-xochimilco/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-960143",
+    "date": "2026-09-18",
+    "name": "TINI Futttura World Tour — Bogotá (18 septiembre, sold out)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "TINI llega a Bogotá el 18 de septiembre con su Futttura World Tour. La fecha ya está sold out según el sitio oficial de la artista. La anticipación genera alto volumen de contenido en redes colombianas durante agosto.",
+    "sources": [
+      {
+        "title": "TINI — Sitio oficial con fechas de gira",
+        "url": "https://tinistoessel.com/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-239710",
+    "date": "2026-09-20",
+    "name": "TINI Futttura World Tour — Guayaquil (20 sep) y Quito (22 sep)",
+    "countries": [
+      "EC"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "TINI tiene dos fechas confirmadas en Ecuador en septiembre: Guayaquil el 20 y Quito el 22. Entradas disponibles según el sitio oficial. La anticipación en redes empieza a crecer durante agosto.",
+    "sources": [
+      {
+        "title": "TINI — Sitio oficial con fechas Ecuador",
+        "url": "https://tinistoessel.com/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-536912",
+    "date": "2026-11-18",
+    "name": "CA7RIEL & Paco Amoroso — Free Spirits World Tour São Paulo (18 noviembre)",
+    "countries": [
+      "BR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El dúo argentino tiene confirmada fecha en São Paulo el 18 de noviembre en Espaço Unimed. Las entradas ya están disponibles en Ticketmaster. Su gira mundial mantiene alta presencia en redes brasileñas.",
+    "sources": [
+      {
+        "title": "CA7RIEL & Paco Amoroso São Paulo — Ticketmaster MX (fechas globales)",
+        "url": "https://www.ticketmaster.com.mx/ca7riel-paco-amoroso-boletos/artist/3350684"
       }
     ]
   }
