@@ -1,25 +1,186 @@
 [
   {
-    "id": "dyn-836682",
-    "date": "2026-07-21",
-    "name": "Radio Jaguar «Cántalo» Ft. Osy — nuevo lanzamiento colombiano",
+    "id": "dyn-430851",
+    "date": "2026-08-04",
+    "name": "Rosalía LUX Tour LATAM",
     "countries": [
-      "CO"
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
     ],
-    "category": "estreno",
+    "category": "concierto",
     "impact": "medio",
-    "description": "La banda colombiana Radio Jaguar lanzó 'Cántalo' ft. Osy (artista alemán) el 21 de julio de 2026, una declaración a ritmo de cumbia sobre plenitud y amor. La canción llegó con campaña con la Escuela Nacional del Grito entregando instrumentos a niños.",
+    "description": "Rosalía presenta su álbum 'LUX' en una gira de 57 shows: 6 fechas en Buenos Aires (1-6/08), Guadalajara (15-16/08), Monterrey (19/08) y múltiples fechas en CDMX (22-29/08). Fenómeno cultural masivo que agota entradas en minutos.",
     "sources": [
       {
-        "title": "Nueva música julio 2026 — Revista Bombea",
-        "url": "https://revistabombea.com/2026/07/nueva-musica-julio-2026/"
+        "title": "Lux Tour – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lux_Tour"
+      },
+      {
+        "title": "Rosalía vuelve a Buenos Aires con dos actuaciones – Rolling Stone",
+        "url": "https://es.rollingstone.com/arg-rosalia-agoto-tres-movistar-arena-en-45-minutos-cuando-es-el-cuarto-y-ultimo-show"
       }
     ]
   },
   {
-    "id": "dyn-78168",
-    "date": "2026-07-24",
-    "name": "Juegos Centroamericanos y del Caribe Santo Domingo 2026",
+    "id": "dyn-210845",
+    "date": "2026-08-05",
+    "name": "Ted Lasso T4 estreno Apple TV+",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Regresa Ted Lasso con su cuarta temporada el 5 de agosto en Apple TV+, ahora dirigiendo un equipo femenino de segunda división en Richmond. 10 episodios semanales hasta el 7 de octubre.",
+    "sources": [
+      {
+        "title": "Ted Lasso temporada 4: Fecha de estreno y primer tráiler oficial",
+        "url": "https://www.record.com.mx/historia/ted-lasso-temporada-4-fecha-de-estreno-y-primer-trailer-oficial-2026042816394009699"
+      },
+      {
+        "title": "Ted Lasso regresa con un equipo femenino en el primer tráiler de su cuarta temporada",
+        "url": "https://noticiassin.com/vida-y-estilo/streaming/2026/07/30/ted-lasso-temporada-4-trailer-y-equipo-femenino-2074926/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-243776",
+    "date": "2026-08-06",
+    "name": "Rosalía LUX Tour Buenos Aires (última fecha)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rosalía cierra su residencia porteña el 6 de agosto en el Movistar Arena. Las 4 fechas (1, 2, 4 y 6 de agosto) se agotaron en 45 minutos. Fenómeno cultural y de UGC masivo en redes.",
+    "sources": [
+      {
+        "title": "Rosalía agotó tres Movistar Arena en 45 minutos – Rolling Stone Argentina",
+        "url": "https://es.rollingstone.com/arg-rosalia-agoto-tres-movistar-arena-en-45-minutos-cuando-es-el-cuarto-y-ultimo-show"
+      },
+      {
+        "title": "Rosalía | Sitio oficial de turismo de Buenos Aires",
+        "url": "https://turismo.buenosaires.gob.ar/es/article/rosalía"
+      }
+    ]
+  },
+  {
+    "id": "dyn-468501",
+    "date": "2026-08-06",
+    "name": "CA7RIEL & Paco Amoroso en Palacio de los Deportes",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El dúo argentino presenta su 'Free Spirits World Tour' en CDMX los días 6 y 7 de agosto en el Palacio de los Deportes. Agotaron su primera fecha en 2025 y regresan con nuevo disco 'Top of the Hills'.",
+    "sources": [
+      {
+        "title": "CA7RIEL & Paco Amoroso regresan a México – DóndeIr",
+        "url": "https://dondeir.com/musica/ca7riel-paco-amoroso-vuelven-a-mexico-boletos-fechas-y-mas-de-sus-conciertos/2026/03/"
+      },
+      {
+        "title": "Ca7riel y Paco Amoroso en Palacio de los Deportes – Infobae México",
+        "url": "https://www.infobae.com/mexico/2026/03/24/ca7riel-y-paco-amoroso-en-palacio-de-los-deportes-precios-oficiales-de-sus-shows-en-cdmx/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-993659",
+    "date": "2026-08-07",
+    "name": "Puente festivo 7 de agosto Colombia",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 7 de agosto es Batalla de Boyacá (feriado fijo) y también posesión presidencial. Se genera fin de semana largo con alta movilidad turística y pico de consumo en comercio y gastronomía.",
+    "sources": [
+      {
+        "title": "Festivos de agosto de 2026 en Colombia – El País",
+        "url": "https://www.elpais.com.co/colombia/agosto-2026-tendra-dos-festivos-en-colombia-conozca-las-fechas-oficiales-2802.html"
+      },
+      {
+        "title": "Confirmado: estos son los días festivos que tendrá Colombia en agosto de 2026 – Semana",
+        "url": "https://www.semana.com/nacion/articulo/confirmado-estos-son-los-dias-festivos-que-tendra-colombia-en-agosto-de-2026/202639/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-660294",
+    "date": "2026-08-08",
+    "name": "TINI & The Gang en Lima",
+    "countries": [
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "TINI Stoessel presenta su FUTTTURA World Tour el sábado 8 de agosto en Lima. Concierto de alta convocatoria con entradas desde S/ 212.50 via Ticketmaster Perú.",
+    "sources": [
+      {
+        "title": "Conciertos Perú – Ticketmaster Perú",
+        "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
+      },
+      {
+        "title": "TINI en Lima 2026: precios de entradas y más – Conciertos Perú",
+        "url": "https://conciertosperu.com.pe/tini-en-lima-2026-precios-de-entradas-y-mas/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-401334",
+    "date": "2026-08-10",
+    "name": "Colombia Tech Week Bogotá",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Del 10 al 16 de agosto, Bogotá recibe la Colombia Tech Week 2026 con más de 20.000 founders, inversores y líderes tech. Más de 250 eventos distribuidos en la ciudad.",
+    "sources": [
+      {
+        "title": "Colombia Tech Week 2026 — Bogotá, 10 al 16 de agosto",
+        "url": "https://colombiatechweek.co/"
+      },
+      {
+        "title": "Colombia Tech Week 2026: The Event Connecting LATAM's Tech Leaders – LATAM Republic",
+        "url": "https://www.latamrepublic.com/colombia-tech-week-2026-the-event-connecting-latams-tech-leaders/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-763005",
+    "date": "2026-08-10",
+    "name": "ANSES bono $70.000 agosto",
+    "countries": [
+      "AR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El Decreto 686/2026 firmado por Milei oficializó un bono extraordinario de hasta $70.000 para jubilados y pensionados de menores ingresos en agosto. Los cobros comienzan el 10 de agosto.",
+    "sources": [
+      {
+        "title": "ANSES oficializó las fechas de cobro para todos los beneficiarios en agosto – Perfil",
+        "url": "https://www.perfil.com/noticias/economia/anses-oficializo-cronograma-completo-pagos-para-todos-beneficiarios-mes-agosto-a35.phtml"
+      }
+    ]
+  },
+  {
+    "id": "dyn-195197",
+    "date": "2026-08-10",
+    "name": "Colombia Tech Week digital",
     "countries": [
       "BR",
       "CO",
@@ -32,344 +193,378 @@
     ],
     "category": "trend",
     "impact": "medio",
-    "description": "Los XXV Juegos Centroamericanos arrancaron el 24 de julio en Santo Domingo con más de 6.000 atletas de 37 países en 40 deportes. Se extienden hasta el 8 de agosto. México lleva 646 deportistas y es uno de los favoritos del medallero.",
+    "description": "Del 10 al 16 de agosto, Colombia Tech Week genera una ola de contenido tech y de innovación en redes sociales desde Bogotá, con más de 250 eventos y 20.000 asistentes.",
     "sources": [
       {
-        "title": "Juegos Centroamericanos y del Caribe 2026 — Infobae México",
-        "url": "https://www.infobae.com/mexico/deportes/2026/07/25/juegos-centroamericanos-y-del-caribe-santo-domingo-2026-donde-ver-en-vivo-calendario-y-todo-lo-que-debes-saber/"
+        "title": "Colombia Tech Week 2026 – Bogotá, 10 al 16 de agosto",
+        "url": "https://colombiatechweek.co/"
       },
       {
-        "title": "Sitio oficial JCC Santo Domingo 2026",
-        "url": "https://jcc2026.org/en"
+        "title": "Colombia Tech Week 2026: The Event Connecting LATAM's Tech Leaders",
+        "url": "https://www.latamrepublic.com/colombia-tech-week-2026-the-event-connecting-latams-tech-leaders/"
       }
     ]
   },
   {
-    "id": "dyn-987915",
-    "date": "2026-07-24",
-    "name": "Rosalía LUX TOUR — Santiago (24 y 25 de julio)",
+    "id": "dyn-533356",
+    "date": "2026-08-10",
+    "name": "Colombia Tech Week semana pico",
     "countries": [
-      "CL"
+      "CO"
     ],
-    "category": "concierto",
+    "category": "trend",
     "impact": "medio",
-    "description": "Rosalía se presentó en el Movistar Arena de Santiago los días 24 y 25 de julio como parte de su LUX Tour 2026. El show fue uno de los eventos culturales más comentados en redes chilenas esta semana.",
+    "description": "Del 10 al 16 de agosto llega a su momento de mayor actividad la Colombia Tech Week con +250 eventos, keynotes de líderes globales y sesiones de pitching de startups.",
     "sources": [
       {
-        "title": "Rosalía LUX Tour fechas LATAM — Variety/AOL",
-        "url": "https://www.aol.com/articles/rosal-announces-global-lux-tour-163642858.html"
+        "title": "Colombia Tech Week 2026 – Bogotá, 10 al 16 de agosto",
+        "url": "https://colombiatechweek.co/"
+      },
+      {
+        "title": "Colombia Tech Week 2026 – 10times",
+        "url": "https://10times.com/e1dp-4kg9-px2z-7"
       }
     ]
   },
   {
-    "id": "dyn-39604",
-    "date": "2026-07-25",
-    "name": "Brasileirão Série A — Jornada 20 (reanudación post-Mundial)",
+    "id": "dyn-784114",
+    "date": "2026-08-11",
+    "name": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
     "countries": [
       "BR"
     ],
     "category": "deporte",
     "impact": "medio",
-    "description": "El Brasileirão Betano 2026 reanudó actividad tras el receso mundialista. El 25 de julio se jugó Santos 2-2 Chapecoense con gol de Neymar. Flamengo (campeón defensor) y Palmeiras compiten en la pelea por el título.",
+    "description": "Fluminense (campeón vigente) abre los octavos de final de la Copa Libertadores 2026 ante Independiente Rivadavia en el Maracaná el 11 de agosto. También juegan Cruzeiro vs Flamengo y Palmeiras vs Cerro Porteño.",
     "sources": [
       {
-        "title": "Calendario Série A 2026 — Fichajes.com",
-        "url": "https://www.fichajes.com/brasil/serie-a/calendario/"
+        "title": "Así se juegan los octavos de final de Copa Libertadores 2026 – ClaroSports",
+        "url": "https://www.clarosports.com/futbol/copa-libertadores/asi-se-juegan-los-octavos-de-final-de-copa-libertadores-2026-partidos-cruces-fechas-y-donde-ver-en-vivo/"
       },
       {
-        "title": "Campeonato Brasileño Serie A 2026 — Wikipedia",
-        "url": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026"
+        "title": "Fechas y horarios: así se jugarán los Octavos de Final de la CONMEBOL Libertadores – CONMEBOL",
+        "url": "https://gol.conmebol.com/libertadores/es/news/fechas-y-horarios-asi-se-jugaran-los-octavos-de-final-de-la-conmebol-libertadores"
       }
     ]
   },
   {
-    "id": "dyn-999916",
-    "date": "2026-07-26",
-    "name": "House of the Dragon T3 — Episodio 6",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "estreno",
-    "impact": "medio",
-    "description": "El episodio 6 de la temporada 3 se estrenó el domingo 26 de julio en HBO Max en simultáneo para toda Latinoamérica. La temporada, de 8 episodios semanales, cierra el 9 de agosto.",
-    "sources": [
-      {
-        "title": "House of the Dragon T3 Ep6: fecha y hora de estreno — ClaroSports",
-        "url": "https://www.clarosports.com/tendencias/cine-y-tv/la-casa-del-dragon-capitulo-6-fecha-estreno/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-783804",
-    "date": "2026-07-31",
-    "name": "Liga MX Apertura 2026 — Jornada 3",
-    "countries": [
-      "MX"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "La jornada 3 del Apertura 2026 se juega el 31 de julio, 1 y 2 de agosto. Es la última antes del receso por Leagues Cup. Tijuana lidera con puntaje perfecto tras 2 jornadas, escoltado por Cruz Azul, Atlas y Necaxa.",
-    "sources": [
-      {
-        "title": "Jornada 3 del Apertura 2026 — Bolavip México",
-        "url": "https://bolavip.com/mx/ligamx/liga-mx-asi-se-jugara-la-jornada-3-del-apertura-2026-con-dias-horarios-y-transmisiones"
-      }
-    ]
-  },
-  {
-    "id": "dyn-501006",
-    "date": "2026-07-31",
-    "name": "CA7RIEL & Paco Amoroso — Free Spirits World Tour Monterrey",
-    "countries": [
-      "MX"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "El dúo argentino arranca su gira mexicana el 31 de julio en el Auditorio Banamex de Monterrey, con 7 fechas confirmadas hasta el 12 de agosto. Agotaron entradas en varios venues.",
-    "sources": [
-      {
-        "title": "Ca7riel y Paco Amoroso en México 2026: fechas y boletos — ADN40",
-        "url": "https://www.adn40.mx/tiempo-libre/2026-06-17/ca7riel-y-paco-amoroso-regresan-a-mexico-en-2026-cuando-llegan-a-tu-ciudad-y-cuanto-costaran-los-boletos/"
-      },
-      {
-        "title": "Ticketmaster MX — CA7RIEL & Paco Amoroso",
-        "url": "https://www.ticketmaster.com.mx/ca7riel-paco-amoroso-boletos/artist/3350684"
-      }
-    ]
-  },
-  {
-    "id": "dyn-517992",
-    "date": "2026-07-31",
-    "name": "Lara Campos — Show en Lima (31 julio y 2 agosto)",
-    "countries": [
-      "PE"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "La artista peruana presenta 'Baila Junto a Lara Campos' el 31 de julio en Jockey Plaza y 'El Show de Lara Campos 2026' el 2 de agosto en Arena 1, Lima. Eventos confirmados por Ticketmaster Perú.",
-    "sources": [
-      {
-        "title": "Conciertos Lima julio-agosto 2026 — Ticketmaster Perú",
-        "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
-      }
-    ]
-  },
-  {
-    "id": "dyn-855446",
-    "date": "2026-08-01",
-    "name": "Rosalía LUX TOUR — Buenos Aires (1, 2, 4 y 6 de agosto)",
-    "countries": [
-      "AR"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "Rosalía agotó tres fechas en el Movistar Arena en 45 minutos y agregó una cuarta. Los shows del 1, 2, 4 y 6 de agosto son los más comentados de la semana en redes argentinas. La artista ya visitó Buenos Aires en visita promocional previa.",
-    "sources": [
-      {
-        "title": "Rosalía agotó tres Movistar Arena en 45 minutos — Rolling Stone Argentina",
-        "url": "https://es.rollingstone.com/arg-rosalia-agoto-tres-movistar-arena-en-45-minutos-cuando-es-el-cuarto-y-ultimo-show"
-      }
-    ]
-  },
-  {
-    "id": "dyn-881578",
-    "date": "2026-08-02",
-    "name": "House of the Dragon T3 — Episodio 7 (2 agosto) y Episodio Final (9 agosto)",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "El episodio 7 estrena el 2 de agosto y el episodio final (ep. 8) el 9 de agosto en HBO Max para toda LATAM. La temporada cierra la Danza de los Dragones y se espera una batalla éptica del Gullet.",
-    "sources": [
-      {
-        "title": "Calendario completo House of the Dragon T3 — Infobae",
-        "url": "https://www.infobae.com/entretenimiento/2026/06/21/house-of-the-dragon-a-que-hora-se-estrena-la-tercera-temporada/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-857555",
-    "date": "2026-08-03",
-    "name": "Juegos Centroamericanos y del Caribe — Semana de finales (3-8 agosto)",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "deporte",
-    "impact": "medio",
-    "description": "La segunda semana de los JCC Santo Domingo 2026 trae las finales más esperadas: atletismo en pista arranca el 3 de agosto, con medallas en boxeo, béisbol, baloncesto y natación artística hasta el cierre del 8 de agosto.",
-    "sources": [
-      {
-        "title": "Juegos Centroamericanos y del Caribe 2026 calendario — Hoy.com.do",
-        "url": "https://hoy.com.do/deportes/juegos-centroamericanos-caribe-2026-conoce-calendario-oficial-fechas-clave_1095909.html"
-      }
-    ]
-  },
-  {
-    "id": "dyn-988215",
-    "date": "2026-08-04",
-    "name": "Leagues Cup 2026 — arranque Liga MX vs MLS (desde 4 agosto)",
-    "countries": [
-      "BR",
-      "CO",
-      "AR",
-      "MX",
-      "CL",
-      "UY",
-      "EC",
-      "PE"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "La Leagues Cup 2026 arranca el 4 de agosto con 36 equipos (18 Liga MX + 18 MLS). Por primera vez hay partidos en México: Toluca vs Seattle (5 ago, Estadio Nemesio Diez), América vs San Diego (6 ago, Estadio Azteca). Genera alto contenido digital en ambos lados de la frontera.",
-    "sources": [
-      {
-        "title": "Leagues Cup 2026: partidos en México — ClaroSports",
-        "url": "https://www.clarosports.com/us/partidos-leagues-cup-mexico-2026/"
-      },
-      {
-        "title": "Leagues Cup 2026 — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2026_Leagues_Cup"
-      }
-    ]
-  },
-  {
-    "id": "dyn-971984",
-    "date": "2026-08-04",
-    "name": "Rosalía LUX TOUR — Buenos Aires (4 y 6 de agosto, últimas fechas)",
-    "countries": [
-      "AR"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "Rosalía cierra su paso por Buenos Aires con las fechas del 4 y 6 de agosto en el Movistar Arena. Son los últimos shows antes de continuar a México. El hype en redes argentinas será máximo en la semana del 3 de agosto.",
-    "sources": [
-      {
-        "title": "Rosalía agotó tres Movistar Arena — Rolling Stone Argentina",
-        "url": "https://es.rollingstone.com/arg-rosalia-agoto-tres-movistar-arena-en-45-minutos-cuando-es-el-cuarto-y-ultimo-show"
-      }
-    ]
-  },
-  {
-    "id": "dyn-793391",
-    "date": "2026-08-05",
-    "name": "Leagues Cup 2026 — Toluca vs Seattle y América vs San Diego en México",
-    "countries": [
-      "MX"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "Por primera vez en la historia, la Leagues Cup lleva partidos a México: Toluca vs Seattle Sounders (5 ago, Estadio Nemesio Diez) y América vs San Diego FC (6 ago, Estadio Azteca). Evento histórico para el fútbol mexicano.",
-    "sources": [
-      {
-        "title": "Leagues Cup 2026 partidos en México — ClaroSports",
-        "url": "https://www.clarosports.com/us/partidos-leagues-cup-mexico-2026/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-863522",
-    "date": "2026-08-05",
-    "name": "NTX Lima 2026 (5 agosto) y tINI & The Gang (8 agosto)",
-    "countries": [
-      "PE"
-    ],
-    "category": "trend",
-    "impact": "medio",
-    "description": "Lima tiene dos eventos de electrónica confirmados: NTX Lima 2026 el 5 de agosto en Centro de Convenciones Leguia y tINI & The Gang el 8 de agosto en Villa. Ambos con entradas disponibles en Ticketmaster Perú.",
-    "sources": [
-      {
-        "title": "Conciertos Lima agosto 2026 — Ticketmaster Perú",
-        "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
-      }
-    ]
-  },
-  {
-    "id": "dyn-170483",
-    "date": "2026-08-06",
-    "name": "CA7RIEL & Paco Amoroso — Free Spirits World Tour CDMX (6 agosto) y más fechas",
-    "countries": [
-      "MX"
-    ],
-    "category": "concierto",
-    "impact": "medio",
-    "description": "El dúo continúa en México: Guadalajara (2 ago, Auditorio Telmex), Querétaro (4 ago) y CDMX (6 ago, Palacio de los Deportes). El show en la capital es el más esperado y ya hay baja disponibilidad de entradas.",
-    "sources": [
-      {
-        "title": "Ca7riel y Paco Amoroso México fechas — N+ Noticias",
-        "url": "https://www.nmas.com.mx/entretenimiento/conciertos-ca7riel-paco-amoroso-mexico-2026-fechas-venta-boletos-anuncio-video-xochimilco/"
-      }
-    ]
-  },
-  {
-    "id": "dyn-960143",
-    "date": "2026-09-18",
-    "name": "TINI Futttura World Tour — Bogotá (18 septiembre, sold out)",
+    "id": "dyn-998109",
+    "date": "2026-08-11",
+    "name": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
     "countries": [
       "CO"
     ],
-    "category": "concierto",
+    "category": "deporte",
     "impact": "medio",
-    "description": "TINI llega a Bogotá el 18 de septiembre con su Futttura World Tour. La fecha ya está sold out según el sitio oficial de la artista. La anticipación genera alto volumen de contenido en redes colombianas durante agosto.",
+    "description": "Deportes Tolima, único representante colombiano en Libertadores 2026, debuta en octavos de final ante Independiente del Valle de Ecuador. Partido de ida el 11 de agosto en Ibagué.",
     "sources": [
       {
-        "title": "TINI — Sitio oficial con fechas de gira",
-        "url": "https://tinistoessel.com/"
+        "title": "Así se juegan los octavos de final de Copa Libertadores 2026 – ClaroSports",
+        "url": "https://www.clarosports.com/futbol/copa-libertadores/asi-se-juegan-los-octavos-de-final-de-copa-libertadores-2026-partidos-cruces-fechas-y-donde-ver-en-vivo/"
+      },
+      {
+        "title": "Horarios de los octavos de Copa Libertadores 2026 – 365scores",
+        "url": "https://www.365scores.com/es/news/horarios-octavos-copa-libertadores-2026/"
       }
     ]
   },
   {
-    "id": "dyn-239710",
-    "date": "2026-09-20",
-    "name": "TINI Futttura World Tour — Guayaquil (20 sep) y Quito (22 sep)",
+    "id": "dyn-328773",
+    "date": "2026-08-11",
+    "name": "Copa Libertadores: IDV y LDU en octavos",
     "countries": [
       "EC"
     ],
-    "category": "concierto",
+    "category": "deporte",
     "impact": "medio",
-    "description": "TINI tiene dos fechas confirmadas en Ecuador en septiembre: Guayaquil el 20 y Quito el 22. Entradas disponibles según el sitio oficial. La anticipación en redes empieza a crecer durante agosto.",
+    "description": "Ecuador tiene dos representantes en octavos de final: Independiente del Valle (vs Deportes Tolima, 11/08 en Ibagué) y LDU Quito (vs Mirassol de Brasil, 14/08). Vuelta el 18 y 20 de agosto respectivamente.",
     "sources": [
       {
-        "title": "TINI — Sitio oficial con fechas Ecuador",
-        "url": "https://tinistoessel.com/"
+        "title": "Fechas y horarios definidos – octavos de final Copa Libertadores 2026 – Primicias",
+        "url": "https://www.primicias.ec/deportes/futbol/octavos-final-copa-libertadores-fechas-horarios-sedes-calendario-idv-liga-124511/"
+      },
+      {
+        "title": "Copa Libertadores 2026: fechas, horarios y canales – OneFootball",
+        "url": "https://onefootball.com/es/noticias/copa-libertadores-2026-fechas-horarios-y-canales-de-octavos-42967482"
       }
     ]
   },
   {
-    "id": "dyn-536912",
-    "date": "2026-11-18",
-    "name": "CA7RIEL & Paco Amoroso — Free Spirits World Tour São Paulo (18 noviembre)",
+    "id": "dyn-334203",
+    "date": "2026-08-12",
+    "name": "Copa Libertadores: Coquimbo vs Platense",
     "countries": [
-      "BR"
+      "CL"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Coquimbo Unido (Chile) juega el partido de ida de octavos de final de la Copa Libertadores 2026 ante Platense (Argentina) el 12 de agosto. Vuelta el 19 de agosto.",
+    "sources": [
+      {
+        "title": "Así se juegan los octavos de final de Copa Libertadores 2026 – ClaroSports",
+        "url": "https://www.clarosports.com/futbol/copa-libertadores/asi-se-juegan-los-octavos-de-final-de-copa-libertadores-2026-partidos-cruces-fechas-y-donde-ver-en-vivo/"
+      },
+      {
+        "title": "Copa Libertadores 2026: fechas, horarios y canales de octavos – OneFootball",
+        "url": "https://onefootball.com/es/noticias/copa-libertadores-2026-fechas-horarios-y-canales-de-octavos-42967482"
+      }
+    ]
+  },
+  {
+    "id": "dyn-528173",
+    "date": "2026-08-13",
+    "name": "Copa Libertadores: Rosario Central vs Corinthians",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Rosario Central (Argentina) recibe a Corinthians (Brasil) en el partido de ida de octavos de final el 13 de agosto en Rosario. Vuelta el 20 de agosto en São Paulo.",
+    "sources": [
+      {
+        "title": "Fechas y horarios: así se jugarán los Octavos de Final – CONMEBOL",
+        "url": "https://gol.conmebol.com/libertadores/es/news/fechas-y-horarios-asi-se-jugaran-los-octavos-de-final-de-la-conmebol-libertadores"
+      },
+      {
+        "title": "Fechas y horarios definidos – Primicias Ecuador",
+        "url": "https://www.primicias.ec/deportes/futbol/octavos-final-copa-libertadores-fechas-horarios-sedes-calendario-idv-liga-124511/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-723784",
+    "date": "2026-08-14",
+    "name": "Quincena 1ra agosto México (cobro 14/08)",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La primera quincena de agosto 2026 se adelanta al viernes 14 (el 15 cae en sábado). Pico de gasto en retail, food delivery y entretenimiento.",
+    "sources": [
+      {
+        "title": "Calendario de Quincenas 2026 México – Fechas Exactas de Pago",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-945665",
+    "date": "2026-08-14",
+    "name": "Tributo a OASIS Sinfónico en Lima",
+    "countries": [
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El viernes 14 de agosto se presenta el Tributo a OASIS Sinfónico en el Centro de Convenciones Bianca de Lima, aprovechando el furor global por el regreso de la banda y sus fans de generaciones 90s-2000s.",
+    "sources": [
+      {
+        "title": "Conciertos Perú – Ticketmaster Perú",
+        "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
+      }
+    ]
+  },
+  {
+    "id": "dyn-333032",
+    "date": "2026-08-15",
+    "name": "Rosalía LUX Tour México (Guadalajara y Monterrey)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
     ],
     "category": "concierto",
     "impact": "medio",
-    "description": "El dúo argentino tiene confirmada fecha en São Paulo el 18 de noviembre en Espaço Unimed. Las entradas ya están disponibles en Ticketmaster. Su gira mundial mantiene alta presencia en redes brasileñas.",
+    "description": "Rosalía lleva su LUX Tour a México: Guadalajara los días 15 y 16 de agosto en Arena VFG, y Monterrey el 19 de agosto en Arena Monterrey. Parte del mismo furor que generó en Buenos Aires.",
     "sources": [
       {
-        "title": "CA7RIEL & Paco Amoroso São Paulo — Ticketmaster MX (fechas globales)",
-        "url": "https://www.ticketmaster.com.mx/ca7riel-paco-amoroso-boletos/artist/3350684"
+        "title": "Rosalía viene a México: Los detalles del LUX Tour 2026 – Marie Claire MX",
+        "url": "https://marieclaire.com.mx/rosalia-conciertos-mexico-2026/"
+      },
+      {
+        "title": "Boletos para ROSALÍA – Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/rosalia-boletos/artist/2453211"
+      }
+    ]
+  },
+  {
+    "id": "dyn-781376",
+    "date": "2026-08-15",
+    "name": "Rosalía LUX Tour Guadalajara",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rosalía se presenta en Guadalajara los días 15 y 16 de agosto en la Arena VFG, como parte de su gira LUX Tour 2026. Las entradas están agotadas desde el anuncio.",
+    "sources": [
+      {
+        "title": "Rosalía en México 2026: Fechas – EXA FM",
+        "url": "https://exafm.com/news/2025/12/4/rosalia-en-mexico-2026-fechas-precio-de-los-boletos-preventa-mas-para-sus-conciertos-en-el-palacio-de-los-deportes-23105.html"
+      },
+      {
+        "title": "Boletos para ROSALÍA – Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/rosalia-boletos/artist/2453211"
+      }
+    ]
+  },
+  {
+    "id": "dyn-882980",
+    "date": "2026-08-17",
+    "name": "Puente festivo 17 agosto Colombia",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La Asunción de la Virgen (15 agosto) se traslada al lunes 17 por Ley Emiliani, generando un segundo fin de semana largo en agosto. Alta movilidad turística hacia San Andrés, el eje cafetero y costa caribe.",
+    "sources": [
+      {
+        "title": "Festivos de agosto de 2026 en Colombia – El País",
+        "url": "https://www.elpais.com.co/colombia/agosto-2026-tendra-dos-festivos-en-colombia-conozca-las-fechas-oficiales-2802.html"
+      },
+      {
+        "title": "Festivos de agosto 2026 en Colombia – Semana",
+        "url": "https://www.semana.com/nacion/articulo/confirmado-estos-son-los-dias-festivos-que-tendra-colombia-en-agosto-de-2026/202639/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-133997",
+    "date": "2026-08-17",
+    "name": "Sam Smith 'To Be Free' Auditorio Nacional",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Sam Smith inicia su residencia de 4 noches en el Auditorio Nacional de CDMX el 17 de agosto (también 18, 20 y 21/08). Boletos entre $1,215 y $4,563 MXN via Ticketmaster.",
+    "sources": [
+      {
+        "title": "Sam Smith regresa a México: fechas y preventa en CDMX – Quién",
+        "url": "https://www.quien.com/espectaculos/2026/03/22/sam-smith-regresa-a-mexico-fechas-y-preventa-en-cdmx"
+      },
+      {
+        "title": "Boletos para Sam Smith – Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/sam-smith-boletos/artist/1785301"
+      }
+    ]
+  },
+  {
+    "id": "dyn-374581",
+    "date": "2026-08-18",
+    "name": "Copa Libertadores Octavos de Final (vuelta)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Del 18 al 20 de agosto se juegan los 8 partidos de vuelta de los octavos de final de la Copa Libertadores 2026. Definen los 8 clasificados a cuartos de final. Final programada el 28 de noviembre en Montevideo.",
+    "sources": [
+      {
+        "title": "Así se juegan los octavos de final de Copa Libertadores 2026 – ClaroSports",
+        "url": "https://www.clarosports.com/futbol/copa-libertadores/asi-se-juegan-los-octavos-de-final-de-copa-libertadores-2026-partidos-cruces-fechas-y-donde-ver-en-vivo/"
+      },
+      {
+        "title": "Copa Libertadores 2026: fechas, horarios y canales de octavos – OneFootball",
+        "url": "https://onefootball.com/es/noticias/copa-libertadores-2026-fechas-horarios-y-canales-de-octavos-42967482"
+      }
+    ]
+  },
+  {
+    "id": "dyn-326688",
+    "date": "2026-08-18",
+    "name": "Libertadores vuelta: Fluminense, Cruzeiro y Palmeiras",
+    "countries": [
+      "BR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Los equipos brasileños juegan los partidos de vuelta de octavos de la Libertadores: Independiente Rivadavia vs Fluminense (18/08), Flamengo vs Cruzeiro (19/08) y Cerro Porteño vs Palmeiras (19/08).",
+    "sources": [
+      {
+        "title": "Copa Libertadores 2026: fechas, horarios y canales – OneFootball",
+        "url": "https://onefootball.com/es/noticias/copa-libertadores-2026-fechas-horarios-y-canales-de-octavos-42967482"
+      },
+      {
+        "title": "Días y horarios para octavos de final Copa Libertadores – AFA",
+        "url": "https://www.afa.com.ar/12209/posts/dias-y-horarios-para-octavos-de-final-copa-libertadores-y-playoffs-copa-sudamericana"
+      }
+    ]
+  },
+  {
+    "id": "dyn-724636",
+    "date": "2026-08-18",
+    "name": "Libertadores vuelta: Estudiantes, Rosario Central y Platense",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Los equipos argentinos juegan los partidos de vuelta de octavos: Universidad Católica vs Estudiantes (18/08 en Santiago), Corinthians vs Rosario Central (20/08 en São Paulo) y Platense vs Coquimbo (19/08).",
+    "sources": [
+      {
+        "title": "Días y horarios para octavos de final Copa Libertadores – AFA",
+        "url": "https://www.afa.com.ar/12209/posts/dias-y-horarios-para-octavos-de-final-copa-libertadores-y-playoffs-copa-sudamericana"
+      },
+      {
+        "title": "Copa Libertadores 2026: fechas y horarios octavos – 365scores",
+        "url": "https://www.365scores.com/es/news/horarios-octavos-copa-libertadores-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-621157",
+    "date": "2026-08-18",
+    "name": "Libertadores vuelta: Universidad Católica vs Estudiantes",
+    "countries": [
+      "CL"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Universidad Católica (que eliminó a Boca Juniors en fase de grupos) recibe a Estudiantes de La Plata el 18 de agosto en Santiago en el partido de vuelta de octavos de final.",
+    "sources": [
+      {
+        "title": "Fechas y horarios definidos – octavos Copa Libertadores – Primicias",
+        "url": "https://www.primicias.ec/deportes/futbol/octavos-final-copa-libertadores-fechas-horarios-sedes-calendario-idv-liga-124511/"
+      },
+      {
+        "title": "Copa Libertadores 2026: fechas, horarios y canales – OneFootball",
+        "url": "https://onefootball.com/es/noticias/copa-libertadores-2026-fechas-horarios-y-canales-de-octavos-42967482"
+      }
+    ]
+  },
+  {
+    "id": "dyn-276695",
+    "date": "2026-08-18",
+    "name": "Libertadores vuelta: IDV y LDU juegan de local",
+    "countries": [
+      "EC"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Independiente del Valle recibe a Deportes Tolima el 18 de agosto, y LDU Quito recibe a Mirassol el 20 de agosto, ambos en partidos de vuelta de octavos de final con el factor local a favor.",
+    "sources": [
+      {
+        "title": "Fechas y horarios definidos – octavos Copa Libertadores – Primicias",
+        "url": "https://www.primicias.ec/deportes/futbol/octavos-final-copa-libertadores-fechas-horarios-sedes-calendario-idv-liga-124511/"
+      },
+      {
+        "title": "Copa Libertadores 2026: fixture, horarios – ESPN Colombia",
+        "url": "https://www.espn.com.co/futbol/copa-libertadores/nota/_/id/16478031/libertadores-2026-fixture-horarios-resultados-y-tv-en-vivo"
       }
     ]
   }
