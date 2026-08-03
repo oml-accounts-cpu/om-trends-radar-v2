@@ -15,7 +15,7 @@
     ],
     "category": "concierto",
     "impact": "medio",
-    "description": "Rosalía presenta su álbum 'LUX' en una gira de 57 shows.",
+    "description": "Rosalía presenta su álbum 'LUX' en una gira de 57 shows: 6 fechas en Buenos Aires (1-6/08), Guadalajara (15-16/08), Monterrey (19/08) y múltiples fechas en CDMX (22-29/08).",
     "sources": [
       {
         "title": "Lux Tour – Wikipedia",
@@ -48,6 +48,40 @@
     ]
   },
   {
+    "id": "dyn-243776",
+    "date": "2026-08-06",
+    "name": "Rosalía LUX Tour Buenos Aires (última fecha)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rosalía cierra su residencia porteña el 6 de agosto en el Movistar Arena. Las 4 fechas (1, 2, 4 y 6 de agosto) se agotaron en 45 minutos.",
+    "sources": [
+      {
+        "title": "Rosalía agotó tres Movistar Arena – Rolling Stone Argentina",
+        "url": "https://es.rollingstone.com/arg-rosalia-agoto-tres-movistar-arena-en-45-minutos-cuando-es-el-cuarto-y-ultimo-show"
+      }
+    ]
+  },
+  {
+    "id": "dyn-468501",
+    "date": "2026-08-06",
+    "name": "CA7RIEL & Paco Amoroso en Palacio de los Deportes CDMX",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El dúo argentino presenta su 'Free Spirits World Tour' en CDMX los días 6 y 7 de agosto en el Palacio de los Deportes.",
+    "sources": [
+      {
+        "title": "CA7RIEL & Paco Amoroso regresan a México",
+        "url": "https://dondeir.com/musica/ca7riel-paco-amoroso-vuelven-a-mexico-boletos-fechas-y-mas-de-sus-conciertos/2026/03/"
+      }
+    ]
+  },
+  {
     "id": "dyn-993659",
     "date": "2026-08-07",
     "name": "Puente festivo 7 de agosto Colombia",
@@ -56,7 +90,7 @@
     ],
     "category": "trend",
     "impact": "medio",
-    "description": "El 7 de agosto es Batalla de Boyacá y posesión presidencial.",
+    "description": "El 7 de agosto es Batalla de Boyacá y posesión presidencial. Fin de semana largo con alta movilidad turística.",
     "sources": [
       {
         "title": "Festivos agosto 2026 Colombia",
@@ -90,7 +124,7 @@
     ],
     "category": "trend",
     "impact": "medio",
-    "description": "Del 10 al 16 de agosto, Bogotá recibe la Colombia Tech Week 2026.",
+    "description": "Del 10 al 16 de agosto, Bogotá recibe la Colombia Tech Week 2026 con más de 20.000 founders, inversores y líderes tech.",
     "sources": [
       {
         "title": "Colombia Tech Week 2026",
@@ -107,7 +141,7 @@
     ],
     "category": "trend",
     "impact": "medio",
-    "description": "Bono extraordinario de hasta $70.000 para jubilados en agosto.",
+    "description": "Bono extraordinario de hasta $70.000 para jubilados y pensionados en agosto. Los cobros comienzan el 10 de agosto.",
     "sources": [
       {
         "title": "ANSES cronograma agosto",
@@ -162,7 +196,7 @@
     ],
     "category": "concierto",
     "impact": "medio",
-    "description": "Tributo a OASIS Sinfónico el 14 de agosto en Lima.",
+    "description": "Tributo a OASIS Sinfónico el 14 de agosto en el Centro de Convenciones Bianca de Lima.",
     "sources": [
       {
         "title": "Conciertos Perú",
@@ -173,13 +207,13 @@
   {
     "id": "dyn-781376",
     "date": "2026-08-15",
-    "name": "Rosalía LUX Tour México",
+    "name": "Rosalía LUX Tour Guadalajara",
     "countries": [
       "MX"
     ],
     "category": "concierto",
     "impact": "medio",
-    "description": "Rosalía en Guadalajara (15-16/08) y Monterrey (19/08).",
+    "description": "Rosalía en Guadalajara los días 15 y 16 de agosto en Arena VFG.",
     "sources": [
       {
         "title": "Rosalía México 2026",
@@ -239,6 +273,23 @@
       {
         "title": "Octavos Copa Libertadores 2026",
         "url": "https://gol.conmebol.com/libertadores/es/news/fechas-y-horarios-asi-se-jugaran-los-octavos-de-final-de-la-conmebol-libertadores"
+      }
+    ]
+  },
+  {
+    "id": "dyn-333032",
+    "date": "2026-08-19",
+    "name": "Rosalía LUX Tour Monterrey",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rosalía en Arena Monterrey el 19 de agosto, parte de su LUX Tour México.",
+    "sources": [
+      {
+        "title": "Boletos para ROSALÍA – Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/rosalia-boletos/artist/2453211"
       }
     ]
   }
