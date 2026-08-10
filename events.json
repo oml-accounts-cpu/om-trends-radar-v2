@@ -48,6 +48,34 @@
     ]
   },
   {
+    "id": "dyn-194204",
+    "date": "2026-08-05",
+    "name": "Cien años de soledad Parte 2 — Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La segunda y última parte de la serie colombiana de Netflix se estrenó el 5 de agosto con 7 episodios, con el Gran Final (largometraje) agendado para el 26 de agosto. Producción íntegramente rodada en Colombia.",
+    "sources": [
+      {
+        "title": "Cien años de soledad Parte 2 ya tiene fecha de estreno — El Comercio Perú",
+        "url": "https://elcomercio.pe/mag/fama/que-ver/cien-anos-de-soledad-parte-2-ya-tiene-fecha-de-estreno-lo-que-sabemos-sobre-el-final-de-la-serie-colombiana-de-netflix-video-nnda-nnlt-noticia/"
+      },
+      {
+        "title": "La segunda parte de Cien años de soledad llegará en agosto 2026 — About Netflix",
+        "url": "https://about.netflix.com/es/news/the-second-part-of-one-hundred-years-of-solitude-will-arrive-in-august-2026"
+      }
+    ]
+  },
+  {
     "id": "dyn-243776",
     "date": "2026-08-06",
     "name": "Rosalía LUX Tour Buenos Aires (última fecha)",
@@ -78,6 +106,27 @@
       {
         "title": "CA7RIEL & Paco Amoroso regresan a México",
         "url": "https://dondeir.com/musica/ca7riel-paco-amoroso-vuelven-a-mexico-boletos-fechas-y-mas-de-sus-conciertos/2026/03/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-29107",
+    "date": "2026-08-06",
+    "name": "Ryan Castro & Feid — 'Mentira' (estreno 6 ago)",
+    "countries": [
+      "CO"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Ryan Castro y Feid lanzaron 'Mentira' el 6 de agosto, su tercera colaboración oficial. La presentaron primero en el barrio Pedregal (Medellín) con Lamine Yamal entre el público. El tema ya era viral en TikTok antes del estreno oficial.",
+    "sources": [
+      {
+        "title": "Ryan Castro y Feid estrenan 'Mentira' — Rolling Stone ES",
+        "url": "https://es.rollingstone.com/ryan-castro-y-feid-se-unen-nuevamente-en-mentira/"
+      },
+      {
+        "title": "Ryan Castro estrenó 'Mentira' en la Comuna 13 con Lamine Yamal — Mix Radio",
+        "url": "https://mixradio.co/secciones/estrenos/ryan-castro-estreno-mentira-en-la-comuna-13-con-lamine-yamal-presente"
       }
     ]
   },
@@ -116,6 +165,65 @@
     ]
   },
   {
+    "id": "dyn-163104",
+    "date": "2026-08-08",
+    "name": "Paulo Londra — Next Rounds Tour Bogotá",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Paulo Londra se presentó el sábado 8 de agosto en el Movistar Arena de Bogotá como parte de su gira internacional Next Rounds Tour 2026. Primer show propio como cabeza de cartel en la capital colombiana.",
+    "sources": [
+      {
+        "title": "Paulo Londra Bogotá 2026 — Movistar Arena",
+        "url": "https://movistararena.co/noticias/paulo-londra-bogota-2026-movistar-arena/"
+      },
+      {
+        "title": "Paulo Londra vuelve esta sábado a Bogotá — La República",
+        "url": "https://www.larepublica.co/ocio/paulo-londra-vuelve-esta-sabado-a-bogota-4453002"
+      }
+    ]
+  },
+  {
+    "id": "dyn-274976",
+    "date": "2026-08-09",
+    "name": "Feria de las Flores Medellín 2026 — Desfile de Silleteros",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La Feria de las Flores 2026 (31 julio–9 agosto) cerró con el Desfile de Silleteros el 9 de agosto. Con más de 110 eventos públicos y 3.000 artistas, esta semana el contenido UGC y los reels del desfile siguen viralizándose en redes.",
+    "sources": [
+      {
+        "title": "Feria de las Flores 2026 — Alcaldía de Medellín",
+        "url": "https://www.medellin.gov.co/es/feria-de-flores/"
+      },
+      {
+        "title": "Feria de las Flores 2026 guía completa — Move Medellín",
+        "url": "https://movecitytour.com/en/blog/feria-de-las-flores-medellin-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-904877",
+    "date": "2026-08-09",
+    "name": "Copa Perú 2026 — Semifinales Liga Departamental de La Libertad",
+    "countries": [
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Sport River y Juventud Bellavista se enfrentaron el domingo 9 de agosto por la ida de semifinales de la Liga Departamental de La Libertad en el Estadio Mansiche de Trujillo, enmarcado en la Copa Perú 2026.",
+    "sources": [
+      {
+        "title": "Partidos hoy lunes 10 agosto Perú — FutbolPeruano.com",
+        "url": "https://www.futbolperuano.com/partidos-por-tv/"
+      }
+    ]
+  },
+  {
     "id": "dyn-401334",
     "date": "2026-08-10",
     "name": "Colombia Tech Week Bogotá",
@@ -150,6 +258,27 @@
     ]
   },
   {
+    "id": "dyn-844711",
+    "date": "2026-08-10",
+    "name": "Harry Styles 'Together, Together Tour' CDMX — último show 10 agosto",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Harry Styles completa su residencia de 6 conciertos en el Estadio GNP Seguros de la CDMX. El último show es este lunes 10 de agosto. Uno de los eventos musicales más grandes del año en México.",
+    "sources": [
+      {
+        "title": "Harry Styles CDMX fechas 2026 — Caras MX",
+        "url": "https://www.caras.com.mx/entretenimiento/harry-styles-en-cdmx-2026-cuando-donde-y-a-que-hora-son-sus-conciertos"
+      },
+      {
+        "title": "Harry Styles Together Together Tour — Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/harry-styles-boletos/artist/2366444"
+      }
+    ]
+  },
+  {
     "id": "dyn-784114",
     "date": "2026-08-11",
     "name": "Copa Libertadores octavos de final (ida)",
@@ -167,6 +296,76 @@
       {
         "title": "Octavos Copa Libertadores 2026",
         "url": "https://gol.conmebol.com/libertadores/es/news/fechas-y-horarios-asi-se-jugaran-los-octavos-de-final-de-la-conmebol-libertadores"
+      }
+    ]
+  },
+  {
+    "id": "dyn-186285",
+    "date": "2026-08-11",
+    "name": "Copa Libertadores 2026 — Octavos de Final (ida)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Los partidos de ida de los octavos de final de la Copa Libertadores 2026 se juegan entre el 11 y 13 de agosto, con cruces como Mirassol vs Liga de Quito y Rosario Central vs Corinthians. La fase eliminatoria del torneo continental arrancó tras el paréntesis del Mundial.",
+    "sources": [
+      {
+        "title": "Fixture octavos de final Libertadores 2026 — Futbolred",
+        "url": "https://www.futbolred.com/copa-libertadores/fixture-partidos-de-octavos-de-final-de-libertadores-2026-fechas-horarios-y-tv-en-colombia-271300"
+      },
+      {
+        "title": "Horarios octavos Copa Libertadores 2026 — 365scores",
+        "url": "https://www.365scores.com/es/news/horarios-octavos-copa-libertadores-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-207696",
+    "date": "2026-08-11",
+    "name": "Octavos Libertadores 2026 — Flamengo, Botafogo y equipos brasileños",
+    "countries": [
+      "BR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Los equipos brasileños debutan en los octavos de final de la Copa Libertadores 2026 esta semana (partidos de ida 11-13 agosto). Flamengo y Corinthians entre los clasificados. El torneo se transmite por Disney+ en toda Sudamérica.",
+    "sources": [
+      {
+        "title": "2026 Copa Libertadores final stages — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Copa_Libertadores_final_stages"
+      },
+      {
+        "title": "Octavos de final Libertadores 2026: clasificados y fechas — Yahoo Noticias",
+        "url": "https://es-us.noticias.yahoo.com/deportes/octavos-final-libertadores-2026-clasificados-040002008.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-452525",
+    "date": "2026-08-13",
+    "name": "Liga de Quito en octavos Libertadores vs Mirassol",
+    "countries": [
+      "EC"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "LDU Liga de Quito visita al sorprendente Mirassol en Brasil en los octavos de final de la Copa Libertadores 2026 (13 agosto). Primer duelo eliminatorio del club ecuatoriano en la fase final del torneo.",
+    "sources": [
+      {
+        "title": "Horarios octavos Copa Libertadores 2026 — Futbolred",
+        "url": "https://www.futbolred.com/copa-libertadores/fixture-partidos-de-octavos-de-final-de-libertadores-2026-fechas-horarios-y-tv-en-colombia-271300"
+      },
+      {
+        "title": "Horarios octavos Libertadores 2026 — 365scores",
+        "url": "https://www.365scores.com/es/news/horarios-octavos-copa-libertadores-2026/"
       }
     ]
   },
@@ -205,6 +404,61 @@
     ]
   },
   {
+    "id": "dyn-943946",
+    "date": "2026-08-14",
+    "name": "Serie 'Moria' Netflix — estreno 14 agosto",
+    "countries": [
+      "AR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Netflix estrena el 14 de agosto la serie biográfica argentina 'Moria', con Sofía Gala, Griselda Siciliani y Cecilia Roth interpretando a Moria Casán en distintas etapas. Coincide con la previa del cumpleaños 80 de la diva. Una de las apuestas locales más esperadas del año.",
+    "sources": [
+      {
+        "title": "Serie Moria Netflix estreno — Wikipedia ES",
+        "url": "https://es.wikipedia.org/wiki/Moria_(serie_de_televisi%C3%B3n)"
+      },
+      {
+        "title": "Netflix estrena Moria 14 agosto — Infobae",
+        "url": "https://www.infobae.com/que-puedo-ver/2026/08/05/quien-es-quien-en-moria-la-serie-argentina-que-llega-en-agosto/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-864582",
+    "date": "2026-08-14",
+    "name": "Quincena agosto México — pago adelantado al 14 (viernes)",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "En agosto 2026, el 15 cae sábado, por lo que la quincena se paga el viernes 14 de agosto. Esto adelanta el pico de consumo digital al viernes. El calendario oficial de quincenas de México lo confirma.",
+    "sources": [
+      {
+        "title": "Calendario quincenas 2026 México — CalendarioDeMexico.com",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-318726",
+    "date": "2026-08-14",
+    "name": "Morat — 2 noches en Movistar Arena Bogotá (14 y 15 agosto)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La banda colombiana Morat se presenta dos noches consecutivas en el Movistar Arena de Bogotá el 14 y 15 de agosto. Uno de los eventos musicales más esperados de la agenda colombiana de agosto.",
+    "sources": [
+      {
+        "title": "Morat Bogotá agosto 2026 — Songkick",
+        "url": "https://www.songkick.com/concerts/43057915-paulo-londra-at-movistar-arena"
+      }
+    ]
+  },
+  {
     "id": "dyn-781376",
     "date": "2026-08-15",
     "name": "Rosalía LUX Tour Guadalajara",
@@ -218,6 +472,40 @@
       {
         "title": "Rosalía México 2026",
         "url": "https://marieclaire.com.mx/rosalia-conciertos-mexico-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-345941",
+    "date": "2026-08-16",
+    "name": "'Vozinha' debuta en Colo-Colo — partido vs O'Higgins 16 agosto",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El arquero de Cabo Verde 'Vozinha', figura del Mundial 2026, firmó por Colo-Colo y podría debutar el 16 de agosto vs O'Higgins en el Estadio Monumental. Su debut se puede ver en Argentina, Brasil y México. Colo-Colo lidera el Clausura 2026 con 12 puntos de ventaja.",
+    "sources": [
+      {
+        "title": "Debut Vozinha en Colo-Colo — Unánimo Deportes",
+        "url": "https://unanimodeportes.com/deportes/futbol/futbol-sudamericano/debut-vozinha-argentina-brasil-mexico/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-109906",
+    "date": "2026-08-16",
+    "name": "'Vozinha' debut esperado en Colo-Colo — 16 agosto vs O'Higgins",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El posible debut del arquero 'Vozinha' (figura del Mundial 2026 con Cabo Verde) en Colo-Colo se daría el 16 de agosto vs O'Higgins en el Estadio Monumental. El partido es seguido en Argentina, Brasil y México vía streaming.",
+    "sources": [
+      {
+        "title": "Debut Vozinha en Colo-Colo — Unánimo Deportes",
+        "url": "https://unanimodeportes.com/deportes/futbol/futbol-sudamericano/debut-vozinha-argentina-brasil-mexico/"
       }
     ]
   },
@@ -256,6 +544,116 @@
     ]
   },
   {
+    "id": "dyn-219079",
+    "date": "2026-08-17",
+    "name": "Festivo 17 de agosto — Puente largo Colombia",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 17 de agosto es festivo oficial en Colombia (Asunción de la Virgen, trasladado al lunes por Ley Emiliani), generando un puente largo. El comercio, turismo y hotelería registran aumento en la demanda.",
+    "sources": [
+      {
+        "title": "Festivos agosto 2026 Colombia — El País",
+        "url": "https://www.elpais.com.co/colombia/agosto-2026-tendra-dos-festivos-en-colombia-conozca-las-fechas-oficiales-2802.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-761943",
+    "date": "2026-08-17",
+    "name": "Lanterns — estreno HBO Max (17 agosto)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El 17 de agosto estrena 'Lanterns' en HBO Max, serie del universo DC inspirada en Linterna Verde con tintes de thriller policial. Una de las principales apuestas de la plataforma para agosto en toda LATAM.",
+    "sources": [
+      {
+        "title": "HBO Max agosto 2026: series y películas — El Informador MX",
+        "url": "https://www.informador.mx/entretenimiento/hbo-max-en-agosto-2026-todas-las-series-y-peliculas-confirmadas-20260801-0046.html"
+      },
+      {
+        "title": "Estrenos agosto 2026 plataformas — El Universal MX",
+        "url": "https://www.eluniversal.com.mx/espectaculos/todos-los-estrenos-de-agosto-2026-en-netflix-disney-prime-video-hbo-max-y-mas-plataformas/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-688500",
+    "date": "2026-08-17",
+    "name": "It's Always Sunny in Philadelphia T18 — Disney+ (17 agosto)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La temporada 18 de 'It's Always Sunny in Philadelphia' estrena el 17 de agosto en Disney+, disponible en toda LATAM. La serie tiene base de fans activa en redes y genera conversación intergeneracional.",
+    "sources": [
+      {
+        "title": "Estrenos agosto 2026 plataformas — El Universal MX",
+        "url": "https://www.eluniversal.com.mx/espectaculos/todos-los-estrenos-de-agosto-2026-en-netflix-disney-prime-video-hbo-max-y-mas-plataformas/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-249167",
+    "date": "2026-08-17",
+    "name": "Festivo Colombia 17 agosto — puente largo y pico digital",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El lunes 17 de agosto es festivo en Colombia (Ley Emiliani). El puente largo activa picos de e-commerce, viajes y entretenimiento digital desde el sábado 15 al lunes 17.",
+    "sources": [
+      {
+        "title": "Festivos agosto 2026 Colombia — El País",
+        "url": "https://www.elpais.com.co/colombia/agosto-2026-tendra-dos-festivos-en-colombia-conozca-las-fechas-oficiales-2802.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-91913",
+    "date": "2026-08-17",
+    "name": "Festival de Teatro y Circo Bogotá — cierre 17 agosto",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El Festival de Teatro y Circo de Bogotá 2026 cierra el 17 de agosto con una obra en el Teatro El Parque (entrada libre). Hace parte de la agenda cultural gratuita de los 488 años de Bogotá.",
+    "sources": [
+      {
+        "title": "Agenda cultural IDARTES agosto 2026 — IDARTES Bogotá",
+        "url": "https://www.idartes.gov.co/es/agenda"
+      }
+    ]
+  },
+  {
     "id": "dyn-374581",
     "date": "2026-08-18",
     "name": "Copa Libertadores octavos de final (vuelta)",
@@ -277,6 +675,40 @@
     ]
   },
   {
+    "id": "dyn-68004",
+    "date": "2026-08-18",
+    "name": "Octavos vuelta Libertadores — Corinthians y Flamengo en casa",
+    "countries": [
+      "BR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Los partidos de vuelta de octavos de la Copa Libertadores 2026 (18-20 agosto) traen a los equipos brasileños a sus estadios. Alta expectativa en Brasil para los cruces de Flamengo y Corinthians.",
+    "sources": [
+      {
+        "title": "2026 Copa Libertadores final stages — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Copa_Libertadores_final_stages"
+      }
+    ]
+  },
+  {
+    "id": "dyn-847585",
+    "date": "2026-08-18",
+    "name": "Deportes Tolima vs Independiente del Valle — Libertadores (vuelta)",
+    "countries": [
+      "CO"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Deportes Tolima juega la vuelta de octavos de final de la Copa Libertadores 2026 contra Independiente del Valle en la semana del 18-20 agosto. Único representante colombiano en la fase eliminatoria.",
+    "sources": [
+      {
+        "title": "Octavos Libertadores 2026 fixture Colombia — Futbolred",
+        "url": "https://www.futbolred.com/copa-libertadores/fixture-partidos-de-octavos-de-final-de-libertadores-2026-fechas-horarios-y-tv-en-colombia-271300"
+      }
+    ]
+  },
+  {
     "id": "dyn-333032",
     "date": "2026-08-19",
     "name": "Rosalía LUX Tour Monterrey",
@@ -290,6 +722,61 @@
       {
         "title": "Boletos para ROSALÍA – Ticketmaster MX",
         "url": "https://www.ticketmaster.com.mx/rosalia-boletos/artist/2453211"
+      }
+    ]
+  },
+  {
+    "id": "dyn-178442",
+    "date": "2026-08-23",
+    "name": "Desfile de Comparsas Bogotá 488 años — 23 agosto",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 23 de agosto, el Desfile de Comparsas recorre la carrera Séptima desde la Plaza La Santamaría hasta la Plaza de Bolívar. Más de 30 años de tradición, colectivos de las 20 localidades. Alto UGC esperado.",
+    "sources": [
+      {
+        "title": "Bogotá celebra sus 488 años agenda agosto — bogota.gov.co",
+        "url": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/planes-gratis-y-actividades-cumpleanos-bogota-3-al-31-de-agosto-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-987506",
+    "date": "2026-08-25",
+    "name": "Quincena 16 México — pago 25 agosto",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La segunda quincena de agosto en México se paga el 25 de agosto. Anticipa el segundo pico mensual de consumo digital y compras online del mes.",
+    "sources": [
+      {
+        "title": "Calendario de pagos UNAM 2026",
+        "url": "https://www.personal.unam.mx/Docs/Calendario/calpagonom2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": "dyn-613798",
+    "date": "2026-11-28",
+    "name": "Final Copa Libertadores 2026 en Montevideo — el horizonte continental",
+    "countries": [
+      "UY"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La final de la Copa Libertadores 2026 está programada para el 28 de noviembre en el Estadio Centenario de Montevideo. Con los octavos empezando esta semana, Uruguay empieza a activar conversación sobre el evento más importante del año en su territorio.",
+    "sources": [
+      {
+        "title": "2026 Copa Libertadores final stages — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Copa_Libertadores_final_stages"
+      },
+      {
+        "title": "CONMEBOL define calendário das provas continentais 2026 — Soccerway PT",
+        "url": "https://pt.soccerway.com/noticias/futebol-taca-dos-libertadores-conmebol-define-calendario-das-provas-continentais-em-2026/l0Dr6tKM"
       }
     ]
   }
