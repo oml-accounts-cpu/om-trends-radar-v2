@@ -131,6 +131,23 @@
     ]
   },
   {
+    "id": "dyn-23628",
+    "date": "2026-08-06",
+    "name": "Fería de Editores Buenos Aires — aniversario 15 años",
+    "countries": [
+      "AR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La Feria de Editores cumple 15 años y reúne a más de 330 editoriales independientes de Argentina, Brasil, Chile, Colombia, México, Uruguay, Perú y España. En 2025 pasaron 30.800 lectores por el predio. Se realizó del 6 al 9 de agosto en Chacarita.",
+    "sources": [
+      {
+        "title": "Agenda cultural Buenos Aires agosto 2026 — Vidriera BA",
+        "url": "https://vidrierabuenosaires.com/blog/agenda-cultural-buenos-aires-agosto-2026"
+      }
+    ]
+  },
+  {
     "id": "dyn-993659",
     "date": "2026-08-07",
     "name": "Puente festivo 7 de agosto Colombia",
@@ -144,6 +161,34 @@
       {
         "title": "Festivos agosto 2026 Colombia",
         "url": "https://www.elpais.com.co/colombia/agosto-2026-tendra-dos-festivos-en-colombia-conozca-las-fechas-oficiales-2802.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-925461",
+    "date": "2026-08-07",
+    "name": "Karol G — «No me arrepiento de sentir tanto» (álbum en circulación)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El sexto álbum de Karol G se lanzó el 7 de agosto de 2026 con 14 canciones y colaboraciones con Drake, Bruno Mars, Judeline, Rusowsky y Greg González. Sigue siendo el lanzamiento latino más comentado de la semana.",
+    "sources": [
+      {
+        "title": "Karol G anuncia lanzamiento de su nuevo álbum el 8 de agosto — El Diario NY",
+        "url": "https://eldiariony.com/2026/07/30/karol-g-anuncia-nuevo-album-en-plena-gira-por-estados-unidos/"
+      },
+      {
+        "title": "Karol G revela las canciones de su nuevo álbum — CNN Español",
+        "url": "https://cnnespanol.cnn.com/2026/08/05/entretenimiento/karol-g-canciones-nuevo-album-bruno-mars-drake-orix"
       }
     ]
   },
@@ -476,6 +521,23 @@
     ]
   },
   {
+    "id": "dyn-725859",
+    "date": "2026-08-15",
+    "name": "No Te Va Gustar — Cúpula Santiago (15 ago, sold out)",
+    "countries": [
+      "UY"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "No Te Va Gustar presentó dos fechas en La Cúpula de Santiago (14 y 15 de agosto), con la del 15 ya agotada. La banda uruguaya mantiene altísima presencia en el circuito regional con cada gira.",
+    "sources": [
+      {
+        "title": "Listado completo conciertos Chile agosto 2026 — POTQ Magazine",
+        "url": "https://www.potq.net/noticias/conciertos-2026/"
+      }
+    ]
+  },
+  {
     "id": "dyn-345941",
     "date": "2026-08-16",
     "name": "'Vozinha' debuta en Colo-Colo — partido vs O'Higgins 16 agosto",
@@ -506,6 +568,27 @@
       {
         "title": "Debut Vozinha en Colo-Colo — Unánimo Deportes",
         "url": "https://unanimodeportes.com/deportes/futbol/futbol-sudamericano/debut-vozinha-argentina-brasil-mexico/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-883084",
+    "date": "2026-08-16",
+    "name": "Atlético Mineiro vs Grêmio — Brasileirão en curso",
+    "countries": [
+      "BR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El Campeonato Brasileiro Série A 2026 sigue en plena actividad; Atlético Mineiro vs Grêmio fue uno de los partidos destacados del fin de semana del 16 de agosto. Flamengo defiende el título de la edición anterior.",
+    "sources": [
+      {
+        "title": "Futbol HOY: calendario de partidos del 16 de agosto de 2026 — El Informador",
+        "url": "https://www.informador.mx/deportes/futbol-hoy-en-vivo-calendario-de-partidos-del-16-de-agosto-de-2026-canales-horarios-streaming-20260814-0033.html"
+      },
+      {
+        "title": "2026 Campeonato Brasileiro Série A — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Campeonato_Brasileiro_S%C3%A9rie_A"
       }
     ]
   },
@@ -654,6 +737,44 @@
     ]
   },
   {
+    "id": "dyn-758023",
+    "date": "2026-08-17",
+    "name": "Finde largo 15-17 agosto — consumo y planes en CABA",
+    "countries": [
+      "AR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El feriado del 17 de agosto (Paso a la Inmortalidad del Gral. San Martín) generó un fin de semana largo natural del sábado 15 al lunes 17, activando alto consumo de entretenimiento, gastronomía y contenido digital.",
+    "sources": [
+      {
+        "title": "Agenda cultural Buenos Aires agosto 2026 — Vidriera BA",
+        "url": "https://vidrierabuenosaires.com/blog/agenda-cultural-buenos-aires-agosto-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-848364",
+    "date": "2026-08-17",
+    "name": "Liga MX Apertura 2026 — Jornada 4/5 en curso",
+    "countries": [
+      "MX"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El Apertura 2026 de la Liga MX reanudó actividades tras la pausa por la Leagues Cup. La jornada 4 cerró el lunes 17 de agosto con Necaxa vs León y Pachuca vs Puebla, mientras casi una decena de clubes pelean por el liderato.",
+    "sources": [
+      {
+        "title": "Partidos de hoy lunes 17 de agosto 2026: Liga MX — TUDN",
+        "url": "https://www.tudn.com/futbol/partidos-hoy-lunes-17-agosto-de-2026-liga-mx"
+      },
+      {
+        "title": "Calendario Liga MX Torneo Apertura 2026 — ligamx.net",
+        "url": "https://ligamx.net/"
+      }
+    ]
+  },
+  {
     "id": "dyn-374581",
     "date": "2026-08-18",
     "name": "Copa Libertadores octavos de final (vuelta)",
@@ -726,6 +847,68 @@
     ]
   },
   {
+    "id": "dyn-766794",
+    "date": "2026-08-19",
+    "name": "Tango BA Festival y Mundial 2026 — 19 ago al 2 sept",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Buenos Aires se convierte en capital mundial del tango del 19 de agosto al 2 de septiembre, con más de 2.000 artistas, casi 800 parejas de 47 países y actividades en 50 sedes de 34 barrios. Apertura el 19 de agosto en la Usina del Arte con Abel Pintos y Vicentico.",
+    "sources": [
+      {
+        "title": "Desde el 19 de agosto, Buenos Aires presenta el mayor festival de tango del mundo — Infobae",
+        "url": "https://www.infobae.com/cultura/2026/08/13/desde-el-19-de-agosto-buenos-aires-presenta-el-mayor-festival-de-tango-del-mundo-en-mas-de-50-sedes/"
+      },
+      {
+        "title": "Tango BA Festival y Mundial 2026 — Tangoba.org",
+        "url": "https://tangoba.org/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-910613",
+    "date": "2026-08-20",
+    "name": "The Death of Robin Hood — estreno en Argentina 20 ago",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "The Death of Robin Hood, con Hugh Jackman, Jodie Comer y Bill Skarsgård, se estrena en cines de Argentina el 20 de agosto de 2026, distribuidora Imagem Films, dirigida por Michael Sarnoski.",
+    "sources": [
+      {
+        "title": "Próximos estrenos cines argentinos — Cines Argentinos",
+        "url": "https://m.cinesargentinos.com.ar/proximos/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-665147",
+    "date": "2026-08-22",
+    "name": "Rawayana en Movistar Arena — sold out buzz digital",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rawayana agotó entradas para sus dos fechas en el Movistar Arena de Santiago (22 y 23 de agosto), generando amplio buzz en redes sociales chilenas. La banda venezolana es uno de los actos más virales del circuito LATAM.",
+    "sources": [
+      {
+        "title": "Listado completo conciertos Chile agosto 2026 — POTQ Magazine",
+        "url": "https://www.potq.net/noticias/conciertos-2026/"
+      }
+    ]
+  },
+  {
     "id": "dyn-178442",
     "date": "2026-08-23",
     "name": "Desfile de Comparsas Bogotá 488 años — 23 agosto",
@@ -743,6 +926,27 @@
     ]
   },
   {
+    "id": "dyn-125543",
+    "date": "2026-08-24",
+    "name": "Festival Orígenes 2026 — Semana Académica 24-28 agosto (Bogotá)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Del 24 al 28 de agosto se desarrolla en Bogotá la Semana Académica y Cultural del Festival Orígenes, con entrada gratuita. Incluye muestra audiovisual en la Javeriana (27 ago), oralitura y música ancestral de pueblos Ēberā, Wayúu, Kichwa y Misak. Organizado por la Alcaldía Mayor.",
+    "sources": [
+      {
+        "title": "Festival Orígenes 2026 — Bogota.gov.co",
+        "url": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/programacion-franja-academica-festival-origenes-2026-24-al-28-agosto"
+      },
+      {
+        "title": "Festival Orígenes 2026 semana gratuita — Pulzo",
+        "url": "https://www.pulzo.com/nacion/bogota/festival-origenes-2026-en-bogota-programacion-y-tradiciones-de-pueblos-originarios-PP5276676A"
+      }
+    ]
+  },
+  {
     "id": "dyn-987506",
     "date": "2026-08-25",
     "name": "Quincena 16 México — pago 25 agosto",
@@ -756,6 +960,123 @@
       {
         "title": "Calendario de pagos UNAM 2026",
         "url": "https://www.personal.unam.mx/Docs/Calendario/calpagonom2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": "dyn-412469",
+    "date": "2026-08-26",
+    "name": "Cien años de soledad T2 — Gran Final 26/ago en Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La segunda parte de la serie llegó a Netflix el 5 de agosto (7 episodios); el capítulo especial Gran Final, prácticamente un largometraje dirigido por Laura Mora, se estrena el 26 de agosto. Producción colombiana filmada íntegramente en Colombia.",
+    "sources": [
+      {
+        "title": "Cien años de soledad vuelve a Netflix: cuándo se estrena la segunda parte — Ambito",
+        "url": "https://www.ambito.com/espectaculos/cien-anos-soledad-vuelve-netflix-cuando-se-estrena-la-segunda-parte-n6300702"
+      },
+      {
+        "title": "Cien años de soledad (serie) — Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Cien_a%C3%B1os_de_soledad_(serie_de_televisi%C3%B3n)"
+      }
+    ]
+  },
+  {
+    "id": "dyn-725688",
+    "date": "2026-08-27",
+    "name": "Perreolandia — Movistar Arena Santiago 27 agosto (con eco en MX)",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Perreolandia, festival con Guelo Star, Khriz & Angel, Dálmata, Tony Dize y De la Ghetto se presenta en el Movistar Arena de Santiago el 27 de agosto. El evento genera tendencia en redes de toda LATAM incluyendo México.",
+    "sources": [
+      {
+        "title": "Cartelera de conciertos 2026 en Chile — Cooperativa.cl",
+        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-329591",
+    "date": "2026-08-28",
+    "name": "Coyote vs ACME — expectativa pre-estreno 28 agosto",
+    "countries": [
+      "MX"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La película Coyote vs. ACME de Ketchup Entertainment (rescatada de la cancelación de Warner Bros.) llega a cines de México el 28 de agosto. Genera memes de paquetes explosivos y contenido nostálgico de Looney Tunes en redes mexicanas.",
+    "sources": [
+      {
+        "title": "Coyote vs ACME revela tráiler final y confirma llegada a cines — Excélsior",
+        "url": "https://www.excelsior.com.mx/espectaculos/coyote-vs-acme-revela-trailer-final-y-confirma-llegada-cines"
+      },
+      {
+        "title": "Estrenos de cine agosto 2026 — Excélsior",
+        "url": "https://www.excelsior.com.mx/espectaculos/que-ver-cine-agosto-2026-insidious-coyote-vs-acme-y-mas-cartelera"
+      }
+    ]
+  },
+  {
+    "id": "dyn-841706",
+    "date": "2026-08-28",
+    "name": "Arcángel — Movistar Arena Buenos Aires 28 agosto",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Arcángel se presenta en el Movistar Arena de Buenos Aires el 28 de agosto como parte de su tour 20 Aniversario de «La 8va Maravilla».",
+    "sources": [
+      {
+        "title": "Agenda de conciertos internacionales — IndyRock Magazine",
+        "url": "https://indyrock.es/conciertos-internacional.htm"
+      }
+    ]
+  },
+  {
+    "id": "dyn-844383",
+    "date": "2026-08-28",
+    "name": "Álvaro Díaz — Movistar Arena Santiago 28 agosto",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Álvaro Díaz se presenta en el Movistar Arena de Santiago el 28 de agosto de 2026, según la cartelera oficial de conciertos de Chile.",
+    "sources": [
+      {
+        "title": "Cartelera de conciertos 2026 en Chile — Cooperativa.cl",
+        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-978297",
+    "date": "2026-09-12",
+    "name": "Arcángel — Lima Estadio San Marcos 12 septiembre (preventa activa)",
+    "countries": [
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Arcángel como parte de su tour 20 Aniversario llega al Estadio San Marcos de Lima el 12 de septiembre de 2026. La preventa ya está activa y genera conversación en redes peruanas durante la semana del 24 de agosto.",
+    "sources": [
+      {
+        "title": "Agenda de conciertos internacionales — IndyRock Magazine",
+        "url": "https://indyrock.es/conciertos-internacional.htm"
       }
     ]
   },
