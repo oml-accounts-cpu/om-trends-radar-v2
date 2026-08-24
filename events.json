@@ -892,6 +892,27 @@
     ]
   },
   {
+    "id": "dyn-33209",
+    "date": "2026-08-20",
+    "name": "TINI + Los Ángeles Azules — 'Pa' Él'",
+    "countries": [
+      "AR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 20 de agosto se lanzó 'Pa' Él', la cumbia de TINI con Los Ángeles Azules. La letra sobre infidelidad generó masiva especulación sobre Sebastián Yatra y dominó las redes argentinas durante toda la semana.",
+    "sources": [
+      {
+        "title": "TINI lanzó 'Pa Él' con Los Ángeles Azules — Emisoras Unidas",
+        "url": "https://emisorasunidas.com/farandula/2026/08/21/tini-stoessel-se-une-a-los-angeles-azules-y-lanzan-pa-el"
+      },
+      {
+        "title": "TINI anuncia 'Pa Él' — El Liberal",
+        "url": "https://www.elliberal.com.ar/nota/88544/2026/08/tini-anuncio-una-nueva-cancion-y-los-fans-apuntaron-contra-un-ex--de-quien-se-trata"
+      }
+    ]
+  },
+  {
     "id": "dyn-665147",
     "date": "2026-08-22",
     "name": "Rawayana en Movistar Arena — sold out buzz digital",
@@ -947,6 +968,23 @@
     ]
   },
   {
+    "id": "dyn-854925",
+    "date": "2026-08-24",
+    "name": "Deportes Tolima en Libertadores — noche histórica en Quito",
+    "countries": [
+      "CO"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Tolima, único representante colombiano en la Copa Libertadores 2026, juega el 24 de agosto la vuelta de octavos en Quito. Necesita ganar por 2+ goles para clasificar a cuartos por primera vez en su historia.",
+    "sources": [
+      {
+        "title": "Tolima vs. Independiente del Valle — El Espectador",
+        "url": "https://www.elespectador.com/deportes/futbol-mundial/tolima-vs-independiente-del-valle-fecha-hora-y-tv-del-partido-de-la-copa-libertadores-tolima-vs-independiente-del-valle/"
+      }
+    ]
+  },
+  {
     "id": "dyn-987506",
     "date": "2026-08-25",
     "name": "Quincena 16 México — pago 25 agosto",
@@ -959,6 +997,27 @@
     "sources": [
       {
         "title": "Calendario de pagos UNAM 2026",
+        "url": "https://www.personal.unam.mx/Docs/Calendario/calpagonom2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": "dyn-341307",
+    "date": "2026-08-25",
+    "name": "Quincena México 25 agosto — pico de gasto",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 25 de agosto es fecha de pago de la 2ª quincena de agosto en México (quincena 16/2026), generando el pico de consumo digital y e-commerce mensual.",
+    "sources": [
+      {
+        "title": "Calendario quincenas 2026 México",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
+      },
+      {
+        "title": "Calendario pago nómina 2026 UNAM",
         "url": "https://www.personal.unam.mx/Docs/Calendario/calpagonom2026.pdf"
       }
     ]
@@ -1005,6 +1064,27 @@
       {
         "title": "Cartelera de conciertos 2026 en Chile — Cooperativa.cl",
         "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-953109",
+    "date": "2026-08-27",
+    "name": "Coyote vs. Acme — estreno en cines México",
+    "countries": [
+      "MX"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La película distribuida por Zima Entertainment se estrena el 27 de agosto en México. Con 100% en Rotten Tomatoes y casi tres años de espera, es uno de los lanzamientos más comentados del verano.",
+    "sources": [
+      {
+        "title": "Coyote vs. Acme estreno México — Mural.com.mx",
+        "url": "https://www.mural.com.mx/coyote-vs-acme-y-su-largo-camino-hasta-los-cines/ar3260745"
+      },
+      {
+        "title": "Coyote vs. Acme estreno México 27 agosto — TV Azteca",
+        "url": "https://www.tvazteca.com/azteca7/peliculas/cuando-se-estrena-coyote-vs-acme-en-mexico-fecha-calificacion-y-de-que-trata/"
       }
     ]
   },
@@ -1060,6 +1140,126 @@
       {
         "title": "Cartelera de conciertos 2026 en Chile — Cooperativa.cl",
         "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-357513",
+    "date": "2026-08-29",
+    "name": "Alex Anwandter — Movistar Arena 29/8",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Alex Anwandter se presenta el 29 de agosto en el Movistar Arena de Santiago, confirmado en la cartelera oficial de Cooperativa y PuntoTicket.",
+    "sources": [
+      {
+        "title": "Cartelera de conciertos 2026 en Chile — Cooperativa",
+        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-230797",
+    "date": "2026-08-31",
+    "name": "Love Island T8 — estreno 31 agosto",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La octava temporada de Love Island se estrena el 31 de agosto, según CNN en Español, atrayendo a la audiencia joven de LATAM que sigue el reality show.",
+    "sources": [
+      {
+        "title": "Estrenos agosto 2026 — WXOW CNN",
+        "url": "https://www.wxow.com/news/spanish/todos-los-estrenos-de-agosto-2026-series-y-pel-culas-en-netflix-hbo-max-prime/article_de57ffd4-febd-535e-bf1e-dd4fc23ad873.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-556312",
+    "date": "2026-09-02",
+    "name": "Festival Cine Internacional de Valdivia — 2 al 5 de septiembre",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El Festival Internacional de Cine de Valdivia presenta su nueva edición entre el 2 y el 5 de septiembre, con presencia e interés de la comunidad audiovisual de la región.",
+    "sources": [
+      {
+        "title": "Agenda eventos Chile agosto 2026 — Prensa Eventos",
+        "url": "https://prensaeventos.cl/recitales-conciertos-chile-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-282848",
+    "date": "2026-09-08",
+    "name": "Copa Libertadores — cuartos de final (ida) semana del 8/9",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Los partidos de ida de los cuartos de final de Copa Libertadores 2026 están confirmados para la semana del 8 al 10 de septiembre. Los cruces: Estudiantes vs. Corinthians, Flamengo vs. IDV o Tolima, Palmeiras vs. LDU Quito, Platense vs. Fluminense.",
+    "sources": [
+      {
+        "title": "Cuartos de final Libertadores 2026 fechas — Futbolred",
+        "url": "https://www.futbolred.com/copa-libertadores/clasificados-a-cuartos-de-final-copa-libertadores-2026-equipos-llaves-fechas-y-camino-a-la-final-271661"
+      },
+      {
+        "title": "Cuartos Libertadores 2026 — RPP",
+        "url": "https://rpp.pe/futbol/copa-libertadores/cuartos-de-final-copa-libertadores-2026-en-vivo-todos-los-partidos-fechas-cruces-y-horarios-confirmados-noticia-1702542"
+      }
+    ]
+  },
+  {
+    "id": "dyn-550071",
+    "date": "2026-09-08",
+    "name": "Liga de Quito — cuartos de final Libertadores (vs. Palmeiras)",
+    "countries": [
+      "EC"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Liga de Quito clasificó a cuartos de Libertadores 2026 eliminando a Mirassol en penales. Enfrentará a Palmeiras en los partidos de ida (semana del 8/9) y vuelta (15-17/9).",
+    "sources": [
+      {
+        "title": "Liga de Quito cuartos Libertadores 2026 — El Universo",
+        "url": "https://www.eluniverso.com/deportes/futbol/estos-son-los-equipos-clasificados-a-cuartos-de-final-de-la-copa-libertadores-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-916899",
+    "date": "2026-09-11",
+    "name": "Jamiroquai Latin America Tour — Rock in Rio 11/9",
+    "countries": [
+      "BR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Jamiroquai inicia el 11 de septiembre en el Barra Olympic Park (Rock in Rio, Río de Janeiro) su Latin America Tour 2026, que también pasa por Chile, Argentina, Colombia y México. El tour coincide con el 30° aniversario de 'Virtual Insanity'.",
+    "sources": [
+      {
+        "title": "Jamiroquai Latin America Tour 2026 — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
       }
     ]
   },
