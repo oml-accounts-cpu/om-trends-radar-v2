@@ -504,6 +504,27 @@
     ]
   },
   {
+    "id": "dyn-579725",
+    "date": "2026-08-14",
+    "name": "Serie «Moria» en Netflix — fenómeno post-estreno",
+    "countries": [
+      "AR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La serie biográfica sobre Moria Casán, estrenada el 14 de agosto de 2026 en Netflix, alcanzó el #1 en Argentina y entró al Top 10 global de producciones de habla no inglesa. Protagonizada por Sofía Gala, Griselda Siciliani y Cecilia Roth. Sigue siendo uno de los temas más buscados en Google AR esta semana.",
+    "sources": [
+      {
+        "title": "Moria (serie de televisión) — Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Moria_(serie_de_televisi%C3%B3n)"
+      },
+      {
+        "title": "Moria en cifras, el detrás de escena de la serie que impulsa Netflix — Infobae",
+        "url": "https://www.infobae.com/que-puedo-ver/2026/08/20/moria-en-cifras-el-detras-de-escena-de-la-serie-que-impulsa-netflix/"
+      }
+    ]
+  },
+  {
     "id": "dyn-781376",
     "date": "2026-08-15",
     "name": "Rosalía LUX Tour Guadalajara",
@@ -1089,6 +1110,48 @@
     ]
   },
   {
+    "id": "dyn-353269",
+    "date": "2026-08-27",
+    "name": "Natanael Cano — «Vol. 1» (lanzamiento 27-28 agosto)",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Natanael Cano lanzó el 27 de agosto su décimotercero álbum «Natanael Cano, Vol. 1» con 15 canciones de corridos tumbados. Incluye colaboraciones con Gabito Ballesteros y versiones de Cristian Castro y Jeanette. La primera fecha del Vol. 1 Tour en el Estadio GNP ya está sold out.",
+    "sources": [
+      {
+        "title": "Natanael Cano Vol. 1 y su relación con Los Salazar — Infobae México",
+        "url": "https://www.infobae.com/mexico/2026/08/31/natanael-cano-vol-1-y-su-relacion-con-los-salazar-la-organizacion-que-conformo-el-cartel-independiente-de-sonora/"
+      },
+      {
+        "title": "Natanael Cano lanza su álbum Vol. 1 y retoma los corridos tumbados — amexi.com.mx",
+        "url": "https://amexi.com.mx/espectaculos/natanael-cano-lanza-su-album-vol-1-y-retoma-los-corridos-tumbados/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-343327",
+    "date": "2026-08-27",
+    "name": "Danna y Belinda — «Dolce Vita»",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 27 de agosto de 2026 se estrenó «Dolce Vita», la primera colaboración entre Danna y Belinda. El sencillo es parte del EP «Wet Dreams» de Danna y llegó con videoclip. Pone fin a años de especulaciones sobre una supuesta rivalidad entre las dos figuras del pop mexicano.",
+    "sources": [
+      {
+        "title": "Belinda y Danna estrenan 'Dolce Vita' — El Comercio",
+        "url": "https://www.elcomercio.com/tendencias/musica/belinda-danna-musica-mexico/"
+      },
+      {
+        "title": "Dolce Vita (canción de Danna con Belinda) — Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Dolce_Vita_(canci%C3%B3n_de_Danna_con_Belinda)"
+      }
+    ]
+  },
+  {
     "id": "dyn-329591",
     "date": "2026-08-28",
     "name": "Coyote vs ACME — expectativa pre-estreno 28 agosto",
@@ -1202,6 +1265,111 @@
     ]
   },
   {
+    "id": "dyn-147915",
+    "date": "2026-09-03",
+    "name": "«Pepita, la Pistolera» — estreno en cines Argentina",
+    "countries": [
+      "AR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La película argentina dirigida por Lucía Puenzo, basada en hechos reales, llega a los cines el 3 de septiembre de 2026. Es distribuida por Buena Vista - Disney y reconstruye la historia de Margarita Di Tullio, figura legendaria del mundo nocturno marplatense de los años 80.",
+    "sources": [
+      {
+        "title": "Estrenos de cine en septiembre — Timeout Buenos Aires",
+        "url": "https://www.timeout.com/es/buenos-aires/que-hacer/cine/mejores-estrenos"
+      },
+      {
+        "title": "Estrenos de septiembre de 2026 — Cinenacional",
+        "url": "https://cinenacional.com/listados/estrenos/2026/septiembre"
+      }
+    ]
+  },
+  {
+    "id": "dyn-767647",
+    "date": "2026-09-03",
+    "name": "Premios Juventud 2026 — Marbella, España",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La edición 23 de Premios Juventud se celebra el 3 de septiembre en el Auditorio Starlite de Marbella, España. Carín León lidera las nominaciones. Transmisión en vivo por Univision, ViX, UNIMÁS y Galavisión. Es la primera edición celebrada fuera de América.",
+    "sources": [
+      {
+        "title": "Premios Juventud 2026 — Univision oficial",
+        "url": "https://www.univision.com/shows/premios-juventud"
+      },
+      {
+        "title": "Premios Juventud 2026: todos los nominados, fecha y horario — Claro Sports",
+        "url": "https://www.clarosports.com/us/nominados-premios-juventud-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-968801",
+    "date": "2026-09-03",
+    "name": "The Gentlemen T2 — estreno Netflix (3 septiembre)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La segunda temporada de «The Gentlemen» de Guy Ritchie llega a Netflix el 3 de septiembre con 8 episodios completos desde el primer día. Theo James y Kaya Scodelario lideran el reparto expandiendo el universo criminal más allá del Reino Unido.",
+    "sources": [
+      {
+        "title": "The Gentlemen Season 2 Will Land In September — Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/the-gentlemen-season-2/"
+      },
+      {
+        "title": "The Gentlemen Season 2 Unveils Release Date — Netflix Tudum",
+        "url": "https://www.netflix.com/tudum/articles/the-gentlemen-season-2-release-date-photos"
+      }
+    ]
+  },
+  {
+    "id": "dyn-298223",
+    "date": "2026-09-03",
+    "name": "Fito Páez: «el mundo cabe en una canción» — Netflix (3 septiembre)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El documental sobre Fito Páez llega a Netflix el 3 de septiembre de 2026. Aparece en la lista oficial de estrenos de Netflix para septiembre según El Universal México y adslzone.net.",
+    "sources": [
+      {
+        "title": "Estrenos de Netflix en septiembre 2026 — El Universal México",
+        "url": "https://www.eluniversal.com.mx/espectaculos/estrenos-de-netflix-en-septiembre-2026-todas-las-series-y-peliculas-que-se-integran-a-su-catalogo/"
+      },
+      {
+        "title": "Netflix va a comenzar septiembre con una gran cantidad de estrenos — adslzone.net",
+        "url": "https://www.adslzone.net/noticias/streaming-tv/netflix-estrenos-septiembre-2026/"
+      }
+    ]
+  },
+  {
     "id": "dyn-282848",
     "date": "2026-09-08",
     "name": "Copa Libertadores — cuartos de final (ida) semana del 8/9",
@@ -1247,6 +1415,128 @@
     ]
   },
   {
+    "id": "dyn-374457",
+    "date": "2026-09-09",
+    "name": "Estudiantes LP vs Corinthians — Cuartos Libertadores",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Estudiantes de La Plata recibe a Corinthians el 9 de septiembre en el Estadio Jorge Luis Hirschi (La Plata) por la ida de cuartos de final de la Copa Libertadores 2026. La vuelta es el 16 de septiembre en el Neoq Química Arena.",
+    "sources": [
+      {
+        "title": "CONMEBOL Libertadores — schedule oficial",
+        "url": "https://gol.conmebol.com/libertadores/en"
+      },
+      {
+        "title": "Cuartos de final Copa Libertadores 2026 — RPP",
+        "url": "https://rpp.pe/futbol/copa-libertadores/cuartos-de-final-copa-libertadores-2026-en-vivo-todos-los-partidos-fechas-cruces-y-horarios-confirmados-noticia-1702542"
+      }
+    ]
+  },
+  {
+    "id": "dyn-658134",
+    "date": "2026-09-09",
+    "name": "LDU Quito vs Palmeiras — Cuartos Libertadores",
+    "countries": [
+      "EC"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "LDU Quito enfrenta a Palmeiras el 9 de septiembre en el Estadio Nubank Parque (São Paulo) por la ida de cuartos de final de la Copa Libertadores 2026. La vuelta será el 16 de septiembre.",
+    "sources": [
+      {
+        "title": "CONMEBOL Libertadores — schedule oficial",
+        "url": "https://gol.conmebol.com/libertadores/en"
+      },
+      {
+        "title": "Copa Libertadores 2026: grupos, partidos y resultados — Hiraoka",
+        "url": "https://hiraoka.com.pe/blog/post/copa-libertadores-2026-cuando-es-calendario-grupos-equipos-fechas-horarios"
+      }
+    ]
+  },
+  {
+    "id": "dyn-751426",
+    "date": "2026-09-09",
+    "name": "Palmeiras vs LDU Quito — Copa Libertadores (ida, 9 sep)",
+    "countries": [
+      "BR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Palmeiras recibe a LDU Quito el 9 de septiembre en el Allianz Parque (Nubank Parque) por los cuartos de final de la Copa Libertadores 2026. Palmeiras es uno de los favoritos del torneo.",
+    "sources": [
+      {
+        "title": "CONMEBOL Libertadores — schedule oficial",
+        "url": "https://gol.conmebol.com/libertadores/en"
+      },
+      {
+        "title": "Resultados en vivo Copa Libertadores 2026 — Flashscore PE",
+        "url": "https://www.flashscore.pe/futbol/sudamerica/copa-libertadores/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-607306",
+    "date": "2026-09-10",
+    "name": "Flamengo vs Ind. del Valle — Cuartos Libertadores (ida)",
+    "countries": [
+      "BR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Flamengo enfrenta a Independiente del Valle de Ecuador en los cuartos de final de la Copa Libertadores 2026. El partido de ida se juega el 10 de septiembre en el Estadio Olímpico Atahualpa (Quito), y la vuelta el 17 de septiembre en el Maracanã.",
+    "sources": [
+      {
+        "title": "CONMEBOL Libertadores — schedule oficial",
+        "url": "https://gol.conmebol.com/libertadores/en"
+      },
+      {
+        "title": "Resultados en vivo Copa Libertadores 2026 — Flashscore PE",
+        "url": "https://www.flashscore.pe/futbol/sudamerica/copa-libertadores/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-578009",
+    "date": "2026-09-10",
+    "name": "«Piedras Preciosas» — estreno en cines Colombia",
+    "countries": [
+      "CO"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "'Piedras Preciosas', dirigida por Simón Vélez, llega a las salas de cine de Colombia el 10 de septiembre de 2026, según el calendario oficial difundido por Noticiero 90 Minutos.",
+    "sources": [
+      {
+        "title": "Estrenos de cine en Colombia para septiembre de 2026 — Pulzo",
+        "url": "https://www.pulzo.com/entretenimiento/estrenos-de-cine-en-septiembre-2026-cartelera-completa-y-lanzamientos-destacados-en-colombia-PP5284213A"
+      }
+    ]
+  },
+  {
+    "id": "dyn-637864",
+    "date": "2026-09-10",
+    "name": "Estrenos de cine septiembre — Resident Evil y Rápido y Furioso en México",
+    "countries": [
+      "MX"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La cartelera de septiembre 2026 en México incluye una nueva adaptación cinematográfica de Resident Evil (estreno primera semana) y el regreso de Rápido y Furioso a salas (10 de septiembre). También eventos musicales de Katy Perry y Linkin Park en cines.",
+    "sources": [
+      {
+        "title": "Estrenos de cine en septiembre 2026: todas las películas que llegan a México — Excelsior",
+        "url": "https://www.excelsior.com.mx/espectaculos/que-ver-cine-septiembre-2026-estrenos-peliculas"
+      },
+      {
+        "title": "Anexo: Estrenos de 2026 (México) — Movies Fandom",
+        "url": "https://movies.fandom.com/es/wiki/Anexo:Estrenos_de_2026_(M%C3%A9xico)"
+      }
+    ]
+  },
+  {
     "id": "dyn-916899",
     "date": "2026-09-11",
     "name": "Jamiroquai Latin America Tour — Rock in Rio 11/9",
@@ -1277,6 +1567,48 @@
       {
         "title": "Agenda de conciertos internacionales — IndyRock Magazine",
         "url": "https://indyrock.es/conciertos-internacional.htm"
+      }
+    ]
+  },
+  {
+    "id": "dyn-538559",
+    "date": "2026-09-18",
+    "name": "Natanael Cano Vol. 1 Tour — Estadio GNP Seguros CDMX (18-19 sep)",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Natanael Cano se presentará en el Estadio GNP Seguros de la Ciudad de México los días 18 y 19 de septiembre de 2026. La primera fecha ya está sold out; la segunda es nueva fecha agregada por la demanda. Es el concierto más grande de corridos tumbados en México en 2026.",
+    "sources": [
+      {
+        "title": "Natanael Cano en el Estadio GNP Seguros — El Financiero",
+        "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/07/28/natanael-cano-en-el-estadio-gnp-seguros-fecha-preventa-precio-de-los-boletos-y-lo-que-debes-saber/"
+      },
+      {
+        "title": "Natanael Cano agota boletos y abre segunda fecha en CDMX — Excelsior",
+        "url": "https://www.excelsior.com.mx/espectaculos/natanael-cano-agota-boletos-y-abre-segunda-fecha-cdmx-con-vol-1-tour"
+      }
+    ]
+  },
+  {
+    "id": "dyn-974729",
+    "date": "2026-09-24",
+    "name": "«Mis muertos tristes» — Netflix Argentina (semana del 7-13 sep)",
+    "countries": [
+      "AR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La serie argentina dirigida por Pablo Larraín, con Mercedes Morán y Dolores Fonzi, llega a Netflix el 24 de septiembre, pero ya figura entre los estrenos más anticipados de la plataforma en Argentina para el mes.",
+    "sources": [
+      {
+        "title": "Los 7 estrenos imprescindibles de Netflix en septiembre de 2026 — Espinof",
+        "url": "https://www.espinof.com/listas/7-estrenos-imprescindibles-netflix-septiembre-2026-prematuro-regreso-stranger-things-a-nueva-pelicula-russell-crowe"
+      },
+      {
+        "title": "Netflix va a comenzar septiembre con una gran cantidad de estrenos — adslzone.net",
+        "url": "https://www.adslzone.net/noticias/streaming-tv/netflix-estrenos-septiembre-2026/"
       }
     ]
   },
