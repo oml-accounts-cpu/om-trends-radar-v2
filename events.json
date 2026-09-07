@@ -1265,6 +1265,44 @@
     ]
   },
   {
+    "id": "dyn-975255",
+    "date": "2026-09-02",
+    "name": "Linda Caicedo – Capitana Real Madrid & UCL",
+    "countries": [
+      "CO"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Linda Caicedo (21 años) fue nombrada una de las cuatro capitanas del Real Madrid para 2026/27 y el 2 de septiembre anotó el gol decisivo al minuto 90+6 que clasificó al Real Madrid femenino a la fase de liga de la UEFA Champions League ante Ajax. Trending en Google CO.",
+    "sources": [
+      {
+        "title": "Gol de Linda Caicedo clasifica a Real Madrid a Champions League – Infobae Colombia",
+        "url": "https://www.infobae.com/colombia/deportes/2026/09/02/video-el-gol-de-la-colombiana-linda-caicedo-sello-la-clasificacion-del-real-madrid-a-la-fase-de-liga-en-la-uefa-champions-league-202627/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-356986",
+    "date": "2026-09-02",
+    "name": "Mal de amores – Serie Netflix México",
+    "countries": [
+      "MX"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El 2 de septiembre se estrenaron los 7 episodios de 'Mal de amores' en Netflix, adaptación de la novela de Ángeles Mastretta (Premio Rómulo Gallegos 1997), dirigida por su hija Catalina Aguilar Mastretta. Protagonizada por Renata Vaca. Ambientada en la Revolución Mexicana.",
+    "sources": [
+      {
+        "title": "Netflix estrena la serie mexicana Mal de amores – El Diario de Chihuahua",
+        "url": "https://eldiariodechihuahua.mx/espectaculos/2026/sep/04/netflix-estrena-la-serie-mexicana-mal-de-amores-834361.html"
+      },
+      {
+        "title": "Mal de amores en Netflix: todo lo que necesitas saber – Noir Magazine MX",
+        "url": "https://noirmagazine.mx/lifestyle/mal-de-amores-netflix"
+      }
+    ]
+  },
+  {
     "id": "dyn-147915",
     "date": "2026-09-03",
     "name": "«Pepita, la Pistolera» — estreno en cines Argentina",
@@ -1366,6 +1404,121 @@
       {
         "title": "Netflix va a comenzar septiembre con una gran cantidad de estrenos — adslzone.net",
         "url": "https://www.adslzone.net/noticias/streaming-tv/netflix-estrenos-septiembre-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-533458",
+    "date": "2026-09-03",
+    "name": "El 8.000 – Serie documental Netflix Colombia",
+    "countries": [
+      "CO"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El 3 de septiembre se estrenó en Netflix la serie documental 'El 8.000: El presidente que iba a caer', que reconstruye el Proceso 8000 desde la perspectiva periodística. Alta conversación en Colombia.",
+    "sources": [
+      {
+        "title": "Estrenos Netflix septiembre 2026 – El Colombiano",
+        "url": "https://www.elcolombiano.com/entretenimiento/television/estrenos-netflix-hbo-max-prime-video-apple-tv-septiembre-2026-peliculas-series-JC40535905"
+      }
+    ]
+  },
+  {
+    "id": "dyn-662603",
+    "date": "2026-09-03",
+    "name": "Fito Páez: El mundo cabe en una canción – Netflix",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El documental sobre Fito Páez, dirigido por Matías Gueilburt, se estrenó el 3 de septiembre en Netflix a nivel mundial. Parte del accidente de 2024 que lo obligó a frenar su gira. 112 minutos de recorrido íntimo por más de 40 años de carrera.",
+    "sources": [
+      {
+        "title": "Netflix presenta tráiler de Fito Páez: el mundo cabe en una canción – About Netflix",
+        "url": "https://about.netflix.com/es/news/netflix-presents-the-official-trailer-for-fito-paez-the-world-within-a-song"
+      },
+      {
+        "title": "El documental de Fito Páez ya está disponible en Netflix – Ámbito",
+        "url": "https://www.ambito.com/espectaculos/el-documental-fito-paez-el-mundo-cabe-una-cancion-ya-esta-disponible-netflix-n6318102"
+      }
+    ]
+  },
+  {
+    "id": "dyn-938894",
+    "date": "2026-09-04",
+    "name": "Maluma x Beyoncé – 'Cuerpo (Tumbao)'",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 4 de septiembre se estrenó la colaboración bilingüe de Maluma y Beyoncé, que samplea 'La negra tiene tumbao' de Celia Cruz, como parte de la edición especial 'B'Day (20th Anniversary Deluxe Edition)' lanzada para el cumpleaños 45 de Beyoncé. Es la primera vez que ambos artistas colaboran.",
+    "sources": [
+      {
+        "title": "Maluma y Beyoncé estrenan 'Cuerpo (Tumbao)' con sample de Celia Cruz – El Diario NY",
+        "url": "https://eldiariony.com/2026/09/04/maluma-y-beyonce-estrenan-cuerpo-tumbao-con-un-sample-de-celia-cruz/"
+      },
+      {
+        "title": "Billboard: Maluma celebra nueva colaboración con Beyoncé",
+        "url": "https://www.billboard.com/music/latin/maluma-beyonce-collaboration-cuerpo-tumbao-how-he-celebrated-1236334379/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-126998",
+    "date": "2026-09-04",
+    "name": "Maluma – 'Cuerpo (Tumbao)' ft. Beyoncé",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El colombiano Maluma estrenó el 4 de septiembre su colaboración con Beyoncé, sampleando a Celia Cruz. Trending en Google CO esta semana. Primera colaboración de ambos artistas; generó euforia masiva en redes colombianas.",
+    "sources": [
+      {
+        "title": "Maluma y Beyoncé – 'Cuerpo (Tumbao)' – El Comercio",
+        "url": "https://www.elcomercio.com/tendencias/musica/maluma-beyonce-colombia-cancion/"
+      },
+      {
+        "title": "Cuerpo (Tumbao): la letra completa – Marie Claire Colombia",
+        "url": "https://marieclairecolombia.com/maluma-beyonce-nueva-cancion-cuerpo-tumbao-celia-cruz/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-887142",
+    "date": "2026-09-07",
+    "name": "US Open 2026 – Zheng Qinwen remontada viral",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Hoy (7/9) Zheng Qinwen (ranking 121) eliminó a Iga Swiatek (ex N°1) de manera épica, remontando un 0-5 en el primer set para ganar 7-5, 6-3. Trending en Google en Argentina, Colombia y Chile. La historia de su regreso tras lesión de codo es contenido altamente viral.",
+    "sources": [
+      {
+        "title": "Zheng Qinwen elimina a Swiatek en US Open – Noticias SIN",
+        "url": "https://noticiassin.com/deportes/tenis/2026/09/07/qinwen-zheng-elimina-a-swiatek-y-avanza-a-cuartos-en-us-open-2110433"
+      },
+      {
+        "title": "US Open 2026 resultados cuarta ronda – CBS Sports",
+        "url": "https://www.cbssports.com/tennis/news/us-open-2026-schedule-results-bracket-live-updates-fourth-round/live/"
       }
     ]
   },
@@ -1537,6 +1690,27 @@
     ]
   },
   {
+    "id": "dyn-822702",
+    "date": "2026-09-10",
+    "name": "Quincena 10 de septiembre – México",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 10 de septiembre es fecha de pago de la quincena 17/2026 para trabajadores del sector público y universidades en México (UNAM, SEP-FONE). Alta actividad de consumo esperada.",
+    "sources": [
+      {
+        "title": "Calendario de pagos UNAM 2026",
+        "url": "https://www.personal.unam.mx/Docs/Calendario/calpagonom2026.pdf"
+      },
+      {
+        "title": "Calendario de Quincenas 2026 México – CalendarioDeMexico.com",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
+      }
+    ]
+  },
+  {
     "id": "dyn-916899",
     "date": "2026-09-11",
     "name": "Jamiroquai Latin America Tour — Rock in Rio 11/9",
@@ -1550,6 +1724,27 @@
       {
         "title": "Jamiroquai Latin America Tour 2026 — Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-84453",
+    "date": "2026-09-11",
+    "name": "Jamiroquai en Rock in Rio – Río de Janeiro",
+    "countries": [
+      "BR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El 11 de septiembre Jamiroquai actúa en el Sunset Stage de Rock in Rio en Río de Janeiro, primera parada de su Latin America Tour 2026, el 13/9 en São Paulo (Nubank Parque). Primera vez en Brasil tras años de ausencia.",
+    "sources": [
+      {
+        "title": "Jamiroquai Latin America Tour 2026 – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
+      },
+      {
+        "title": "Jamiroquai regresa a Latinoamérica en 2026 – Grupo Animal MX",
+        "url": "https://grupoanimal.mx/entretenimiento/jamiroquai-regresa-a-latinoamerica-en-2026-fechas-boletos-y-mas"
       }
     ]
   },
@@ -1571,6 +1766,198 @@
     ]
   },
   {
+    "id": "dyn-897266",
+    "date": "2026-09-12",
+    "name": "Jazz al Parque 2026 – Bogotá (edición 29)",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 12 y 13 de septiembre se realiza la edición 29 de Jazz al Parque en el Parque El Country (Usaquén, Bogotá), con 17 agrupaciones de Colombia, Cuba, México, Brasil, Uruguay y EE.UU., incluyendo a Arturo O'Farrill y Cimafunk. Entrada libre.",
+    "sources": [
+      {
+        "title": "Jazz al Parque 2026 – artistas y fechas – Bogota.gov.co",
+        "url": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/planes-gratis-bogota-artistas-jazz-al-parque-2026-septiembre-12-y-13"
+      },
+      {
+        "title": "Jazz al Parque 2026 – sitio oficial",
+        "url": "https://jazzalparque.gov.co/"
+      },
+      {
+        "title": "Programación Jazz al Parque 2026 – ArTrip Journal",
+        "url": "https://www.artripjournal.com/jazz-al-parque-2026-bogota-se-encuentra-con-las-raices-musicales-de-america-latina/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-477753",
+    "date": "2026-09-14",
+    "name": "Final US Open 2026 – Cuartos y semis",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La semana del 14 al 20 de septiembre contempla cuartos y semifinales del US Open (Flushing Meadows, hasta el 13/9 mujeres y más tarde hombres). Francisco Cerundolo (AR) y Zheng Qinwen (trending LATAM) siguen en carrera.",
+    "sources": [
+      {
+        "title": "US Open 2026 – fechas y calendario – CBS Sports",
+        "url": "https://www.cbssports.com/tennis/news/us-open-2026-schedule-results-bracket-live-updates-fourth-round/live/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-449597",
+    "date": "2026-09-15",
+    "name": "Jamiroquai en Santiago – 15 de septiembre (Claro Arena)",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Jamiroquai se presenta el 15 de septiembre en el Claro Arena de Santiago en el marco de su Latin America Tour 2026, regresando a Chile después de 8 años. Coincide con Fiestas Patrias (18 de septiembre).",
+    "sources": [
+      {
+        "title": "Jamiroquai incluye a Chile en su Latin America Tour – Emol",
+        "url": "https://www.emol.com/noticias/Espectaculos/2026/05/12/1199785/jamiroquai-chile-2026.html"
+      },
+      {
+        "title": "Jamiroquai Latin America Tour 2026 – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-552855",
+    "date": "2026-09-15",
+    "name": "Jamiroquai Tour – pico de conversación en redes",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La semana del 14 al 20 incluye los shows de Santiago (15/9), Buenos Aires (17/9) y Bogotá (19/9). El UGC de conciertos y el trend 'Virtual Insanity' (30° aniversario) dominarán TikTok y Reels en Argentina, Chile y Colombia.",
+    "sources": [
+      {
+        "title": "Jamiroquai Latin America Tour 2026 – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
+      },
+      {
+        "title": "Jamiroquai regresa a Latinoamérica – Pollstar News",
+        "url": "https://news.pollstar.com/2026/05/12/jamiroquai-announces-latin-america-tour-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-975087",
+    "date": "2026-09-16",
+    "name": "Día de la Independencia 16 de septiembre",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 16 de septiembre es feriado nacional en México (Día de la Independencia). En 2026 cae miércoles, generando un puente largo de consumo. Quincena del 15/9 activa el gasto.",
+    "sources": [
+      {
+        "title": "Calendario de Quincenas 2026 México – CalendarioDeMexico.com",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-949337",
+    "date": "2026-09-17",
+    "name": "Monstruo: La historia de Lizzie Borden – Netflix (estreno semana que viene)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La cuarta temporada de la antología de Ryan Murphy estrena el 17 de septiembre con sus 8 episodios completos. Primera entrega centrada en una mujer; protagonizada por Ella Beatty. Genera conversación social desde ya.",
+    "sources": [
+      {
+        "title": "Monstruo: Lizzie Borden – fecha estreno Netflix – El Independiente",
+        "url": "https://www.elindependiente.com/series-y-television/2026/08/10/monstruo-lizzie-borden-fecha-netflix/"
+      },
+      {
+        "title": "Monstruo: La historia de Lizzie Borden – Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Monstruo:_la_historia_de_Lizzie_Borden"
+      }
+    ]
+  },
+  {
+    "id": "dyn-630038",
+    "date": "2026-09-17",
+    "name": "Monstruo: La historia de Lizzie Borden – Estreno Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El 17 de septiembre llegan los 8 episodios completos de la cuarta temporada de la antología de Ryan Murphy. Protagonizada por Ella Beatty como Lizzie Borden. Primera entrega del franchise centrada en una mujer. Generará conversación social masiva en toda LATAM.",
+    "sources": [
+      {
+        "title": "Monstruo: Lizzie Borden – fecha estreno Netflix – El Independiente",
+        "url": "https://www.elindependiente.com/series-y-television/2026/08/10/monstruo-lizzie-borden-fecha-netflix/"
+      },
+      {
+        "title": "Netflix fecha Monster: Lizzie Borden Story – Infobae",
+        "url": "https://www.infobae.com/malditos-nerds/2026/08/12/netflix-fecha-monstruo-la-historia-de-lizzie-borden-y-muestra-su-primer-avance/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-706552",
+    "date": "2026-09-17",
+    "name": "Jamiroquai en Buenos Aires – 17 de septiembre (Hipódromo de San Isidro)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El 17 de septiembre Jamiroquai se presenta en el Hipódromo de San Isidro (Buenos Aires) dentro de su Latin America Tour 2026. Regresa a Argentina después de 9 años de ausencia.",
+    "sources": [
+      {
+        "title": "Jamiroquai Latin America Tour 2026 – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
+      },
+      {
+        "title": "Jamiroquai vuelve a Argentina después de 9 años – Rockaxis (via Wikipedia archive)",
+        "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
+      }
+    ]
+  },
+  {
     "id": "dyn-538559",
     "date": "2026-09-18",
     "name": "Natanael Cano Vol. 1 Tour — Estadio GNP Seguros CDMX (18-19 sep)",
@@ -1588,6 +1975,61 @@
       {
         "title": "Natanael Cano agota boletos y abre segunda fecha en CDMX — Excelsior",
         "url": "https://www.excelsior.com.mx/espectaculos/natanael-cano-agota-boletos-y-abre-segunda-fecha-cdmx-con-vol-1-tour"
+      }
+    ]
+  },
+  {
+    "id": "dyn-545271",
+    "date": "2026-09-18",
+    "name": "Fiestas Patrias Chile – 18 de septiembre",
+    "countries": [
+      "CL"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 18 de septiembre es el Día de la Independencia de Chile. En 2026 cae viernes, generando un fin de semana largo de celebración masiva con fondas, cueca y gastronomía típica. Máximo pico de consumo del año en muchas categorías.",
+    "sources": [
+      {
+        "title": "Cartelera de conciertos 2026 en Chile – Cooperativa.cl",
+        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-690228",
+    "date": "2026-09-19",
+    "name": "Jamiroquai en Bogotá – 19 de septiembre (Coliseo MedPlus)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El 19 de septiembre Jamiroquai se presenta en el Coliseo MedPlus de Bogotá, dentro de su Latin America Tour 2026. Primera visita de la banda a Colombia en años.",
+    "sources": [
+      {
+        "title": "Jamiroquai Latin America Tour 2026 – Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Latin_America_Tour_2026"
+      },
+      {
+        "title": "Jamiroquai regresa a Latinoamérica – Infobae",
+        "url": "https://www.infobae.com/entretenimiento/2026/05/12/tras-casi-10-anos-de-ausencia-jamiroquai-confirma-su-regreso-a-latinoamerica-fechas-ciudades-boletos-y-mas/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-396458",
+    "date": "2026-09-23",
+    "name": "Robbie Williams en Lima – 23 y 24 de septiembre (Arena 1 Park)",
+    "countries": [
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Robbie Williams se presenta en Lima los días 23 y 24 de septiembre en Arena 1 Park (Britpop World Tour), según Ticketmaster Perú. Alta expectativa de audiencia adulta.",
+    "sources": [
+      {
+        "title": "Conciertos Lima septiembre 2026 – Ticketmaster Perú",
+        "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
       }
     ]
   },
