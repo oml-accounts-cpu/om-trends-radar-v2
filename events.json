@@ -2007,6 +2007,23 @@
     ]
   },
   {
+    "id": "dyn-743980",
+    "date": "2026-09-17",
+    "name": "Piso 21 x Micro TDH x Gangsta — 'Segunda Cita'",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Lanzado el 17 de septiembre 2026, el track de Piso 21 con Micro TDH y Gangsta acumula conversación en redes colombianas. La canción conecta música popular colombiana y urbana.",
+    "sources": [
+      {
+        "title": "Viernes de estrenos: Feid, Neton Vega, Xavi, Beéle y más — Monitor Latino",
+        "url": "https://www.monitorlatino.com/lanzamientos/nuevos-lanzamientos-musicales-semana/"
+      }
+    ]
+  },
+  {
     "id": "dyn-538559",
     "date": "2026-09-18",
     "name": "Natanael Cano Vol. 1 Tour — Estadio GNP Seguros CDMX (18-19 sep)",
@@ -2327,6 +2344,61 @@
     ]
   },
   {
+    "id": "dyn-332522",
+    "date": "2026-09-26",
+    "name": "STRAYCITY México — Post-show viral",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Stray Kids cerró su gira STRAYCITY Latin America los días 25 y 26 de septiembre en el Estadio GNP Seguros (60.000 fans por noche). El presidente de Corea del Sur, Lee Jae-myung, asistió como invitado especial. La presidenta Sheinbaum los mencionó en conferencia matutina. El show es tendencia en todas las plataformas.",
+    "sources": [
+      {
+        "title": "Stray Kids encabeza fiesta masiva ante 60 mil fans en CDMX — Excélsior",
+        "url": "https://www.excelsior.com.mx/espectaculos/stray-kids-encabeza-fiesta-masiva-e-incluyente-60-mil-fans-cdmx"
+      },
+      {
+        "title": "Circula el setlist para los conciertos de Stray Kids en CDMX — Infobae",
+        "url": "https://www.infobae.com/mexico/2026/09/26/circula-el-setlist-para-los-conciertos-de-stray-kids-en-el-estadio-gnp-seguros-de-cdmx/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-244808",
+    "date": "2026-09-27",
+    "name": "Racing vs Boca Juniors",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El clásico Racing vs. Boca Juniors fue listado como uno de los partidos de mayor atención de la jornada del 27 de septiembre 2026, dentro de la agenda futbolística latinoamericana del fin de semana.",
+    "sources": [
+      {
+        "title": "Partidos de hoy, domingo 27 de septiembre de 2026 — DSN Noticias",
+        "url": "https://dsn.pe/partidos-de-hoy-domingo-27-de-septiembre-de-2026-horarios-y-canales-para-ver-futbol-en-vivo-en-latam-y-usa/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-304270",
+    "date": "2026-09-27",
+    "name": "ADT vs. Sporting Cristal",
+    "countries": [
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El partido ADT vs. Sporting Cristal fue listado como uno de los partidos de mayor atención del 27 de septiembre 2026 en la agenda latinoamericana.",
+    "sources": [
+      {
+        "title": "Partidos de hoy domingo 27 septiembre 2026 — DSN Noticias",
+        "url": "https://dsn.pe/partidos-de-hoy-domingo-27-de-septiembre-de-2026-horarios-y-canales-para-ver-futbol-en-vivo-en-latam-y-usa/"
+      }
+    ]
+  },
+  {
     "id": "dyn-556606",
     "date": "2026-09-28",
     "name": "Lindsey Stirling — Teatro Jorge Eliécer Gaitán, Bogotá (28 sept)",
@@ -2396,6 +2468,23 @@
     ]
   },
   {
+    "id": "dyn-758137",
+    "date": "2026-09-29",
+    "name": "Greeicy en Teatro Metropólitan CDMX",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Greeicy se presenta el 29 de septiembre en el Teatro Metropólitan de Ciudad de México según Ticketmaster MX.",
+    "sources": [
+      {
+        "title": "Boletos para conciertos en México — Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/section/conciertos"
+      }
+    ]
+  },
+  {
     "id": "dyn-723016",
     "date": "2026-09-30",
     "name": "Argentina vs. Bolivia — Estadio Kempes, Córdoba (30 sept)",
@@ -2413,6 +2502,40 @@
       {
         "title": "Messi se despedirá de Argentina ante Benín — Unitel",
         "url": "https://unitel.bo/noticias/agencias/messi-se-despedira-de-argentina-en-amistoso-en-octubre-en-buenos-aires-KF23517827"
+      }
+    ]
+  },
+  {
+    "id": "dyn-176957",
+    "date": "2026-09-30",
+    "name": "Maroon 5 en Estadio Alfredo Harp Helú, CDMX",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Maroon 5 se presenta el 30 de septiembre en el Estadio Alfredo Harp Helú de Ciudad de México, uno de los shows internacionales más importantes del cierre de septiembre.",
+    "sources": [
+      {
+        "title": "Boletos para conciertos en México — Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/section/conciertos"
+      }
+    ]
+  },
+  {
+    "id": "dyn-588272",
+    "date": "2026-09-30",
+    "name": "Quincena 30 sep — Poder de compra México",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El pago de la segunda quincena de septiembre cae el 30 de septiembre 2026 (día hábil). Pico de búsquedas e intención de compra. El año 2026 tiene 24 quincenas regulares sin pagos extras.",
+    "sources": [
+      {
+        "title": "Quincenas de septiembre 2026 en México — CalendarioDeMexico",
+        "url": "https://calendariodemexico.com/quincenas-septiembre-2026/"
       }
     ]
   },
@@ -2441,6 +2564,34 @@
       {
         "title": "American Horror Story: 13 — Wikipedia",
         "url": "https://en.wikipedia.org/wiki/American_Horror_Story:_13"
+      }
+    ]
+  },
+  {
+    "id": "dyn-820573",
+    "date": "2026-10-01",
+    "name": "East of Eden (Netflix) — estreno 1° octubre",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Una de las series más anticipadas de octubre 2026 llega a Netflix el 1° de octubre, siendo uno de los estrenos más esperados de la plataforma para el mes según múltiples medios especializados.",
+    "sources": [
+      {
+        "title": "October 2026 Streaming Guide: What's New on Netflix, Hulu & More",
+        "url": "https://www.yahoo.com/entertainment/tv/articles/october-2026-streaming-guide-netflix-144633422.html"
+      },
+      {
+        "title": "Qué estrenos ver en octubre 2026 en Netflix, HBO, Disney+",
+        "url": "https://www.publico.es/uwu/estrenos-ver-octubre-2026-netflix-hbo-disney-movistar-plus-filmin.html"
       }
     ]
   },
@@ -2490,6 +2641,151 @@
     ]
   },
   {
+    "id": "dyn-828498",
+    "date": "2026-10-02",
+    "name": "Romeo Santos & Prince Royce en Bogotá",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Romeo Santos y Prince Royce se presentan en Bogotá el 2 de octubre 2026 como parte del tour 'Mejor Tarde que Nunca'. Ticketmaster Colombia lo lista como uno de los eventos más próximos.",
+    "sources": [
+      {
+        "title": "CONCIERTOS — Ticketmaster Colombia",
+        "url": "https://www.ticketmaster.co/page/CONCIERTOS"
+      }
+    ]
+  },
+  {
+    "id": "dyn-772605",
+    "date": "2026-10-02",
+    "name": "Iron Maiden en Estadio GNP Seguros — México (2 oct)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Iron Maiden se presenta el 2 de octubre en el Estadio GNP Seguros de CDMX, según Ticketmaster México. Uno de los shows de rock más importantes del mes en toda la región.",
+    "sources": [
+      {
+        "title": "Conciertos en México 2026 — Ticketmaster MX",
+        "url": "https://guias.ticketmaster.com.mx/conciertos/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-429359",
+    "date": "2026-10-02",
+    "name": "BTS ARIRANG — Bogotá (2 y 3 de octubre)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "BTS se presenta por primera vez en Bogotá el 2 y 3 de octubre 2026, según el calendario oficial del tour y Conciertos Latam App. Es histórico al ser la primera visita del grupo a la capital colombiana.",
+    "sources": [
+      {
+        "title": "BTS ARIRANG — Conciertos Latam App",
+        "url": "https://www.conciertoslatam.app/"
+      },
+      {
+        "title": "BTS ARIRANG World Tour LATAM Venues — Billboard",
+        "url": "https://www.billboard.com/music/latin/bts-arirang-world-tour-latin-america-venues-1236208475/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-387218",
+    "date": "2026-10-02",
+    "name": "Agenda cultural Bogotá — Blonde Redhead Teatro Gaitán (2 oct)",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Blonde Redhead presenta 'Sit Down for Dinner' en el Teatro Jorge Eliécer Gaitán de Bogotá el 2 de octubre, según el calendario oficial de IDARTES.",
+    "sources": [
+      {
+        "title": "Agenda cultural Bogotá — IDARTES",
+        "url": "https://www.idartes.gov.co/es/agenda"
+      }
+    ]
+  },
+  {
+    "id": "dyn-959821",
+    "date": "2026-10-03",
+    "name": "Shakira Live from Madrid — Livestream gratuito",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El 3 de octubre, Shakira transmite en vivo desde el Estadio Shakira en Madrid (residencia ES Latina) vía Amazon Music, Prime Video y Twitch, sin suscripción. Es la primera transmisión completa en vivo de un concierto suyo a nivel global. 'Dai Dai' con Burna Boy es el #1 de Amazon Music worldwide en 2026.",
+    "sources": [
+      {
+        "title": "Shakira to Livestream Oct. 3 Madrid Show: How to Watch",
+        "url": "https://www.yahoo.com/entertainment/music/articles/shakira-livestream-oct-3-madrid-090000470.html"
+      },
+      {
+        "title": "Amazon Music presents Shakira Live from Madrid",
+        "url": "https://www.aboutamazon.com/news/entertainment/shakira-livestream-amazon-music-prime-video"
+      },
+      {
+        "title": "Shakira to Take Massive Madrid Residency Global",
+        "url": "https://consequence.net/2026/09/shakira-madrid-residency-global-livestream/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-833044",
+    "date": "2026-10-03",
+    "name": "Festival Ojo al Sancocho — Bogotá (3-10 oct)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El Festival Internacional Ojo al Sancocho se realiza del 3 al 10 de octubre en Ciudad Bolívar, Bogotá. Evento de cine comunitario con talleres y foros accesibles fuera de las salas convencionales.",
+    "sources": [
+      {
+        "title": "Colombia Unleashes an October 2026 Cultural Rush — Travel and Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/uq1dfr7i3apx/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-455589",
+    "date": "2026-10-03",
+    "name": "Eslabón Armado — Escenario GNP Seguros Monterrey (3 oct)",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Eslabón Armado se presenta el 3 de octubre en el Escenario GNP Seguros de Monterrey según Ticketmaster MX, uno de los shows de regional mexicano más esperados del inicio de octubre.",
+    "sources": [
+      {
+        "title": "Boletos para conciertos en México — Ticketmaster MX",
+        "url": "https://www.ticketmaster.com.mx/browse/mas-conciertos-catid-52/conciertos-rid-10001/todo-mexico-dma-801"
+      }
+    ]
+  },
+  {
     "id": "dyn-550251",
     "date": "2026-10-04",
     "name": "Elecciones Brasil — primera ronda el 4 de octubre",
@@ -2507,6 +2803,73 @@
     ]
   },
   {
+    "id": "dyn-345465",
+    "date": "2026-10-06",
+    "name": "Partido amistoso Chile — debate previo al México vs Chile",
+    "countries": [
+      "CL"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Google Trends CL registra 'partido amistoso' en tendencia, asociado al amistoso México vs Chile confirmado para el 6 de octubre en el Los Angeles Memorial Coliseum, debut de Rafael Márquez como DT del Tricolor.",
+    "sources": [
+      {
+        "title": "México vs Chile, partido del Martes 6 de octubre 2026 — La Nación",
+        "url": "https://canchallena.lanacion.com.ar/futbol/amistosos-selecciones/mexico-chile-3liejir6jq09q4pp43h7iwiz8/"
+      },
+      {
+        "title": "La selección mexicana confirma partidos amistosos — ClaroSports",
+        "url": "https://www.clarosports.com/futbol/seleccion-mexicana/mexico-enfrentara-colombia-peru-chile/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-949501",
+    "date": "2026-10-06",
+    "name": "México vs Chile — Amistoso (6 oct, Los Ángeles)",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La Selección Mexicana enfrenta a Chile el 6 de octubre en el Los Ángeles Memorial Coliseum como cierre del MexTour post-Mundial. Es el debut de Rafael Márquez como DT de la Selección Mayor (confirmado por FMF). Previo: México 1-1 Colombia el 26 de septiembre.",
+    "sources": [
+      {
+        "title": "La selección mexicana confirma partidos amistosos — ClaroSports",
+        "url": "https://www.clarosports.com/futbol/seleccion-mexicana/mexico-enfrentara-colombia-peru-chile/"
+      },
+      {
+        "title": "México vs Chile, 6 de octubre 2026 — Calendario FMF",
+        "url": "https://fmf.mx/calendario"
+      },
+      {
+        "title": "México vs Chile — ESPN",
+        "url": "https://espndeportes.espn.com/futbol/partido/_/juegoId/401903298/chile-mexico"
+      }
+    ]
+  },
+  {
+    "id": "dyn-59889",
+    "date": "2026-10-06",
+    "name": "México vs EE.UU. — Amistoso (6 oct, LA Coliseum)",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El calendario FMF también registra México vs Estados Unidos el 6 de octubre en el Los Angeles Memorial Coliseum. Importante test para el equipo bajo la nueva conducción técnica.",
+    "sources": [
+      {
+        "title": "Calendario FMF — Selección Nacional de México",
+        "url": "https://fmf.mx/calendario"
+      },
+      {
+        "title": "Selección Nacional — MiSeleccion.mx",
+        "url": "https://miseleccion.mx/calendario"
+      }
+    ]
+  },
+  {
     "id": "dyn-538471",
     "date": "2026-10-07",
     "name": "BTS WORLD TOUR 'ARIRANG' — Lima, 7, 9 y 10 de octubre",
@@ -2520,6 +2883,44 @@
       {
         "title": "Conciertos en Perú — Ticketmaster PE",
         "url": "https://www.ticketmaster.pe/page/categoria-conciertos"
+      }
+    ]
+  },
+  {
+    "id": "dyn-320637",
+    "date": "2026-10-10",
+    "name": "Rock al Parque 2026 — 30 aniversario (10-12 oct)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Rock al Parque 2026 celebra su edición 30° aniversario del 10 al 12 de octubre en el Parque Simón Bolívar de Bogotá. Se esperan más de 60 artistas y bandas en el festival de rock gratuito más grande de LATAM.",
+    "sources": [
+      {
+        "title": "Colombia Unleashes an October 2026 Cultural Rush — Travel and Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/uq1dfr7i3apx/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-677114",
+    "date": "2026-10-12",
+    "name": "12 de octubre — Día de la Diversidad Étnica y Cultural (festivo CO)",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Colombia tiene su único festivo de octubre el lunes 12 de octubre: Día de la Diversidad Étnica y Cultural (antes Día de la Raza), establecido por la Ley 2347 de 2024. El festivo cae en lunes, formando un fin de semana largo.",
+    "sources": [
+      {
+        "title": "Festivos en octubre de 2026 Colombia — El Espectador",
+        "url": "https://www.elespectador.com/turismo/festivos-en-octubre-de-2026-fechas-cuantos-son-y-por-que-se-celebran/"
+      },
+      {
+        "title": "Cinco festivos que le quedan a Colombia en 2026 — Infobae",
+        "url": "https://www.infobae.com/colombia/2026/09/23/estos-son-los-cinco-festivos-que-le-quedan-a-colombia-en-2026-asi-caen-en-octubre-noviembre-y-diciembre/"
       }
     ]
   },
