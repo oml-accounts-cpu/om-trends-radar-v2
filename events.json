@@ -2820,6 +2820,23 @@
     ]
   },
   {
+    "id": "dyn-762413",
+    "date": "2026-10-03",
+    "name": "María Becerra — Antel Arena Montevideo (3 oct)",
+    "countries": [
+      "UY"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "María Becerra se presentó el 3 de octubre en el Antel Arena de Montevideo, según el calendario de conciertos LATAM 2026-2027 confirmado.",
+    "sources": [
+      {
+        "title": "Calendario de conciertos Latinoamérica 2026-2027",
+        "url": "https://gira2027.com/calendario-conciertos-2027/"
+      }
+    ]
+  },
+  {
     "id": "dyn-550251",
     "date": "2026-10-04",
     "name": "Elecciones Brasil — primera ronda el 4 de octubre",
@@ -2979,6 +2996,23 @@
     ]
   },
   {
+    "id": "dyn-745343",
+    "date": "2026-10-07",
+    "name": "Prohibición de plataformas de apuestas online en Brasil",
+    "countries": [
+      "BR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Desde el 7 de octubre de 2026, por orden del presidente Lula, las plataformas y anuncios de apuestas deportivas y casinos en línea están prohibidos en Brasil, generando debate masivo en redes.",
+    "sources": [
+      {
+        "title": "Agenda informativa multisoporte América para el martes 6 de octubre de 2026 – Infobae",
+        "url": "https://www.infobae.com/america/agencias/2026/10/06/agenda-informativa-multisoporte-america-para-el-martes-6-de-octubre-de-2026/"
+      }
+    ]
+  },
+  {
     "id": "dyn-651602",
     "date": "2026-10-08",
     "name": "Bajo la superficie (Below) — Netflix",
@@ -3126,6 +3160,23 @@
     ]
   },
   {
+    "id": "dyn-184101",
+    "date": "2026-10-09",
+    "name": "Rock al Parque 30 años — Bogotá",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Rock al Parque celebra su 30ª edición en Bogotá, con transmisión por Canal Capital. La agenda de la semana del 9 al 15 de octubre incluye el evento como foco principal de la programación cultural capitalina.",
+    "sources": [
+      {
+        "title": "Bogotá: agenda cultural del 9 al 15 de octubre de 2026 incluye Rock al Parque – Pulzo",
+        "url": "https://www.pulzo.com/nacion/bogota/agenda-cultural-bogota-eventos-gratuitos-y-festivales-destacados-del-9-al-15-de-octubre-2026-PP5326460A"
+      }
+    ]
+  },
+  {
     "id": "dyn-320637",
     "date": "2026-10-10",
     "name": "Rock al Parque 2026 — 30 aniversario (10-12 oct)",
@@ -3207,6 +3258,27 @@
       {
         "title": "Boletos para conciertos musicales — Ticketmaster México",
         "url": "https://www.ticketmaster.com.mx/section/conciertos"
+      }
+    ]
+  },
+  {
+    "id": "dyn-898798",
+    "date": "2026-10-11",
+    "name": "Iron Maiden Run for Your Lives — Bogotá (11 oct)",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Iron Maiden se presenta en Bogotá el 11 de octubre como parte de su gira 'Run for Your Lives'. La ciudad fue epicentro musical en octubre con BTS (2-3 oct) e Iron Maiden en la misma semana.",
+    "sources": [
+      {
+        "title": "Agenda Musical LATAM — Octubre 2026 – MNI Noticias",
+        "url": "https://mninoticias.com/agenda-musical-latam-octubre-2026/"
+      },
+      {
+        "title": "Calendario de conciertos Latinoamérica 2026-2027",
+        "url": "https://gira2027.com/calendario-conciertos-2027/"
       }
     ]
   },
@@ -3341,6 +3413,61 @@
     ]
   },
   {
+    "id": "dyn-48226",
+    "date": "2026-10-12",
+    "name": "Semana de Receso Colombia — Día de la Raza 12 oct",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El feriado del 12 de octubre (Día de la Raza) coincide exactamente en lunes, extendiendo el receso del 5 al 12. Cartagena encabeza las reservas internas; Buenos Aires casi duplica su peso en destinos internacionales.",
+    "sources": [
+      {
+        "title": "Semana de receso 2026: así están cambiando los destinos – El Espectador",
+        "url": "https://www.elespectador.com/turismo/semana-de-receso-2026-asi-estan-cambiando-los-destinos-que-eligen-los-colombianos/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-882602",
+    "date": "2026-10-12",
+    "name": "Torneo Clausura Argentina — fecha en curso",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La semana del 12 de octubre incluye partidos de Liga Profesional: Talleres vs Independiente (dom 11), Racing vs Belgrano y Lanús vs Vélez (lun 12). La temporada va hasta el 12 de diciembre.",
+    "sources": [
+      {
+        "title": "Fixture de Torneo Clausura 2026 – ESPN Argentina",
+        "url": "https://www.espn.com.ar/futbol/argentina/nota/_/id/16230661/el-fixture-de-torneo-clausura-2026-fecha-hora-y-resultados-de-los-partidos"
+      },
+      {
+        "title": "Fixture de la Liga Profesional Argentina 2026 – Mundo Ascenso",
+        "url": "https://www.mundoascenso.com.ar/torneo/liga-profesional/fixture"
+      }
+    ]
+  },
+  {
+    "id": "dyn-238868",
+    "date": "2026-10-12",
+    "name": "Señora Acero en Netflix — regreso de narco ficción mexicana",
+    "countries": [
+      "MX"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Las cinco temporadas de la serie mexicana 'Señora Acero' están disponibles en Netflix desde el 12 de octubre de 2026, relanzando la conversación sobre narco ficción latina.",
+    "sources": [
+      {
+        "title": "Todos los estrenos de octubre 2026 – CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/10/01/entretenimiento/estrenos-octubre-2026-streaming-netflix-hbo-orix"
+      }
+    ]
+  },
+  {
     "id": "dyn-188858",
     "date": "2026-10-13",
     "name": "Between the Buried and Me — Teatro Cariola Santiago",
@@ -3447,6 +3574,93 @@
     ]
   },
   {
+    "id": "dyn-79216",
+    "date": "2026-10-15",
+    "name": "Quincena México Q19 — 15 de octubre",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La primera quincena de octubre se paga el jueves 15 de octubre en fecha normal, según calendario oficial SEP-FONE y UNAM 2026. Impacto directo en consumo y e-commerce.",
+    "sources": [
+      {
+        "title": "Calendario de Quincenas 2026 México – Fechas de Pago Completas",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
+      },
+      {
+        "title": "Calendario FONE 2026: Fechas de Pago para Docentes SEP",
+        "url": "https://mifoneportalsep.com.mx/calendario-pagos-fone/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-396360",
+    "date": "2026-10-15",
+    "name": "Street Fighter — estreno en cines LATAM (15 oct)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La adaptación cinematográfica del videojuego protagonizada por Noah Centineo, Andrew Koji y Callina Liang se estrena el 15 de octubre en cines de toda LATAM, incluidas Argentina, México y Colombia.",
+    "sources": [
+      {
+        "title": "Estrenos cine octubre 2026: todas las películas – Milenio",
+        "url": "https://www.milenio.com/espectaculos/cine/estrenos-cine-mes-octubre-2026-lista-completa"
+      },
+      {
+        "title": "Próximos estrenos de cine en Argentina – CinesArgentinos",
+        "url": "https://m.cinesargentinos.com.ar/proximos/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-251278",
+    "date": "2026-10-16",
+    "name": "Lo dejamos acá — Ricardo Darín y Diego Peretti en Netflix",
+    "countries": [
+      "AR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La película argentina con Ricardo Darín y Diego Peretti, dirigida por Hernán Goldfrid, llega a Netflix el 16 de octubre. Es uno de los estrenos argentinos más importantes del mes en streaming.",
+    "sources": [
+      {
+        "title": "Estrenos de streaming de octubre – Timeout Buenos Aires",
+        "url": "https://www.timeout.com/es/buenos-aires/estrenos-netflix-hbo-max-on-demand-series-peliculas-amazon"
+      }
+    ]
+  },
+  {
+    "id": "dyn-435077",
+    "date": "2026-10-16",
+    "name": "Aitana Cuarto Azul World Tour — Bogotá (16 oct) + HUMBE Medellín (21 oct) y Bogotá (22 oct)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Aitana llega con su tour al Movistar Arena de Bogotá el 16 de octubre. La semana siguiente, HUMBE se presenta en City Hall El Rodeo de Medellín (21 oct) y Movistar Arena Bogotá (22 oct). Doble foco de pop español e indie latino.",
+    "sources": [
+      {
+        "title": "Calendario de conciertos Latinoamérica 2026-2027",
+        "url": "https://gira2027.com/calendario-conciertos-2027/"
+      },
+      {
+        "title": "Agenda de eventos y Planes en Colombia – Kalender.city",
+        "url": "https://kalender.city/eventos"
+      }
+    ]
+  },
+  {
     "id": "dyn-652444",
     "date": "2026-10-17",
     "name": "Kneecap — Bogotá 17 octubre",
@@ -3460,6 +3674,196 @@
       {
         "title": "Próximos eventos — Ticketmaster Colombia",
         "url": "https://www.ticketmaster.co/page/proximos-eventos"
+      }
+    ]
+  },
+  {
+    "id": "dyn-922648",
+    "date": "2026-10-18",
+    "name": "Bad Gyal Más Cara World Tour — Bogotá (18 oct)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Bad Gyal se presenta en el Chamorro City Hall de Bogotá el 18 de octubre como parte de su Más Cara World Tour 2026, generando conversación digital en Colombia durante toda la semana previa.",
+    "sources": [
+      {
+        "title": "Más Cara World Tour – Wikipedia EN",
+        "url": "https://en.wikipedia.org/wiki/M%C3%A1s_Cara_World_Tour"
+      }
+    ]
+  },
+  {
+    "id": "dyn-351248",
+    "date": "2026-10-19",
+    "name": "In Vitro — HBO Max estreno (19 oct)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La serie española 'In Vitro' estrena el 19 de octubre en HBO Max, siendo uno de los estrenos más comentados de la segunda quincena en toda la región hispanohablante de LATAM.",
+    "sources": [
+      {
+        "title": "Todos los estrenos de octubre 2026 – CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/10/01/entretenimiento/estrenos-octubre-2026-streaming-netflix-hbo-orix"
+      },
+      {
+        "title": "Estrenos de octubre 2026 en Netflix, HBO Max, Prime Video y Disney+",
+        "url": "https://revistamercado.do/lifestyle/experiencias/estrenos-de-octubre-2026-en-netflix-hbo-max-prime-video-y-disney-las-series-y-peliculas-que-llegan/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-944489",
+    "date": "2026-10-19",
+    "name": "Premios Billboard Música Latina — Miami (19-22 oct)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La Semana de la Música Latina de Billboard y sus premios se celebran en Miami del 19 al 22 de octubre de 2026, con artistas como Ozuna entre los finalistas. Genera trending musical masivo en toda LATAM.",
+    "sources": [
+      {
+        "title": "Novedades musicales: cinco lanzamientos y anuncios – Hoy Día Argentina",
+        "url": "https://hoydia.com.ar/espectaculos/novedades-musicales-cinco-lanzamientos-y-anuncios-que-trae-la-escena/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-122618",
+    "date": "2026-10-19",
+    "name": "Liga Profesional Clausura Argentina — fecha semana 19-25 oct",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La semana del 19 al 25 incluye partidos de Clausura: Sarmiento vs River (15 oct), Huracán vs Gimnasia LP (16 oct), Boca vs Talleres y Defensa vs Instituto (17 oct), entre otros. Conversación constante en redes.",
+    "sources": [
+      {
+        "title": "Partidos Liga Profesional – FlashScore Argentina",
+        "url": "https://www.flashscore.com.ar/futbol/argentina/liga-profesional/partidos/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-655531",
+    "date": "2026-10-20",
+    "name": "Cyberpunk: Edgerunners T2 — Netflix (20 oct)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La segunda temporada de 'Cyberpunk: Edgerunners' se estrena el 20 de octubre en Netflix, una de las series de animación más anticipadas del año para el público gamer y anime de toda LATAM.",
+    "sources": [
+      {
+        "title": "Estrenos octubre 2026 – Yahoo Noticias",
+        "url": "https://es-us.noticias.yahoo.com/estrenos-octubre-2026-pel%C3%ADculas-series-030528035.html"
+      },
+      {
+        "title": "Estrenos de octubre 2026 en Netflix, HBO Max, Disney+ y Prime Video – Joinnus Blog",
+        "url": "https://blog.joinnus.com/estrenos-de-octubre-2026-en-netflix-hbo-max-disney-plus-y-prime-video/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-630606",
+    "date": "2026-10-20",
+    "name": "FIL Cali — Feria Internacional del Libro de Cali (20-25 oct)",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La Feria Internacional del Libro de Cali se celebra del 20 al 25 de octubre, como parte de la agenda cultural 2026 de Cali como Distrito Cultural.",
+    "sources": [
+      {
+        "title": "Cali se proyecta como Distrito Cultural con su Agenda de Eventos Culturales 2026",
+        "url": "https://www.cali.gov.co/boletines/publicaciones/190958/cali-se-proyecta-como-distrito-cultural-con-su-agenda-de-eventos-culturales-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-445129",
+    "date": "2026-10-23",
+    "name": "Luck Ra — Teatro Caupolicán Santiago (23 oct)",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Luck Ra se presenta el 23 de octubre en el Teatro Caupolicán de Santiago, según la cartelera de conciertos octubre 2026 de Cooperativa.cl.",
+    "sources": [
+      {
+        "title": "Cartelera de conciertos 2026 en Chile – Cooperativa.cl",
+        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-956610",
+    "date": "2026-10-25",
+    "name": "Camilo Now Tour — Movistar Arena Buenos Aires (25 oct)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Camilo se presenta en el Movistar Arena de Buenos Aires el 25 de octubre con su Now Tour 2026, presentando 'Para Cuando Sean Mayores'. Tras agotar dos funciones en 2025, la demanda anticipa un sold out.",
+    "sources": [
+      {
+        "title": "Camilo vuelve a la Argentina – Pronto.com.ar",
+        "url": "https://www.pronto.com.ar/pronto-musica/2026/5/20/camilo-vuelve-la-argentina-cuando-es-el-show-en-el-movistar-arena-como-comprar-entradas-278473.html"
+      },
+      {
+        "title": "Camilo Full Tour Schedule 2026 & 2027 – Songkick",
+        "url": "https://www.songkick.com/artists/98787-camilo/calendar"
+      },
+      {
+        "title": "Agenda Musical LATAM — Octubre 2026 – MNI Noticias",
+        "url": "https://mninoticias.com/agenda-musical-latam-octubre-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-66767",
+    "date": "2026-10-25",
+    "name": "Shing02 & Spin Master A-1 — Lima (25 oct)",
+    "countries": [
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Shing02 & Spin Master A-1 se presentan el 25 de octubre en Lima como parte del Latam Tour 2026, según la agenda Joinnus Perú octubre 2026.",
+    "sources": [
+      {
+        "title": "Agenda Joinnus 2026: Octubre llega con nuevos conciertos y más",
+        "url": "https://blog.joinnus.com/agenda-joinnus-2026-octubre-llega-con-nuevos-conciertos-obras-experiencias-y-mas/"
       }
     ]
   },
