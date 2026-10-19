@@ -3623,6 +3623,23 @@
     ]
   },
   {
+    "id": "dyn-185837",
+    "date": "2026-10-15",
+    "name": "Corregidora: La noche más oscura del fútbol mexicano — HBO",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El documental sobre la tragedia del Estadio Corregidora se estrenó el 15 de octubre en HBO Max y sigue siendo tendencia esta semana en México, reabriendo el debate sobre seguridad en el fútbol.",
+    "sources": [
+      {
+        "title": "Todos los estrenos octubre 2026 — CNN Español",
+        "url": "https://cnnespanol.cnn.com/2026/10/01/entretenimiento/estrenos-octubre-2026-streaming-netflix-hbo-orix"
+      }
+    ]
+  },
+  {
     "id": "dyn-251278",
     "date": "2026-10-16",
     "name": "Lo dejamos acá — Ricardo Darín y Diego Peretti en Netflix",
@@ -3764,6 +3781,47 @@
     ]
   },
   {
+    "id": "dyn-405797",
+    "date": "2026-10-19",
+    "name": "Mundial Femenil Sub-17 Marruecos — México debuta",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La Selección Mexicana debuta el 19 de octubre ante España en el Mundial Femenino Sub-17 con sede en Marruecos (hasta el 7 de noviembre). Genera conversación en México y LATAM.",
+    "sources": [
+      {
+        "title": "Partidos HOY lunes 19 de octubre — Fox Sports México",
+        "url": "https://www.foxsports.com.mx/2026/10/19/partidos-hoy-lunes-19-de-octubre-en-vivo-donde-ver-futbol-en-mexico-mundial-femenil-sub-17-y-mas/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-37976",
+    "date": "2026-10-19",
+    "name": "Liga Profesional Argentina — triple fecha lunes 19",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Este lunes juegan Newell's vs. Central Córdoba (18h), Sarmiento vs. Barracas Central (18h) y Deportivo Riestra vs. Unión Santa Fe (20:15h), generando conversación activa en X y TikTok.",
+    "sources": [
+      {
+        "title": "Partidos de hoy 19 de octubre — Revista Mercado",
+        "url": "https://revistamercado.do/actualidad/partidos-de-hoy-19-de-octubre-de-2026-horarios-y-donde-ver/"
+      }
+    ]
+  },
+  {
     "id": "dyn-655531",
     "date": "2026-10-20",
     "name": "Cyberpunk: Edgerunners T2 — Netflix (20 oct)",
@@ -3809,6 +3867,105 @@
     ]
   },
   {
+    "id": "dyn-396672",
+    "date": "2026-10-22",
+    "name": "Nadie Quiere Esto T3 — Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La comedia romántica de Netflix regresa con su tercera temporada el 22 de octubre. Joanne y Noah enfrentan intromisiones familiares y un gran salto de fe en su relación.",
+    "sources": [
+      {
+        "title": "Los estrenos más destacados de la semana — QuéVer",
+        "url": "https://www.quever.news/cine/2026/10/19/los-estrenos-mas-destacados-de-la-semana-para-ver-en-netflix-prime-video-hbo-max-disney-y-mas-105863.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-148347",
+    "date": "2026-10-22",
+    "name": "Copa Libertadores: Palmeiras vs Fluminense",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Duelo de gigantes brasileños por la Copa Libertadores 2026. Palmeiras recibe a Fluminense el 22 de octubre en el Nubank Parque, en uno de los partidos más esperados de la fase.",
+    "sources": [
+      {
+        "title": "Copa Libertadores 2026 — Flashscore Perú",
+        "url": "https://www.flashscore.pe/futbol/sudamerica/copa-libertadores/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-888683",
+    "date": "2026-10-22",
+    "name": "Concierto HUMBE — Dueño Del Cielo Tour Bogotá",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "HUMBE presenta su tour Dueño Del Cielo el 22 de octubre en el Movistar Arena de Bogotá, consolidando la escena del pop urbano mexicano en Colombia.",
+    "sources": [
+      {
+        "title": "Próximos Conciertos en América Latina 2026 — ConciertosLatam",
+        "url": "https://www.conciertoslatam.com/concerts"
+      }
+    ]
+  },
+  {
+    "id": "dyn-771955",
+    "date": "2026-10-22",
+    "name": "La masacre de Flores — HBO Max",
+    "countries": [
+      "AR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Estreno el 22 de octubre en HBO Max: serie documental sobre Matías Bagnato, único sobreviviente de La Masacre de Flores, uno de los casos criminales más conmocionantes de Argentina.",
+    "sources": [
+      {
+        "title": "Los estrenos más destacados de la semana — QuéVer",
+        "url": "https://www.quever.news/cine/2026/10/19/los-estrenos-mas-destacados-de-la-semana-para-ver-en-netflix-prime-video-hbo-max-disney-y-mas-105863.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-76942",
+    "date": "2026-10-22",
+    "name": "Jessie Ware — Teatro Metropólitan CDMX",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La artista británica llega a CDMX con su disco Superbloom el 22 de octubre al Teatro Metropólitan, en una de las noches más esperadas para el público pop/dance de la capital.",
+    "sources": [
+      {
+        "title": "Agenda conciertos CDMX octubre 2026 — Sopitas",
+        "url": "https://www.sopitas.com/musica/comienza-agenda-conciertos-para-2026-mexico/"
+      }
+    ]
+  },
+  {
     "id": "dyn-445129",
     "date": "2026-10-23",
     "name": "Luck Ra — Teatro Caupolicán Santiago (23 oct)",
@@ -3822,6 +3979,81 @@
       {
         "title": "Cartelera de conciertos 2026 en Chile – Cooperativa.cl",
         "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-850098",
+    "date": "2026-10-23",
+    "name": "Lupin: Parte 4 — Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Tras cuatro años en prisión, Assane vuelve con sus ardides geniales cuando alguien imita sus robos. Estreno el 23 de octubre en Netflix.",
+    "sources": [
+      {
+        "title": "Estrenos de streaming en octubre 2026 — El Heraldo",
+        "url": "https://www.elheraldo.co/entretenimiento/2026/10/05/estrenos-de-streaming-en-octubre-de-2026-series-y-peliculas-que-llegan-a-netflix-prime-video-disney-y-hbo-max/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-719614",
+    "date": "2026-10-23",
+    "name": "Flamengo vs Estudiantes LP — Copa Libertadores",
+    "countries": [
+      "BR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El campeón defensor Flamengo recibe a Estudiantes de La Plata el 23 de octubre (21:30 ARG) en el Maracanã por la Copa Libertadores 2026.",
+    "sources": [
+      {
+        "title": "Copa Libertadores 2026 fixture — CanchaLlena La Nacion",
+        "url": "https://canchallena.lanacion.com.ar/futbol/copa-libertadores/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-214703",
+    "date": "2026-10-24",
+    "name": "Hombres G en Bogotá",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La legendaria banda española se presenta el 24 de octubre en Bogotá (conciertoslatam.com lo confirma), generando nostalgia masiva entre los fans de los 80s y 90s en Colombia.",
+    "sources": [
+      {
+        "title": "Próximos Conciertos en América Latina 2026 — ConciertosLatam",
+        "url": "https://www.conciertoslatam.com/concerts"
+      }
+    ]
+  },
+  {
+    "id": "dyn-973373",
+    "date": "2026-10-24",
+    "name": "Rio Roma en Lima",
+    "countries": [
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El dúo colombiano Rio Roma se presenta el 24 de octubre en Lima, en una de las fechas románticas más esperadas del mes en Perú.",
+    "sources": [
+      {
+        "title": "Conciertos Perú 2026 octubre — Joinnus",
+        "url": "https://blog.joinnus.com/conciertos-peru-2026-los-shows-que-no-te-puedes-perder-en-octubre/"
       }
     ]
   },
@@ -3864,6 +4096,167 @@
       {
         "title": "Agenda Joinnus 2026: Octubre llega con nuevos conciertos y más",
         "url": "https://blog.joinnus.com/agenda-joinnus-2026-octubre-llega-con-nuevos-conciertos-obras-experiencias-y-mas/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-647289",
+    "date": "2026-10-25",
+    "name": "Balotaje Brasil: Lula vs. Flávio Bolsonaro — trending nacional",
+    "countries": [
+      "BR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Esta semana es la última antes del balotaje presidencial del 25 de octubre entre Lula (45%) y Flávio Bolsonaro (47%). Los debates y encuestas dominan el consumo de medios en Brasil.",
+    "sources": [
+      {
+        "title": "Agenda de la semana 19-23 octubre — Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com/economia/agenda-de-la-semana-datos-de-brasil-colombia-argentina-y-mexico-resultados-de-netflix-tesla-y-meta/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-420045",
+    "date": "2026-10-25",
+    "name": "Post-balotaje Brasil — conversación cultural masiva",
+    "countries": [
+      "BR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 25 de octubre Brasil elige presidente (Lula vs. Flávio Bolsonaro). La semana del 26 al 1 de noviembre estará dominada por el análisis, los memes y la reacción cultural al resultado.",
+    "sources": [
+      {
+        "title": "Balotaje Brasil 2026 — La Nacion Argentina",
+        "url": "https://www.lanacion.com.ar/el-mundo/cuando-es-el-balotaje-de-las-elecciones-brasil-2026-nid19102026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-89101",
+    "date": "2026-10-25",
+    "name": "Camilo Worldwide Tour — Buenos Aires (25 y 26 oct)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Camilo agotó su primera fecha del 25 de octubre en el Movistar Arena y sumó una segunda para el 26. El tour presenta canciones de su álbum más reciente junto a sus grandes hits.",
+    "sources": [
+      {
+        "title": "Camilo sumó segunda fecha en Movistar Arena — BBVA Argentina",
+        "url": "https://www.bbva.com/es/ar/economia-y-finanzas/bbva-lanza-la-preventa-exclusiva-para-el-show-de-camilo-en-el-movistar-arena-de-buenos-aires/"
+      },
+      {
+        "title": "Camilo tour dates 2026 — Songkick",
+        "url": "https://www.songkick.com/artists/98787-camilo/calendar"
+      }
+    ]
+  },
+  {
+    "id": "dyn-650149",
+    "date": "2026-10-26",
+    "name": "Minimum Wage — Netflix (26 oct)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Netflix estrena Minimum Wage el lunes 26 de octubre, generando conversación sobre economía y trabajo que conecta directamente con la realidad de los millennials y Gen Z de LATAM.",
+    "sources": [
+      {
+        "title": "Estrenos Netflix semana 26 oct — Formulatv",
+        "url": "https://www.formulatv.com/calendario/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-865416",
+    "date": "2026-10-26",
+    "name": "Romeo Santos y Prince Royce — Palacio de los Deportes CDMX",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La dupla bachata Romeo Santos y Prince Royce lleva su gira conjunta al Palacio de los Deportes de CDMX el 26 de octubre, tras su paso por Bogotá.",
+    "sources": [
+      {
+        "title": "Conciertos CDMX octubre 2026 — Milenio",
+        "url": "https://www.milenio.com/espectaculos/musica/conciertos-cdmx-octubre-2026-agenda-completa"
+      }
+    ]
+  },
+  {
+    "id": "dyn-235210",
+    "date": "2026-10-27",
+    "name": "El de Matthew Perry — Documental Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Netflix estrena el documental sobre Matthew Perry el 27 de octubre. El actor de Friends falleció en 2023 y el estreno generará ola nostálgica masiva en toda LATAM.",
+    "sources": [
+      {
+        "title": "Todos los estrenos octubre 2026 — CNN Español",
+        "url": "https://cnnespanol.cnn.com/2026/10/01/entretenimiento/estrenos-octubre-2026-streaming-netflix-hbo-orix"
+      }
+    ]
+  },
+  {
+    "id": "dyn-506530",
+    "date": "2026-10-30",
+    "name": "Dexter: Resurrection T2 — Paramount+",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La segunda temporada de Dexter: Resurrection estrena el 30 de octubre en Paramount+. Suma a Brian Cox como el Destripador de Nueva York y Dan Stevens. Coincide con el 20° aniversario de la franquicia y Halloween.",
+    "sources": [
+      {
+        "title": "Dexter: Resurrection T2 — Paramount+ (Infobae)",
+        "url": "https://www.infobae.com/malditos-nerds/2026/10/02/dexter-resurrection-estrena-trailer-y-confirma-su-temporada-2-para-octubre/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-245151",
+    "date": "2026-10-30",
+    "name": "Quincena Q20 — pico de consumo viernes 30",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La segunda quincena de octubre en México se paga el viernes 30 (adelantada del sábado 31). El período de mayor gasto del mes activa comportamientos de compra digital en apps, e-commerce y servicios.",
+    "sources": [
+      {
+        "title": "Calendario de Quincenas 2026 México — CalendarioDeMexico",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
       }
     ]
   },
