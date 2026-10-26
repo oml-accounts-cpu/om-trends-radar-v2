@@ -4024,6 +4024,51 @@
     ]
   },
   {
+    "id": "dyn-294319",
+    "date": "2026-10-23",
+    "name": "Lupin T4 — estreno Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La cuarta temporada de Lupin llegó a Netflix el 23 de octubre. La serie francesa protagonizada por Omar Sy es uno de los contenidos más seguidos en toda LATAM en plataformas de streaming.",
+    "sources": [
+      {
+        "title": "Estrenos streaming octubre 2026 — El Heraldo",
+        "url": "https://www.elheraldo.co/entretenimiento/2026/10/05/estrenos-de-streaming-en-octubre-de-2026-series-y-peliculas-que-llegan-a-netflix-prime-video-disney-y-hbo-max/"
+      },
+      {
+        "title": "Estrenos de series octubre 2026 — Secuencia Zero",
+        "url": "https://secuenciazero.com/series/estrenos-series-mes/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-362932",
+    "date": "2026-10-23",
+    "name": "Festival Internacional de Cine de Cali 2026",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El Festival Internacional de Cine de Cali se extiende del 23 de octubre al 3 de noviembre. Por primera vez Cali sede de los Premios Macondo (1 de noviembre), que destacan lo mejor del cine colombiano.",
+    "sources": [
+      {
+        "title": "Agenda cultural Cali segundo semestre 2026 — Infobae",
+        "url": "https://www.infobae.com/colombia/2026/07/08/cali-celebra-490-anos-esta-es-la-agenda-cultural-gratuita-y-experiencias-de-viaje-para-el-segundo-semestre-de-2026/"
+      }
+    ]
+  },
+  {
     "id": "dyn-214703",
     "date": "2026-10-24",
     "name": "Hombres G en Bogotá",
@@ -4155,6 +4200,170 @@
     ]
   },
   {
+    "id": "dyn-585841",
+    "date": "2026-10-25",
+    "name": "Lula reelecto en Brasil — balotaje histórico",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Lula da Silva ganó el balotaje presidencial de Brasil el 25 de octubre con 51,76% vs 48,24% de Flávio Bolsonaro, logrando un cuarto mandato. Primera vez en la historia que un candidato gana el balotaje habiendo quedado segundo en la primera vuelta.",
+    "sources": [
+      {
+        "title": "Resultados: Lula da Silva ganó el balotaje 2026 — La Nación",
+        "url": "https://www.lanacion.com.ar/el-mundo/como-van-las-elecciones-brasil-2026-en-vivo-resultados-y-quien-va-ganando-el-balotaje-entre-lula-y-nid25102026/"
+      },
+      {
+        "title": "Lula da Silva ganó el balotaje — Infobae",
+        "url": "https://www.infobae.com/america/america-latina/2026/10/26/lula-da-silva-gano-un-historico-balotaje-a-flavio-bolsonaro-y-asumira-un-cuarto-mandato-en-brasil/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-615215",
+    "date": "2026-10-25",
+    "name": "Serie A Brasil — Flamengo vs. Atlético Mineiro",
+    "countries": [
+      "BR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El duelo Flamengo vs Atlético Mineiro se disputó el domingo 25 de octubre en el marco de la Serie A brasileña, uno de los clásicos más seguidos del fútbol sudamericano.",
+    "sources": [
+      {
+        "title": "Partidos de hoy domingo 25 de octubre — Yahoo Noticias",
+        "url": "https://es-us.noticias.yahoo.com/deportes/partidos-f%C3%BAtbol-agenda-viernes-8-163000316.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-577153",
+    "date": "2026-10-25",
+    "name": "Reacciones virales al balotaje — memes políticos BR",
+    "countries": [
+      "BR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La victoria inédita de Lula en el balotaje brasileño generó una ola de contenido viral: memes, reacciones en vivo y discusiones en X, TikTok e Instagram. Flávio Bolsonaro no reconoció el resultado inicial, lo que elevó la conversación digital.",
+    "sources": [
+      {
+        "title": "Balotaje Brasil 2026 — El Cronista",
+        "url": "https://www.cronista.com/internacionales/resultados-elecciones-brasil-2026-el-balotaje-entre-lula-y-bolsonaro-minuto-a-minuto/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-582725",
+    "date": "2026-10-25",
+    "name": "Hip Hop al Parque 2026",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El festival Hip Hop al Parque se realizó el 24 y 25 de octubre en el Parque Metropolitano Simón Bolívar de Bogotá, uno de los eventos de cultura urbana más masivos y gratuitos de Colombia.",
+    "sources": [
+      {
+        "title": "Event agenda — Visit Bogotá",
+        "url": "https://visitbogota.co/en/event-agenda"
+      }
+    ]
+  },
+  {
+    "id": "dyn-993666",
+    "date": "2026-10-25",
+    "name": "Independiente vs. Boca & River vs. Racing — Clausura AR",
+    "countries": [
+      "AR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Doble jornada clave del Clausura argentino el 25 de octubre: Independiente vs. Boca Juniors y River Plate vs. Racing Club. Dos de los clásicos más seguidos del fútbol argentino en una misma tarde.",
+    "sources": [
+      {
+        "title": "Partidos Liga Profesional Argentina 25 octubre — DSN.pe",
+        "url": "https://dsn.pe/partidos-de-hoy-25-de-octubre-de-2026-barcelona-vs-real-madrid-boca-river-alianza-lima-y-toda-la-programacion-en-vivo/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-823976",
+    "date": "2026-10-25",
+    "name": "Liga MX Jornada 14 — América vs. Pachuca",
+    "countries": [
+      "MX"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Cierre de la Jornada 14 del Apertura 2026: América vs. Pachuca (transmitido en Canal 5 y TUDN), Querétaro vs. Cruz Azul y Tijuana vs. Santos. El partido de América es el de mayor audiencia nacional del fin de semana.",
+    "sources": [
+      {
+        "title": "Partidos Liga MX 25 octubre 2026 — Milenio",
+        "url": "https://milenio.com/futbol/liga-mx/partidos-liga-mx-2026-25-de-octubre-horarios-y-donde-ver-en-vivo"
+      }
+    ]
+  },
+  {
+    "id": "dyn-520216",
+    "date": "2026-10-25",
+    "name": "Six Feet Under en Chile — 25 oct Teatro Cariola",
+    "countries": [
+      "CL"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La legendaria banda de death metal tocó el 25 de octubre en el Teatro Cariola de Santiago, parte de su gira latinoamericana. Un evento que concentra a la comunidad metalera chilena.",
+    "sources": [
+      {
+        "title": "Conciertos Chile 2026 — Cooperativa",
+        "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-469086",
+    "date": "2026-10-25",
+    "name": "Palestino vs. Colo Colo — Liga de Primera",
+    "countries": [
+      "CL"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El clásico Palestino vs. Colo Colo se disputó el domingo 25 de octubre en la Liga de Primera de Chile, uno de los partidos más seguidos de la jornada.",
+    "sources": [
+      {
+        "title": "Partidos de hoy 25 de octubre — Yahoo Noticias",
+        "url": "https://es-us.noticias.yahoo.com/deportes/partidos-f%C3%BAtbol-agenda-viernes-8-163000316.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-180982",
+    "date": "2026-10-25",
+    "name": "Liga 1 Perú — Deportivo Garcilaso vs. Los Chankas",
+    "countries": [
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "El partido Deportivo Garcilaso vs. Los Chankas se disputó el domingo 25 de octubre a las 18:00 hs por la Liga 1 de Perú, transmitido por L1 MAX, DGO y Movistar TV App.",
+    "sources": [
+      {
+        "title": "Partidos de hoy 25 de octubre — Libero.pe",
+        "url": "https://libero.pe/futbol-internacional/2026/10/24/partidos-de-hoy-domingo-25-de-octubre-partidos-hay-de-liga-1-clasico-de-laliga-1433304"
+      }
+    ]
+  },
+  {
     "id": "dyn-650149",
     "date": "2026-10-26",
     "name": "Minimum Wage — Netflix (26 oct)",
@@ -4192,6 +4401,34 @@
       {
         "title": "Conciertos CDMX octubre 2026 — Milenio",
         "url": "https://www.milenio.com/espectaculos/musica/conciertos-cdmx-octubre-2026-agenda-completa"
+      }
+    ]
+  },
+  {
+    "id": "dyn-237743",
+    "date": "2026-10-26",
+    "name": "Balón de Oro 2026 — Ceremonia en Londres",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La 70ª edición del Balón de Oro se celebra hoy lunes 26 de octubre en The London Palladium de Londres. Entre los favoritos: Lamine Yamal, Harry Kane, Kylian Mbappé y Lionel Messi. Primera vez en la historia que la gala sale de Francia (excepto 2010-2015).",
+    "sources": [
+      {
+        "title": "Balón de Oro 2026 — Wikipedia",
+        "url": "https://es.wikipedia.org/wiki/Bal%C3%B3n_de_Oro_2026"
+      },
+      {
+        "title": "Balón de Oro 2026: fecha, horario, canal y nominados — Semana",
+        "url": "https://www.semana.com/deportes/articulo/balon-de-oro-2026-fecha-horario-canal-de-tv-y-lista-de-nominados/202603/"
       }
     ]
   },
@@ -4261,6 +4498,297 @@
     ]
   },
   {
+    "id": "dyn-920273",
+    "date": "2026-10-30",
+    "name": "Andrés Calamaro — 9no Movistar Arena (30 oct)",
+    "countries": [
+      "AR"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Calamaro agotó 8 funciones en el Movistar Arena con la gira 'Como Cantor' y suma una 9na fecha para el viernes 30 de octubre. La demanda récord convierte al show en el evento musical más comentado de la semana en Argentina.",
+    "sources": [
+      {
+        "title": "Andrés Calamaro suma 9no show Movistar Arena — El Destape",
+        "url": "https://www.eldestapeweb.com/cultura/nuevas-entradas-fecha-andres-calamaro-movistar-arena-2026-precios-cuando-toca-202691195026"
+      },
+      {
+        "title": "Calamaro — Como Cantor, fechas y setlist — Soho Música",
+        "url": "https://sohomusica.com/Shows/andres-calamaro-en-buenos-aires-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-244847",
+    "date": "2026-10-30",
+    "name": "Quincena MX — pago adelantado viernes 30",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La 2da quincena de octubre se adelanta al viernes 30 de octubre (el corte era sábado 31). Pico de gasto del mes en México. Marcas de consumo masivo y e-commerce activan campañas quincenales.",
+    "sources": [
+      {
+        "title": "Calendario de Quincenas 2026 México",
+        "url": "https://calendariodemexico.com/calendario-quincenas-2026-mexico/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-102324",
+    "date": "2026-10-31",
+    "name": "Spooky Season & Halloween TikTok",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Halloween domina el feed de TikTok y Reels en toda LATAM. El reto 'Ramalama Costume Walk' con 'Ramalama (Bang Bang)' de Róisín Murphy acumula 456.200 videos; el formato 'Did I Win This Trend?' de revelación de disfraz y 'Pumpkin Head Illusion' son los más replicados esta semana.",
+    "sources": [
+      {
+        "title": "TikTok Trends October 2026 — SocialPilot",
+        "url": "https://www.socialpilot.co/blog/tiktok-trends"
+      },
+      {
+        "title": "TikTok Trends: October 2026 — NewEngen",
+        "url": "https://newengen.com/insights/tiktok-trends/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-246707",
+    "date": "2026-11-01",
+    "name": "Gyal Festival — Flow 2000's — Bogotá (1 nov)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El Gyal Festival con temática 'Flow 2000's' se celebra el 1 de noviembre en el Centro de Eventos Autonorte (Km 19 vía Chía), Bogotá. Evento de cultura urbana y nostalgia de los 2000 con alto convocatoria femenina y de millennials.",
+    "sources": [
+      {
+        "title": "Agenda eventos Bogotá noviembre 2026 — Kalender.city",
+        "url": "https://kalender.city/eventos/bogota"
+      }
+    ]
+  },
+  {
+    "id": "dyn-946906",
+    "date": "2026-11-01",
+    "name": "Festival Regional de Gaitas — Cartagena (1 al 4 nov)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El Festival Regional de Gaitas se celebra del 1 al 4 de noviembre en Cartagena, como parte de la agenda cultural oficial de la ciudad. Evento de patrimonio musical colombiano.",
+    "sources": [
+      {
+        "title": "Agenda cultural 2026 Cartagena — Alcaldía de Cartagena",
+        "url": "https://www.cartagena.gov.co/noticias/heroica-vivira-cultura-todo-el-ano-alcaldia-cartagena-presenta-agenda-cultural-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-36905",
+    "date": "2026-11-01",
+    "name": "Iron Maiden — 2da fecha Estadio Nacional (1 nov)",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Iron Maiden cierra su Run For Your Lives World Tour con una segunda fecha en el Estadio Nacional de Santiago el 1 de noviembre. Uno de los eventos de rock más grandes del año en Chile.",
+    "sources": [
+      {
+        "title": "Conciertos Chile noviembre 2026 — Prensa Eventos",
+        "url": "https://prensaeventos.cl/recitales-conciertos-chile-2026/"
+      },
+      {
+        "title": "Calendario conciertos LATAM 2026-2027 — Gira2027",
+        "url": "https://gira2027.com/calendario-conciertos-2027/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-894362",
+    "date": "2026-11-01",
+    "name": "Opeth — Movistar Arena Santiago (1 nov)",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Opeth se presenta el 1 de noviembre en el Movistar Arena de Santiago, en la misma semana que Iron Maiden en el Estadio Nacional. Una semana de heavy metal histórica para Chile.",
+    "sources": [
+      {
+        "title": "Conciertos Chile noviembre 2026 — Prensa Eventos",
+        "url": "https://prensaeventos.cl/recitales-conciertos-chile-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-185246",
+    "date": "2026-11-02",
+    "name": "Día de Muertos — pico cultural México",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El 1 y 2 de noviembre son el Día de Muertos en México, una de las fechas culturales más importantes del año. TikTok, Reels y todas las plataformas se llenan de ofrendas, altares y contenido tradicional. También resonante en Centro y Sudamérica.",
+    "sources": []
+  },
+  {
+    "id": "dyn-462846",
+    "date": "2026-11-02",
+    "name": "Lewis OfMan — concierto Bogotá (2 nov) + buzz digital",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Lewis OfMan se presenta el 2 de noviembre en el Vive Claro Distrito Cultural de Bogotá. El artista francés de nu-disco genera alto engagement digital entre jóvenes de 20-32 años en Colombia.",
+    "sources": [
+      {
+        "title": "Conciertos Colombia noviembre 2026 — Ticketmaster.co",
+        "url": "https://www.ticketmaster.co/page/CONCIERTOS"
+      }
+    ]
+  },
+  {
+    "id": "dyn-490261",
+    "date": "2026-11-04",
+    "name": "María Becerra en Lima — 4 nov (Costa 21)",
+    "countries": [
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "María Becerra se presenta el 4 de noviembre en Costa 21, Lima, como parte de su gira latinoamericana. Uno de los shows más esperados del pop argentino en Perú este año.",
+    "sources": [
+      {
+        "title": "Calendario conciertos LATAM noviembre 2026 — Gira2027",
+        "url": "https://gira2027.com/calendario-conciertos-2027/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-265117",
+    "date": "2026-11-05",
+    "name": "Saramalacara — Mataderos World Tour, Bogotá (5 nov)",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Saramalacara se presenta el 5 de noviembre en el Coliseo MedPlus de Bogotá con su Mataderos World Tour. Primer concierto internacional destacado de la semana del 2 de noviembre en Colombia.",
+    "sources": [
+      {
+        "title": "Conciertos Colombia noviembre 2026 — Ticketmaster.co",
+        "url": "https://www.ticketmaster.co/page/CONCIERTOS"
+      }
+    ]
+  },
+  {
+    "id": "dyn-75246",
+    "date": "2026-11-06",
+    "name": "Netflix noviembre — Un amor posible & Gordon",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Netflix renueva su catálogo el 6 de noviembre con 'Un amor posible' del director surcoreano Lee Chang-dong, y el 12 con la temporada final de 'La emperatriz'. El 18 llega 'Gordon', miniserie argentina con Rodrigo de la Serna sobre el criminal Aníbal Gordon durante la última dictadura.",
+    "sources": [
+      {
+        "title": "Netflix estrenos noviembre 2026 — El Destape",
+        "url": "https://www.eldestapeweb.com/cultura/ultimo-netflix-7-estrenos-noviembre-2026-20261026142856"
+      },
+      {
+        "title": "Netflix anuncia 7 estrenos noviembre 2026 — Radio Rafaela",
+        "url": "https://radiorafaela.com.ar/espectaculos/netflix-anuncio-los-siete-estrenos-mas-esperados-para-noviembre-de-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-587801",
+    "date": "2026-11-06",
+    "name": "Social Distortion en CDMX — 6 nov",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "Social Distortion se presenta el 6 de noviembre en el Velódromo Olímpico de la CDMX, en uno de los shows punk más importantes del mes en México.",
+    "sources": [
+      {
+        "title": "Conciertos noviembre México 2026 — Sopitas",
+        "url": "https://www.sopitas.com/musica/comienza-agenda-conciertos-para-2026-mexico/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-962729",
+    "date": "2026-11-18",
+    "name": "Gordon — Netflix Argentina (18 nov) — repercusión en BR",
+    "countries": [
+      "BR"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La miniserie argentina 'Gordon' protagonizada por Rodrigo de la Serna se estrena el 18 de noviembre en Netflix. El relato sobre Aníbal Gordon durante la dictadura cívico-militar conecta con audiencias sudamericanas interesadas en historia reciente.",
+    "sources": [
+      {
+        "title": "Netflix estrenos noviembre 2026 — Espinof",
+        "url": "https://www.espinof.com/listas/7-estrenos-imprescindibles-netflix-noviembre-2026-pelicula-belica-grande-ano-temporada-final-series-vistas-plataforma"
+      }
+    ]
+  },
+  {
+    "id": "dyn-151957",
+    "date": "2026-11-21",
+    "name": "Copa Sudamericana Final — Atlético Mineiro vs. Boca (21 nov)",
+    "countries": [
+      "UY"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La final de la Copa Sudamericana 2026 se jugará el 21 de noviembre en el Estadio Metropolitano Roberto Meléndez de Barranquilla (Colombia). Los finalistas ya están definidos: Atlético Mineiro y Boca Juniors. Uruguay sigue de cerca el torneo con City Torque eliminado en semifinales.",
+    "sources": [
+      {
+        "title": "Copa Sudamericana 2026 — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Copa_Sudamericana"
+      },
+      {
+        "title": "Copa Sudamericana 2026 fixture — CanchaLlena",
+        "url": "https://canchallena.lanacion.com.ar/futbol/copa-sudamericana/"
+      }
+    ]
+  },
+  {
     "id": "dyn-613798",
     "date": "2026-11-28",
     "name": "Final Copa Libertadores 2026 en Montevideo — el horizonte continental",
@@ -4278,6 +4806,55 @@
       {
         "title": "CONMEBOL define calendário das provas continentais 2026 — Soccerway PT",
         "url": "https://pt.soccerway.com/noticias/futebol-taca-dos-libertadores-conmebol-define-calendario-das-provas-continentais-em-2026/l0Dr6tKM"
+      }
+    ]
+  },
+  {
+    "id": "dyn-684459",
+    "date": "2026-11-28",
+    "name": "Copa Libertadores Final — Palmeiras vs. Estudiantes (28 nov)",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La final de la Copa Libertadores 2026 se jugará el 28 de noviembre en el Estadio Centenario de Montevideo. Palmeiras ya está clasificado; el rival se define tras la semifinal Flamengo vs. Estudiantes de La Plata.",
+    "sources": [
+      {
+        "title": "Final Copa Libertadores 2026 — El Universo",
+        "url": "https://www.eluniverso.com/deportes/futbol/cuando-y-donde-se-jugara-la-final-de-la-copa-libertadores-2026/"
+      },
+      {
+        "title": "Copa Libertadores 2026 — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Copa_Libertadores"
+      }
+    ]
+  },
+  {
+    "id": "dyn-620901",
+    "date": "2026-11-28",
+    "name": "Final Copa Libertadores en Montevideo — anticipación (28 nov)",
+    "countries": [
+      "UY"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El Estadio Centenario de Montevideo será sede de la final de la Copa Libertadores 2026 el 28 de noviembre (Palmeiras vs. el ganador de Flamengo-Estudiantes). Uruguay se convierte en el centro del fútbol sudamericano este mes.",
+    "sources": [
+      {
+        "title": "Final Copa Libertadores 2026 — El Universo",
+        "url": "https://www.eluniverso.com/deportes/futbol/cuando-y-donde-se-jugara-la-final-de-la-copa-libertadores-2026/"
+      },
+      {
+        "title": "Copa Libertadores 2026 — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_Copa_Libertadores"
       }
     ]
   }
