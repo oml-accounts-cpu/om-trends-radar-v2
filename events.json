@@ -4839,6 +4839,30 @@
     ]
   },
   {
+    "id": "dyn-674159",
+    "date": "2026-11-03",
+    "name": "BOM — Lali + Miranda! lanzan 'Bailar o Morir'",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "Lali y Miranda! presentaron el 3 de noviembre 'Bailar o morir', el primer álbum de BOM, con diez canciones electro-pop; viral en Argentina y toda LATAM.",
+    "sources": [
+      {
+        "title": "Qué escuchar esta semana: BOM, Gauchito Club, Don Osvaldo y más lanzamientos",
+        "url": "https://www.mdzol.com/mdz-show/2026/11/8/que-escuchar-esta-semana-bom-gauchito-club-don-osvaldo-y-mas-lanzamientos-1993547.html"
+      }
+    ]
+  },
+  {
     "id": "dyn-490261",
     "date": "2026-11-04",
     "name": "María Becerra en Lima — 4 nov (Costa 21)",
@@ -5095,6 +5119,40 @@
     ]
   },
   {
+    "id": "dyn-368302",
+    "date": "2026-11-07",
+    "name": "Boca campeón tabla anual — memes virales en X",
+    "countries": [
+      "BR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Boca Juniors ganó 1-0 a Defensa el 7-nov con gol de Enner Valencia en el 95', desatando una ola de memes contra Rosario Central (Eric Grennon) que coló X.",
+    "sources": [
+      {
+        "title": "Memes: Boca salió campeón y las redes estallaron como siempre",
+        "url": "https://www.eldestapeweb.com/deportes/boca-salio-campeon-redes-estallaron-mejores-memes-2026117201644"
+      }
+    ]
+  },
+  {
+    "id": "dyn-425097",
+    "date": "2026-11-07",
+    "name": "Meme 'Eric Grennon / Rosario Central festejó antes' viral",
+    "countries": [
+      "AR"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Un hincha de Central festejó el bicampeonato antes de tiempo; Boca ganó en el 95'. El video y los memes coparon X (Twitter) el 7-8 de noviembre.",
+    "sources": [
+      {
+        "title": "El hincha de Rosario Central que fue meme por festejar 'Somos Bicampeones' antes de tiempo",
+        "url": "https://www.cronica.com.ar/depo/actualidad/eric-grennon-meme-festejo-central-amenazas/"
+      }
+    ]
+  },
+  {
     "id": "dyn-544098",
     "date": "2026-11-08",
     "name": "Papa León XIV llega a Argentina (8-11 nov)",
@@ -5108,6 +5166,85 @@
       {
         "title": "El papa León XIV visitará la Argentina del 8 al 11 de noviembre con una agenda multitudinaria",
         "url": "https://misionesonline.net/2026/11/02/l-papa-leon-xiv-visitara-la-argentina/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-482877",
+    "date": "2026-11-08",
+    "name": "City of God: The Fight Rages On T2 — estreno HBO Max",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La segunda temporada de la serie Ciudad de Dios (HBO Max) se estrena el 8 de noviembre; la franquicia es especialmente relevante en Brasil y LATAM.",
+    "sources": [
+      {
+        "title": "Todos los estrenos de noviembre 2026: Netflix, HBO Max, Prime Video, Disney+",
+        "url": "https://cnnespanol.cnn.com/2026/10/30/entretenimiento/estrenos-streaming-noviembre-2026-netflix-hbo-orix"
+      },
+      {
+        "title": "Estrenos Netflix, HBO Max, Prime Video y Disney+ del 6 al 8 de noviembre",
+        "url": "https://actualtv.es/estrenos-netflix-hbo-max-prime-video-disney-6-8-noviembre-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-302028",
+    "date": "2026-11-09",
+    "name": "IPC octubre Colombia — DANE publica inflación",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El DANE divulga el IPC de octubre el 9 de noviembre; expertos anticipan 6,37%, superior al 6,29% de septiembre, lo que presiona el peso y los precios.",
+    "sources": [
+      {
+        "title": "Dólar hoy en Colombia: arranca la semana al alza",
+        "url": "https://www.portafolio.co/economia/finanzas/dolar-hoy-en-colombia-arranca-la-semana-al-alza-y-expertos-anticipan-movimientos-entre-3-190-y-3-505959"
+      }
+    ]
+  },
+  {
+    "id": "dyn-496325",
+    "date": "2026-11-09",
+    "name": "Memes Canelo Angulo — bolsa de 25 mil pesos",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El futbolista de Toluca Canelo Angulo denunció el robo y recuperación de una bolsa valuada en 25 mil pesos; el 9-nov los memes invadieron las redes mexicanas.",
+    "sources": [
+      {
+        "title": "MEMES se burlan del Canelo Angulo tras recuperar lujosa bolsa de 25 mil pesos en Toluca",
+        "url": "https://heraldodemexico.com.mx/deportes/2026/11/9/memes-se-burlan-del-canelo-angulo-tras-recuperar-lujosa-bolsa-de-25-mil-pesos-en-toluca-2913069.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-530346",
+    "date": "2026-11-09",
+    "name": "Memes Escape alcalde Río Bravo — viral México",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La historia del alcalde de Río Bravo que escapó a pie tras ser privado de su libertad generó una ola de memes el 9 de noviembre sobre su 'resistencia física'.",
+    "sources": [
+      {
+        "title": "Escape del alcalde de Río Bravo desata lluvia de memes",
+        "url": "https://horacero.com.mx/viral/escape-del-alcalde-memes"
       }
     ]
   },
@@ -5142,6 +5279,23 @@
       {
         "title": "Giras y conciertos anunciados en México para 2026 — Billboard",
         "url": "https://www.billboard.com/lists/conciertos-giras-mexico-2026/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-893015",
+    "date": "2026-11-10",
+    "name": "COP31 — Brasil transfiere presidencia en Antalya",
+    "countries": [
+      "BR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El presidente Lula viaja a Turquía del 10 al 12-nov para la cumbre de líderes de la COP31, donde Brasil cede la presidencia; semana de alto impacto en agenda climática y medios.",
+    "sources": [
+      {
+        "title": "Previsiones principales de la semana del 8 al 14 de noviembre de 2026",
+        "url": "https://www.prensa-latina.cu/2026/11/07/previsiones-principales-de-la-semana-del-8-al-14-de-noviembre-de-2026/"
       }
     ]
   },
@@ -5211,6 +5365,61 @@
     ]
   },
   {
+    "id": "dyn-210557",
+    "date": "2026-11-11",
+    "name": "Semana Internacional do Café 2026 — Belo Horizonte",
+    "countries": [
+      "BR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Del 11 al 13 de noviembre, Expominas BH recibe el mayor encuentro de café de Brasil, con +200 marcas, debates sobre IA, clima y los 300 años del café en Brasil.",
+    "sources": [
+      {
+        "title": "SIC 2026 reúne setor do café em BH para debater clima, tecnologia e exigências do mercado global",
+        "url": "https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/sic-2026-reune-setor-do-cafe-em-bh-para-debater-clima-tecnologia-e-exigencias-do-mercado-global"
+      },
+      {
+        "title": "Semana Internacional do Café 2026",
+        "url": "https://semanainternacionaldocafe.com.br/en/home/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-434280",
+    "date": "2026-11-11",
+    "name": "Cris MJ en Bogotá — Movistar Arena",
+    "countries": [
+      "CO"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "El artista urbano chileno se presenta el 11 de noviembre en el Movistar Arena de Bogotá, con alta expectativa de público joven.",
+    "sources": [
+      {
+        "title": "Conciertos en Colombia en noviembre de 2026: fechas y artistas",
+        "url": "https://www.radionica.rocks/noticias/conciertos-colombia-noviembre-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-277562",
+    "date": "2026-11-11",
+    "name": "ANSES — pagos noviembre 2026 arrancan semana",
+    "countries": [
+      "AR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El cronograma ANSES inicia pagos por terminación de DNI a partir del 11-13 de noviembre; millones de beneficiarios esperan el cobro.",
+    "sources": [
+      {
+        "title": "ANSES: Este es el cronograma de pago de noviembre 2026",
+        "url": "https://calcularsueldo.com.ar/anses/16276/anses-este-es-el-cronograma-de-pago-de-noviembre-2026.html"
+      }
+    ]
+  },
+  {
     "id": "dyn-553039",
     "date": "2026-11-12",
     "name": "Latin Grammy 2026 — Semana Grammy",
@@ -5248,6 +5457,30 @@
       {
         "title": "Agenda de Recitales en Argentina — Indiehoy",
         "url": "https://indiehoy.com/eventos/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-242238",
+    "date": "2026-11-12",
+    "name": "La Emperatriz T3 — Netflix",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La tercera y última temporada de la exitosa serie alemana sobre Sisi se estrena el 12 de noviembre en Netflix; es tendencia en múltiples países LATAM.",
+    "sources": [
+      {
+        "title": "Los estrenos más destacados de la semana para ver en Netflix, HBO Max, Prime Video y más",
+        "url": "https://www.quever.news/series/2026/11/9/los-estrenos-mas-destacados-de-la-semana-para-ver-en-netflix-hbo-max-prime-video-y-mas-106211.html"
       }
     ]
   },
@@ -5299,6 +5532,179 @@
       {
         "title": "Conciertos y eventos en Lima en Noviembre 2026: agenda completa",
         "url": "https://ctxplorer.com/blog/eventos-en-lima-noviembre-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-497578",
+    "date": "2026-11-13",
+    "name": "Fecha FIFA noviembre 2026 — ventana internacional",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "Del 9 al 17 de noviembre todas las ligas LATAM pausan para selecciones: México vs Jamaica (14 y 17-nov), Colombia vs Chile (13 y 17-nov), Ecuador vs Costa Rica (13-nov) y más.",
+    "sources": [
+      {
+        "title": "Fecha FIFA del 9 al 17 de noviembre 2026: agenda de partidos",
+        "url": "https://www.clarosports.com/futbol/fecha-fifa-del-9-al-17-de-noviembre-2026-agenda-de-partidos-eliminatorias-y-cuando-juega-mexico/"
+      },
+      {
+        "title": "Latin American Teams in the November 2026 FIFA Window",
+        "url": "https://www.riotimesonline.com/latin-america-fifa-window-november-2026-fixtures"
+      }
+    ]
+  },
+  {
+    "id": "dyn-273664",
+    "date": "2026-11-13",
+    "name": "Colombia vs Chile — Fecha FIFA Cali",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La Selección Colombia enfrenta a Chile el 13 de noviembre en el Pascual Guerrero de Cali (7pm), en la última doble fecha FIFA de 2026.",
+    "sources": [
+      {
+        "title": "Cuándo y dónde ver EN VIVO Colombia vs Chile en fecha FIFA de noviembre",
+        "url": "https://www.noticiascaracol.com/golcaracol/seleccion-colombia/cuando-y-donde-ver-en-vivo-en-tv-colombia-vs-chile-en-fecha-fifa-de-noviembre-horarios-confirmados-so35"
+      },
+      {
+        "title": "Selección Colombia inicia concentración en Cali para los amistosos ante Chile",
+        "url": "https://www.pulzo.com/deportes/futbol/seleccion-colombia-vs-chile-fechas-y-sedes-de-los-amistosos-en-cali-y-santiago-2026-PP5352310A"
+      }
+    ]
+  },
+  {
+    "id": "dyn-663970",
+    "date": "2026-11-13",
+    "name": "Quincena México — se adelanta al 13-nov (viernes)",
+    "countries": [
+      "MX"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La 1ª quincena de noviembre se adelanta al viernes 13 porque el 15 cae en domingo; millones de trabajadores reciben su pago este viernes.",
+    "sources": [
+      {
+        "title": "Cuándo es Quincena: La Próxima se Paga el 13 de noviembre de 2026",
+        "url": "https://calendariodemexico.com/cuando-es-quincena/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-617884",
+    "date": "2026-11-13",
+    "name": "Ecuador vs Costa Rica — Fecha FIFA Quito",
+    "countries": [
+      "EC"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La Tri de Marcelo Gallardo (que incluyó a Kendry Páez del Chelsea sub-21) enfrenta a Costa Rica el 13-nov a las 19:00 en el Estadio Olímpico Atahualpa de Quito.",
+    "sources": [
+      {
+        "title": "Partidos amistosos de Ecuador en la fecha FIFA de noviembre 2026",
+        "url": "https://www.eluniverso.com/deportes/futbol/partidos-amistosos-de-ecuador-que-se-juegan-esta-semana-por-la-fecha-fifa-de-noviembre-2026-nota/"
+      },
+      {
+        "title": "Latin American Teams in the November 2026 FIFA Window",
+        "url": "https://www.riotimesonline.com/latin-america-fifa-window-november-2026-fixtures"
+      }
+    ]
+  },
+  {
+    "id": "dyn-407065",
+    "date": "2026-11-13",
+    "name": "Scrooge y los fantasmas de la Navidad — estreno cine",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "La película de Ti West con Johnny Depp como Scrooge se estrena el 13 de noviembre en salas de LATAM; arranca la temporada navideña de cine.",
+    "sources": [
+      {
+        "title": "Películas más esperadas — SensaCine",
+        "url": "https://www.sensacine.com/peliculas/estrenos/mas-esperadas/"
+      },
+      {
+        "title": "Estrenos de cine en noviembre de 2026: Godzilla, Los juegos del hambre y más",
+        "url": "https://www.mundiario.com/cineseries/estrenos-cine-noviembre-2026-godzilla-juegos-hambre-mas-peliculas/20261101233348450384.html"
+      }
+    ]
+  },
+  {
+    "id": "dyn-782068",
+    "date": "2026-11-13",
+    "name": "Wild Horse Nine — estreno cine LATAM 13-nov",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "estreno",
+    "impact": "medio",
+    "description": "El thriller de Martin McDonagh con Sam Rockwell, John Malkovich y Steve Buscemi, ambientado en la Isla de Pascua y el golpe chileno de 1973, se estrena el 13-nov.",
+    "sources": [
+      {
+        "title": "Películas más esperadas — SensaCine",
+        "url": "https://www.sensacine.com/peliculas/estrenos/mas-esperadas/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-364560",
+    "date": "2026-11-13",
+    "name": "Noche de Museos Bogotá — 13 noviembre",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La Noche Iberoamericana de Museos 2026 se celebra el 13 de noviembre en Bogotá con entrada libre en múltiples escenarios, incluyendo la Galería Santa Fe.",
+    "sources": [
+      {
+        "title": "Agenda Cultural de Bogotá — Bogotá.gov.co",
+        "url": "https://bogota.gov.co/que-hacer/agenda-cultural"
+      }
+    ]
+  },
+  {
+    "id": "dyn-486143",
+    "date": "2026-11-13",
+    "name": "Renta Ciudadana — giros del 13 al 28 nov",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Prosperidad Social inicia desembolsos del quinto ciclo desde el 13-nov; beneficiarios que no retiren entre el 13 y 28 pierden el beneficio.",
+    "sources": [
+      {
+        "title": "Prosperidad Social confirma las fechas para el quinto ciclo de pagos de Renta Ciudadana 2026",
+        "url": "https://www.eltiempo.com/amp/economia/finanzas-personales/prosperidad-social-confirma-las-fechas-para-el-quinto-ciclo-de-pagos-de-renta-ciudadana-2026-y-compensacion-del-iva-3599368"
       }
     ]
   },
@@ -5371,6 +5777,108 @@
     ]
   },
   {
+    "id": "dyn-876301",
+    "date": "2026-11-16",
+    "name": "Fiestas de la Independencia de Cartagena — 16-nov festivo",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "El lunes 16 es festivo nacional; Cartagena celebra con agenda cultural, gastronómica y el Reinado Intercorregimental. Puente de 3 días para todo el país.",
+    "sources": [
+      {
+        "title": "Después del 2 de noviembre quedan dos festivos en 2026 en Colombia",
+        "url": "https://www.colombia.com/turismo/noticias/proximos-festivos-en-colombia-cuando-cae-el-de-noviembre-ya-609956"
+      }
+    ]
+  },
+  {
+    "id": "dyn-417414",
+    "date": "2026-11-17",
+    "name": "Chile vs Colombia — Amistoso FIFA Santiago",
+    "countries": [
+      "CL"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La Roja de Nicolás Córdova recibe a Colombia el martes 17 de noviembre en el Estadio Nacional de Santiago (20:00 hrs locales).",
+    "sources": [
+      {
+        "title": "Chile vs Colombia: Fecha y hora del amistoso de La Roja",
+        "url": "https://www.tvn.cl/deportes/la-roja/chile-vs-colombia-fecha-y-hora-del-amistoso-de-la-roja"
+      }
+    ]
+  },
+  {
+    "id": "dyn-763177",
+    "date": "2026-11-17",
+    "name": "Gorillaz en Bogotá — Coliseo MedPlus 17-nov",
+    "countries": [
+      "CO"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Gorillaz se presenta el 17 de noviembre en el Coliseo MedPlus de Bogotá, días antes de encabezar el Corona Capital en CDMX.",
+    "sources": [
+      {
+        "title": "Conciertos en Colombia en noviembre de 2026: fechas y artistas",
+        "url": "https://www.radionica.rocks/noticias/conciertos-colombia-noviembre-2026"
+      }
+    ]
+  },
+  {
+    "id": "dyn-295678",
+    "date": "2026-11-17",
+    "name": "The Lemon Twigs en Argentina — 17-nov",
+    "countries": [
+      "AR"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "La banda neoyorkina se presenta el martes 17 de noviembre en Argentina, según la agenda confirmada de Indiehoy.",
+    "sources": [
+      {
+        "title": "Agenda de Recitales en Argentina — Indiehoy",
+        "url": "https://indiehoy.com/eventos/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-688043",
+    "date": "2026-11-17",
+    "name": "Mon Laferte — Monterrey 17-nov",
+    "countries": [
+      "MX"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La cantautora chileno-mexicana se presenta el lunes 17 de noviembre en Monterrey, según la guía de conciertos de CTXplorer.",
+    "sources": [
+      {
+        "title": "Próximos conciertos en México 2026: Guía completa (jul-dic) por mes y recinto",
+        "url": "https://ctxplorer.com/blog/circuito-conciertos-mexico-2026-giras-internacionales"
+      }
+    ]
+  },
+  {
+    "id": "dyn-187595",
+    "date": "2026-11-17",
+    "name": "Ecuador vs Bolivia — Fecha FIFA Guayaquil 17-nov",
+    "countries": [
+      "EC"
+    ],
+    "category": "concierto",
+    "impact": "medio",
+    "description": "La Tri recibe a Bolivia el martes 17 de noviembre a las 18:30 en el Estadio Monumental Banco Pichincha de Guayaquil.",
+    "sources": [
+      {
+        "title": "Partidos amistosos de Ecuador en la fecha FIFA de noviembre 2026",
+        "url": "https://www.eluniverso.com/deportes/futbol/partidos-amistosos-de-ecuador-que-se-juegan-esta-semana-por-la-fecha-fifa-de-noviembre-2026-nota/"
+      }
+    ]
+  },
+  {
     "id": "dyn-962729",
     "date": "2026-11-18",
     "name": "Gordon — Netflix Argentina (18 nov) — repercusión en BR",
@@ -5384,6 +5892,23 @@
       {
         "title": "Netflix estrenos noviembre 2026 — Espinof",
         "url": "https://www.espinof.com/listas/7-estrenos-imprescindibles-netflix-noviembre-2026-pelicula-belica-grande-ano-temporada-final-series-vistas-plataforma"
+      }
+    ]
+  },
+  {
+    "id": "dyn-739415",
+    "date": "2026-11-18",
+    "name": "Las Alucines en Lima — 18-nov",
+    "countries": [
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Las Alucines se presentan el miércoles 18 de noviembre en Lima, confirmado por Joinnus.",
+    "sources": [
+      {
+        "title": "Conciertos Perú 2026: Los shows que no te puedes perder en noviembre",
+        "url": "https://blog.joinnus.com/conciertos-peru-2026-los-shows-que-no-te-puedes-perder-en-noviembre/"
       }
     ]
   },
@@ -5408,6 +5933,75 @@
       {
         "title": "Top tendencias de TikTok esta semana en Latinoamérica — Milenio",
         "url": "https://www.milenio.com/virales/estas-son-tendencias-tiktok-15-21-noviembre-latinoamerica"
+      }
+    ]
+  },
+  {
+    "id": "dyn-339118",
+    "date": "2026-11-20",
+    "name": "Corona Capital 2026 — CDMX 20-22 nov",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "trend",
+    "impact": "medio",
+    "description": "Gorillaz, Twenty One Pilots y The Strokes encabezan las 3 jornadas en el Autódromo Hermanos Rodríguez; +60 artistas de alternative rock, indie y electrónica.",
+    "sources": [
+      {
+        "title": "Gorillaz, The Strokes & Twenty One Pilots Set To Headline Corona Capital 2026",
+        "url": "https://www.jambase.com/article/corona-capital-2026-lineup"
+      },
+      {
+        "title": "Corona Capital 2026 Lineup — November 20-22",
+        "url": "https://routenote.com/radar/corona-capital-2026-lineup-gorillaz-the-strokes-twenty-one-pilots-and-more/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-203381",
+    "date": "2026-11-20",
+    "name": "Regreso ligas de fútbol post-Fecha FIFA",
+    "countries": [
+      "BR",
+      "CO",
+      "AR",
+      "MX",
+      "CL",
+      "UY",
+      "EC",
+      "PE"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "A partir del 20-21 de noviembre regresan LaLiga, Premier League, Bundesliga, Serie A y la Jornada 17 del Apertura 2026 de Liga MX; el fútbol de clubes vuelve con fuerza.",
+    "sources": [
+      {
+        "title": "Fecha FIFA noviembre 2026: cuándo vuelve la Liga MX y el fútbol europeo",
+        "url": "https://www.clarosports.com/us/fecha-fifa-de-noviembre-cuando-regresan-la-liga-mx-y-el-futbol-europeo/"
+      }
+    ]
+  },
+  {
+    "id": "dyn-762472",
+    "date": "2026-11-20",
+    "name": "Jornada 17 Apertura 2026 Liga MX — regreso post-Fecha FIFA",
+    "countries": [
+      "MX"
+    ],
+    "category": "deporte",
+    "impact": "medio",
+    "description": "La Liga MX vuelve el viernes 20-nov con la Jornada 17; Puebla vs Atlético de San Luis, Tijuana vs Atlante y FC Juárez vs Atlas abren el regreso.",
+    "sources": [
+      {
+        "title": "Fecha FIFA noviembre 2026: cuándo vuelve la Liga MX y el fútbol europeo",
+        "url": "https://www.clarosports.com/us/fecha-fifa-de-noviembre-cuando-regresan-la-liga-mx-y-el-futbol-europeo/"
       }
     ]
   },
